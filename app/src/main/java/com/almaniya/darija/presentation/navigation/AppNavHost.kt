@@ -28,6 +28,8 @@ import com.almaniya.darija.presentation.screens.search.SearchViewModel
 import com.almaniya.darija.presentation.screens.settings.SettingsScreen
 import com.almaniya.darija.presentation.screens.settings.SettingsViewModel
 import com.almaniya.darija.utils.SpeechHelper
+import com.almaniya.darija.presentation.screens.topic.TopicViewModel
+import com.almaniya.darija.presentation.screens.topic.TopicDetailScreen
 
 @Composable
 fun AppNavHost(
