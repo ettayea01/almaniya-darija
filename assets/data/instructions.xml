@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>Keep!</string>
+		<key>german</key>
+		<string>Behalte! (informal), Behalten Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-1</string>
+		<key>german-sound</key>
+		<string>instructions-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Keep it.</string>
+		<key>german</key>
+		<string>Behalte es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-2</string>
+		<key>german-sound</key>
+		<string>instructions-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Take!</string>
+		<key>german</key>
+		<string>Nimm! (informal), Nehmen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-3</string>
+		<key>german-sound</key>
+		<string>instructions-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Take it.</string>
+		<key>german</key>
+		<string>Nimm es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-4</string>
+		<key>german-sound</key>
+		<string>instructions-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have!</string>
+		<key>german</key>
+		<string>Hab! (informal), Haben Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-5</string>
+		<key>german-sound</key>
+		<string>instructions-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have it.</string>
+		<key>german</key>
+		<string>Habe es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-6</string>
+		<key>german-sound</key>
+		<string>instructions-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wash!</string>
+		<key>german</key>
+		<string>Wasche! (informal), Waschen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-7</string>
+		<key>german-sound</key>
+		<string>instructions-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wash it.</string>
+		<key>german</key>
+		<string>Es waschen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-8</string>
+		<key>german-sound</key>
+		<string>instructions-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Clean!</string>
+		<key>german</key>
+		<string>Reinige! (informal), Reinigen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-9</string>
+		<key>german-sound</key>
+		<string>instructions-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Answer!</string>
+		<key>german</key>
+		<string>Antworte! (informal), Antworten Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-10</string>
+		<key>german-sound</key>
+		<string>instructions-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Give me an answer.</string>
+		<key>german</key>
+		<string>Gib mir eine Antwort.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-11</string>
+		<key>german-sound</key>
+		<string>instructions-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Leave!</string>
+		<key>german</key>
+		<string>Verlass! (informal), Verlassen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-12</string>
+		<key>german-sound</key>
+		<string>instructions-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Leave me.</string>
+		<key>german</key>
+		<string>Verlasse mich.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-13</string>
+		<key>german-sound</key>
+		<string>instructions-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Think!</string>
+		<key>german</key>
+		<string>Denk! (informal), Denken Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-14</string>
+		<key>german-sound</key>
+		<string>instructions-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Think about it.</string>
+		<key>german</key>
+		<string>Denk darüber nach.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-15</string>
+		<key>german-sound</key>
+		<string>instructions-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Find!</string>
+		<key>german</key>
+		<string>Finde! (informal), Finden Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-16</string>
+		<key>german-sound</key>
+		<string>instructions-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Find it.</string>
+		<key>german</key>
+		<string>Finde es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-17</string>
+		<key>german-sound</key>
+		<string>instructions-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Repeat!</string>
+		<key>german</key>
+		<string>Wiederhole! (informal), Wiederholen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-18</string>
+		<key>german-sound</key>
+		<string>instructions-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Repeat it.</string>
+		<key>german</key>
+		<string>Wiederhole es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-19</string>
+		<key>german-sound</key>
+		<string>instructions-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Ask!</string>
+		<key>german</key>
+		<string>Frage! (informal), Fragen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-20</string>
+		<key>german-sound</key>
+		<string>instructions-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Ask me.</string>
+		<key>german</key>
+		<string>Frage mich.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-21</string>
+		<key>german-sound</key>
+		<string>instructions-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Come!</string>
+		<key>german</key>
+		<string>Komm! (informal), Kommen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-22</string>
+		<key>german-sound</key>
+		<string>instructions-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Come here.</string>
+		<key>german</key>
+		<string>Komm her.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-23</string>
+		<key>german-sound</key>
+		<string>instructions-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Tell!</string>
+		<key>german</key>
+		<string>Erzähle! (informal), Erzählen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-24</string>
+		<key>german-sound</key>
+		<string>instructions-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tell me about yourself.</string>
+		<key>german</key>
+		<string>erzählen Sie mir über sich.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-25</string>
+		<key>german-sound</key>
+		<string>instructions-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stop!</string>
+		<key>german</key>
+		<string>Halt an! (informal), Halten Sie an! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-26</string>
+		<key>german-sound</key>
+		<string>instructions-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stop please.</string>
+		<key>german</key>
+		<string>Halten sie bitte an.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-27</string>
+		<key>german-sound</key>
+		<string>instructions-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Give!</string>
+		<key>german</key>
+		<string>Gib! (informal), Geben Sie!	 (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-28</string>
+		<key>german-sound</key>
+		<string>instructions-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Give me.</string>
+		<key>german</key>
+		<string>Gib mir.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-29</string>
+		<key>german-sound</key>
+		<string>instructions-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Give me back.</string>
+		<key>german</key>
+		<string>Gib mir zurück.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-30</string>
+		<key>german-sound</key>
+		<string>instructions-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Give it back.</string>
+		<key>german</key>
+		<string>Gib es zurück.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-31</string>
+		<key>german-sound</key>
+		<string>instructions-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Drop!</string>
+		<key>german</key>
+		<string>Lass fallen! (informal), Lassen Sie fallen! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-32</string>
+		<key>german-sound</key>
+		<string>instructions-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Drop it.</string>
+		<key>german</key>
+		<string>Lass es fallen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-33</string>
+		<key>german-sound</key>
+		<string>instructions-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go!</string>
+		<key>german</key>
+		<string>Geh! (informal), Gehen Sie (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-34</string>
+		<key>german-sound</key>
+		<string>instructions-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go away!</string>
+		<key>german</key>
+		<string>Gehen Sie weg!</string>
+		<key>english-sound</key>
+		<string>instructions-eng-35</string>
+		<key>german-sound</key>
+		<string>instructions-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go Now.</string>
+		<key>german</key>
+		<string>Geh jetzt.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-36</string>
+		<key>german-sound</key>
+		<string>instructions-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go there.</string>
+		<key>german</key>
+		<string>Geh dorthin.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-37</string>
+		<key>german-sound</key>
+		<string>instructions-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wake up!</string>
+		<key>german</key>
+		<string>Wach auf! (informal), Wachen Sie auf! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-38</string>
+		<key>german-sound</key>
+		<string>instructions-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wake up now.</string>
+		<key>german</key>
+		<string>Wach jetzt auf.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-39</string>
+		<key>german-sound</key>
+		<string>instructions-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sleep!</string>
+		<key>german</key>
+		<string>Schlaf! (informal), Schlafen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-40</string>
+		<key>german-sound</key>
+		<string>instructions-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sleep now.</string>
+		<key>german</key>
+		<string>Schlaf jetzt.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-41</string>
+		<key>german-sound</key>
+		<string>instructions-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Run!</string>
+		<key>german</key>
+		<string>Lauf! (informal), Laufen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-42</string>
+		<key>german-sound</key>
+		<string>instructions-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Run now.</string>
+		<key>german</key>
+		<string>Lauf jetzt.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-43</string>
+		<key>german-sound</key>
+		<string>instructions-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Speak!</string>
+		<key>german</key>
+		<string>Sprich! (informal), Sprechen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-44</string>
+		<key>german-sound</key>
+		<string>instructions-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Speak now.</string>
+		<key>german</key>
+		<string>Sprich jetzt.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-45</string>
+		<key>german-sound</key>
+		<string>instructions-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Pick up!</string>
+		<key>german</key>
+		<string>Heb auf! (informal), Heben Sie auf! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-46</string>
+		<key>german-sound</key>
+		<string>instructions-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Make!</string>
+		<key>german</key>
+		<string>Mach! (informal), Machen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-47</string>
+		<key>german-sound</key>
+		<string>instructions-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Let!</string>
+		<key>german</key>
+		<string>Lass! (informal), Lassen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-48</string>
+		<key>german-sound</key>
+		<string>instructions-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Seek!</string>
+		<key>german</key>
+		<string>Suche! (informal), Suchen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-49</string>
+		<key>german-sound</key>
+		<string>instructions-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bring!</string>
+		<key>german</key>
+		<string>Bring! (informal), Bringen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-50</string>
+		<key>german-sound</key>
+		<string>instructions-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bring it.</string>
+		<key>german</key>
+		<string>Bring es.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-51</string>
+		<key>german-sound</key>
+		<string>instructions-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bring here.</string>
+		<key>german</key>
+		<string>Herbringen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-52</string>
+		<key>german-sound</key>
+		<string>instructions-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bring that.</string>
+		<key>german</key>
+		<string>Bring das.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-53</string>
+		<key>german-sound</key>
+		<string>instructions-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Continue!</string>
+		<key>german</key>
+		<string>Mach weiter! (informal), Machen Sie weiter! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-54</string>
+		<key>german-sound</key>
+		<string>instructions-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Forget!</string>
+		<key>german</key>
+		<string>Vergiss! (informal), Vergessen Sie! (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-55</string>
+		<key>german-sound</key>
+		<string>instructions-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Forget it! / Forget about it.</string>
+		<key>german</key>
+		<string>Vergiss es!</string>
+		<key>english-sound</key>
+		<string>instructions-eng-56</string>
+		<key>german-sound</key>
+		<string>instructions-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Be!</string>
+		<key>german</key>
+		<string>Sei! (informal), Seien Sie (formal)</string>
+		<key>english-sound</key>
+		<string>instructions-eng-57</string>
+		<key>german-sound</key>
+		<string>instructions-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not come.</string>
+		<key>german</key>
+		<string>Komm nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-58</string>
+		<key>german-sound</key>
+		<string>instructions-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not go.</string>
+		<key>german</key>
+		<string>Geh nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-59</string>
+		<key>german-sound</key>
+		<string>instructions-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>do not run.</string>
+		<key>german</key>
+		<string>renne nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-60</string>
+		<key>german-sound</key>
+		<string>instructions-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>do not stop.</string>
+		<key>german</key>
+		<string>halte nicht an.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-61</string>
+		<key>german-sound</key>
+		<string>instructions-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pick up the phone.</string>
+		<key>german</key>
+		<string>Telefon abheben.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-62</string>
+		<key>german-sound</key>
+		<string>instructions-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not drop.</string>
+		<key>german</key>
+		<string>Nicht fallen lassen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-63</string>
+		<key>german-sound</key>
+		<string>instructions-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not think.</string>
+		<key>german</key>
+		<string>Denke nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-64</string>
+		<key>german-sound</key>
+		<string>instructions-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not leave me.</string>
+		<key>german</key>
+		<string>Verlass mich nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-65</string>
+		<key>german-sound</key>
+		<string>instructions-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not speak.</string>
+		<key>german</key>
+		<string>Nicht sprechen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-66</string>
+		<key>german-sound</key>
+		<string>instructions-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not tell anyone.</string>
+		<key>german</key>
+		<string>Erzähle es nicht weiter.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-67</string>
+		<key>german-sound</key>
+		<string>instructions-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not keep.</string>
+		<key>german</key>
+		<string>Behalte es nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-68</string>
+		<key>german-sound</key>
+		<string>instructions-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not give up.</string>
+		<key>german</key>
+		<string>Gib nicht auf.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-69</string>
+		<key>german-sound</key>
+		<string>instructions-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not take it.</string>
+		<key>german</key>
+		<string>Nimm es nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-70</string>
+		<key>german-sound</key>
+		<string>instructions-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not take it personally.</string>
+		<key>german</key>
+		<string>Nimm es nicht persönlich.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-71</string>
+		<key>german-sound</key>
+		<string>instructions-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not ask.</string>
+		<key>german</key>
+		<string>Frag nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-72</string>
+		<key>german-sound</key>
+		<string>instructions-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not ask me.</string>
+		<key>german</key>
+		<string>Fragen Sie mich nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-73</string>
+		<key>german-sound</key>
+		<string>instructions-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not ask me again.</string>
+		<key>german</key>
+		<string>Frag mich nicht nochmal.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-74</string>
+		<key>german-sound</key>
+		<string>instructions-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not repeat.</string>
+		<key>german</key>
+		<string>Wiederhole nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-75</string>
+		<key>german-sound</key>
+		<string>instructions-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not answer.</string>
+		<key>german</key>
+		<string>Antworte nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-76</string>
+		<key>german-sound</key>
+		<string>instructions-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not answer me.</string>
+		<key>german</key>
+		<string>Antworte mir nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-77</string>
+		<key>german-sound</key>
+		<string>instructions-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not bring.</string>
+		<key>german</key>
+		<string>Bringe nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-78</string>
+		<key>german-sound</key>
+		<string>instructions-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not have.</string>
+		<key>german</key>
+		<string>Habe nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-79</string>
+		<key>german-sound</key>
+		<string>instructions-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not forget.</string>
+		<key>german</key>
+		<string>Nicht vergessen</string>
+		<key>english-sound</key>
+		<string>instructions-eng-80</string>
+		<key>german-sound</key>
+		<string>instructions-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not wash.</string>
+		<key>german</key>
+		<string>Nicht waschen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-81</string>
+		<key>german-sound</key>
+		<string>instructions-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not wake up.</string>
+		<key>german</key>
+		<string>Wach nicht auf.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-82</string>
+		<key>german-sound</key>
+		<string>instructions-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not wake me up.</string>
+		<key>german</key>
+		<string>Wecke mich nicht auf.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-83</string>
+		<key>german-sound</key>
+		<string>instructions-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not sleep.</string>
+		<key>german</key>
+		<string>Schlafe nicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-84</string>
+		<key>german-sound</key>
+		<string>instructions-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stand up. / Get up.</string>
+		<key>german</key>
+		<string>Aufstehen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-85</string>
+		<key>german-sound</key>
+		<string>instructions-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Get up! Time for work!</string>
+		<key>german</key>
+		<string>Aufstehen! Zeit für Arbeit!</string>
+		<key>english-sound</key>
+		<string>instructions-eng-86</string>
+		<key>german-sound</key>
+		<string>instructions-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stand up! Time for fun!</string>
+		<key>german</key>
+		<string>Aufstehen! Zeit für Spaß!</string>
+		<key>english-sound</key>
+		<string>instructions-eng-87</string>
+		<key>german-sound</key>
+		<string>instructions-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sit down.</string>
+		<key>german</key>
+		<string>Hinsetzen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-88</string>
+		<key>german-sound</key>
+		<string>instructions-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>take a seat.</string>
+		<key>german</key>
+		<string>Nimm Platz.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-89</string>
+		<key>german-sound</key>
+		<string>instructions-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>open your book.</string>
+		<key>german</key>
+		<string>öffne dein Buch</string>
+		<key>english-sound</key>
+		<string>instructions-eng-90</string>
+		<key>german-sound</key>
+		<string>instructions-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>read your book</string>
+		<key>german</key>
+		<string>lies dein Buch</string>
+		<key>english-sound</key>
+		<string>instructions-eng-91</string>
+		<key>german-sound</key>
+		<string>instructions-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>close your book.</string>
+		<key>german</key>
+		<string>schließe dein Buch.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-92</string>
+		<key>german-sound</key>
+		<string>instructions-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>listen to me.</string>
+		<key>german</key>
+		<string>Hör mir zu.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-93</string>
+		<key>german-sound</key>
+		<string>instructions-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>let me know.</string>
+		<key>german</key>
+		<string>Gib mir Bescheid.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-94</string>
+		<key>german-sound</key>
+		<string>instructions-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bring me.</string>
+		<key>german</key>
+		<string>Bring mir.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-95</string>
+		<key>german-sound</key>
+		<string>instructions-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>take this</string>
+		<key>german</key>
+		<string>Nimm das</string>
+		<key>english-sound</key>
+		<string>instructions-eng-96</string>
+		<key>german-sound</key>
+		<string>instructions-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>This is right</string>
+		<key>german</key>
+		<string>Dies ist richtig</string>
+		<key>english-sound</key>
+		<string>instructions-eng-97</string>
+		<key>german-sound</key>
+		<string>instructions-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>This is wrong</string>
+		<key>german</key>
+		<string>Das ist falsch</string>
+		<key>english-sound</key>
+		<string>instructions-eng-98</string>
+		<key>german-sound</key>
+		<string>instructions-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You will need ...</string>
+		<key>german</key>
+		<string>Du wirst brauchen ...</string>
+		<key>english-sound</key>
+		<string>instructions-eng-99</string>
+		<key>german-sound</key>
+		<string>instructions-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wash your hands.</string>
+		<key>german</key>
+		<string>Wasch deine Hände.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-100</string>
+		<key>german-sound</key>
+		<string>instructions-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wash your face.</string>
+		<key>german</key>
+		<string>Wasch dein Gesicht.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-101</string>
+		<key>german-sound</key>
+		<string>instructions-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fix it</string>
+		<key>german</key>
+		<string>repariere es</string>
+		<key>english-sound</key>
+		<string>instructions-eng-102</string>
+		<key>german-sound</key>
+		<string>instructions-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>look at me</string>
+		<key>german</key>
+		<string>Sieh mich an</string>
+		<key>english-sound</key>
+		<string>instructions-eng-103</string>
+		<key>german-sound</key>
+		<string>instructions-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>look here</string>
+		<key>german</key>
+		<string>Schau hie</string>
+		<key>english-sound</key>
+		<string>instructions-eng-104</string>
+		<key>german-sound</key>
+		<string>instructions-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>look there</string>
+		<key>german</key>
+		<string>Schau da</string>
+		<key>english-sound</key>
+		<string>instructions-eng-105</string>
+		<key>german-sound</key>
+		<string>instructions-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pay attention</string>
+		<key>german</key>
+		<string>Passt auf</string>
+		<key>english-sound</key>
+		<string>instructions-eng-106</string>
+		<key>german-sound</key>
+		<string>instructions-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Send me an email.</string>
+		<key>german</key>
+		<string>Schick mir eine E-mail</string>
+		<key>english-sound</key>
+		<string>instructions-eng-107</string>
+		<key>german-sound</key>
+		<string>instructions-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Switch it on.</string>
+		<key>german</key>
+		<string>Schalten Sie es ein</string>
+		<key>english-sound</key>
+		<string>instructions-eng-108</string>
+		<key>german-sound</key>
+		<string>instructions-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Switch it off.</string>
+		<key>german</key>
+		<string>Schalte es aus.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-109</string>
+		<key>german-sound</key>
+		<string>instructions-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Open the door</string>
+		<key>german</key>
+		<string>Öffne die Tür</string>
+		<key>english-sound</key>
+		<string>instructions-eng-110</string>
+		<key>german-sound</key>
+		<string>instructions-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Close the door</string>
+		<key>german</key>
+		<string>Schließe die Tür</string>
+		<key>english-sound</key>
+		<string>instructions-eng-111</string>
+		<key>german-sound</key>
+		<string>instructions-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Eat your food.</string>
+		<key>german</key>
+		<string>Iss dein Essen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-112</string>
+		<key>german-sound</key>
+		<string>instructions-german-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Be careful!</string>
+		<key>german</key>
+		<string>Achtung!</string>
+		<key>english-sound</key>
+		<string>instructions-eng-113</string>
+		<key>german-sound</key>
+		<string>instructions-german-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not worry.</string>
+		<key>german</key>
+		<string>Keine Sorge.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-114</string>
+		<key>german-sound</key>
+		<string>instructions-german-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not enter.</string>
+		<key>german</key>
+		<string>Betreten verboten.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-115</string>
+		<key>german-sound</key>
+		<string>instructions-german-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not forget.</string>
+		<key>german</key>
+		<string>Nicht vergessen.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-116</string>
+		<key>german-sound</key>
+		<string>instructions-german-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not touch.</string>
+		<key>german</key>
+		<string>Nicht Tasten.</string>
+		<key>english-sound</key>
+		<string>instructions-eng-117</string>
+		<key>german-sound</key>
+		<string>instructions-german-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bring me water.</string>
+		<key>german</key>
+		<string>Bring mir Wasser</string>
+		<key>english-sound</key>
+		<string>instructions-eng-118</string>
+		<key>german-sound</key>
+		<string>instructions-german-118</string>
+	</dict>
+</array>

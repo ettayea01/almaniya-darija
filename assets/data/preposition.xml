@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>by, to, until, up to</string>
+		<key>german</key>
+		<string>bis</string>
+		<key>german-sound</key>
+		<string>prepo-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>through, across</string>
+		<key>german</key>
+		<string>durch</string>
+		<key>german-sound</key>
+		<string>prepo-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>along, down</string>
+		<key>german</key>
+		<string>entlang</string>
+		<key>german-sound</key>
+		<string>prepo-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>around, at</string>
+		<key>german</key>
+		<string>um</string>
+		<key>german-sound</key>
+		<string>prepo-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>for</string>
+		<key>german</key>
+		<string>für</string>
+		<key>german-sound</key>
+		<string>prepo-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>against, for</string>
+		<key>german</key>
+		<string>gegen</string>
+		<key>german-sound</key>
+		<string>prepo-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>without</string>
+		<key>german</key>
+		<string>ohne</string>
+		<key>german-sound</key>
+		<string>prepo-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>from, out of</string>
+		<key>german</key>
+		<string>aus</string>
+		<key>german-sound</key>
+		<string>prepo-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at, near, among</string>
+		<key>german</key>
+		<string>bei</string>
+		<key>german-sound</key>
+		<string>prepo-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>with</string>
+		<key>german</key>
+		<string>mit</string>
+		<key>german-sound</key>
+		<string>prepo-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>opposite of, toward someone, across from</string>
+		<key>german</key>
+		<string>gegenüber</string>
+		<key>german-sound</key>
+		<string>prepo-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>after, to</string>
+		<key>german</key>
+		<string>nach</string>
+		<key>german-sound</key>
+		<string>prepo-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>since, for</string>
+		<key>german</key>
+		<string>seit</string>
+		<key>german-sound</key>
+		<string>prepo-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>from, of</string>
+		<key>german</key>
+		<string>von</string>
+		<key>german-sound</key>
+		<string>prepo-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to</string>
+		<key>german</key>
+		<string>zu</string>
+		<key>german-sound</key>
+		<string>prepo-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>instead of</string>
+		<key>german</key>
+		<string>anstatt, statt</string>
+		<key>german-sound</key>
+		<string>prepo-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on this side of, on the other side of, on either side of</string>
+		<key>german</key>
+		<string>diesseits, jenseits, beiderseits</string>
+		<key>german-sound</key>
+		<string>prepo-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>outside, inside, above, below</string>
+		<key>german</key>
+		<string>außerhalb, innerhalb, oberhalb, unterhalb</string>
+		<key>german-sound</key>
+		<string>prepo-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in spite of / despite</string>
+		<key>german</key>
+		<string>trotz</string>
+		<key>german-sound</key>
+		<string>prepo-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>during</string>
+		<key>german</key>
+		<string>während</string>
+		<key>german-sound</key>
+		<string>prepo-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>not far from</string>
+		<key>german</key>
+		<string>unweit</string>
+		<key>german-sound</key>
+		<string>prepo-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>because of</string>
+		<key>german</key>
+		<string>wegen</string>
+		<key>german-sound</key>
+		<string>prepo-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to, on</string>
+		<key>german</key>
+		<string>an</string>
+		<key>german-sound</key>
+		<string>prepo-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on, upon</string>
+		<key>german</key>
+		<string>auf</string>
+		<key>german-sound</key>
+		<string>prepo-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>behind</string>
+		<key>german</key>
+		<string>hinter</string>
+		<key>german-sound</key>
+		<string>prepo-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>under, beneath</string>
+		<key>german</key>
+		<string>unter</string>
+		<key>german-sound</key>
+		<string>prepo-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in, into</string>
+		<key>german</key>
+		<string>in</string>
+		<key>german-sound</key>
+		<string>prepo-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>next to</string>
+		<key>german</key>
+		<string>neben</string>
+		<key>german-sound</key>
+		<string>prepo-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>between, among</string>
+		<key>german</key>
+		<string>zwischen</string>
+		<key>german-sound</key>
+		<string>prepo-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in front of, before, ago</string>
+		<key>german</key>
+		<string>vor</string>
+		<key>german-sound</key>
+		<string>prepo-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>except for / besides</string>
+		<key>german</key>
+		<string>außer</string>
+		<key>german-sound</key>
+		<string>prepo-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>according to</string>
+		<key>german</key>
+		<string>gemäß</string>
+		<key>german-sound</key>
+		<string>prepo-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>close to</string>
+		<key>german</key>
+		<string>nahe an</string>
+		<key>german-sound</key>
+		<string>prepo-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>except for</string>
+		<key>german</key>
+		<string>bis auf</string>
+		<key>german-sound</key>
+		<string>prepo-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>far from</string>
+		<key>german</key>
+		<string>weit entfernt</string>
+		<key>german-sound</key>
+		<string>prepo-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>near to</string>
+		<key>german</key>
+		<string>in der Nähe von</string>
+		<key>german-sound</key>
+		<string>prepo-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>outside of</string>
+		<key>german</key>
+		<string>außerhalb von</string>
+		<key>german-sound</key>
+		<string>prepo-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>this</string>
+		<key>german</key>
+		<string>dies</string>
+		<key>german-sound</key>
+		<string>prepo-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>that</string>
+		<key>german</key>
+		<string>das</string>
+		<key>german-sound</key>
+		<string>prepo-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>these</string>
+		<key>german</key>
+		<string>diese</string>
+		<key>german-sound</key>
+		<string>prepo-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>those</string>
+		<key>german</key>
+		<string>jene</string>
+		<key>german-sound</key>
+		<string>prepo-41</string>
+	</dict>
+</array>

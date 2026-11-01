@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>flat / apartment</string>
+		<key>german</key>
+		<string>die Wohnung</string>
+		<key>german-sound</key>
+		<string>shopsplaces-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>university</string>
+		<key>german</key>
+		<string>die Universität</string>
+		<key>german-sound</key>
+		<string>shopsplaces-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>theatre</string>
+		<key>german</key>
+		<string>das Theater</string>
+		<key>german-sound</key>
+		<string>shopsplaces-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>petrol station</string>
+		<key>german</key>
+		<string>die Tankstelle</string>
+		<key>german-sound</key>
+		<string>shopsplaces-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>supermarket</string>
+		<key>german</key>
+		<string>der Supermarkt</string>
+		<key>german-sound</key>
+		<string>shopsplaces-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stadium</string>
+		<key>german</key>
+		<string>das Stadion</string>
+		<key>german-sound</key>
+		<string>shopsplaces-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sports centre</string>
+		<key>german</key>
+		<string>das Sportzentrum</string>
+		<key>german-sound</key>
+		<string>shopsplaces-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>swimming pool</string>
+		<key>german</key>
+		<string>das Schwimmbad</string>
+		<key>german-sound</key>
+		<string>shopsplaces-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>school</string>
+		<key>german</key>
+		<string>die Schule</string>
+		<key>german-sound</key>
+		<string>shopsplaces-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>castle</string>
+		<key>german</key>
+		<string>das Schloss</string>
+		<key>german-sound</key>
+		<string>shopsplaces-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>restaurant</string>
+		<key>german</key>
+		<string>das Restaurant</string>
+		<key>german-sound</key>
+		<string>shopsplaces-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>travel agency</string>
+		<key>german</key>
+		<string>das Reisebüro</string>
+		<key>german-sound</key>
+		<string>shopsplaces-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>town hall</string>
+		<key>german</key>
+		<string>das Rathaus</string>
+		<key>german-sound</key>
+		<string>shopsplaces-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>post office</string>
+		<key>german</key>
+		<string>die Post</string>
+		<key>german-sound</key>
+		<string>shopsplaces-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>police station</string>
+		<key>german</key>
+		<string>die Polizeiwache</string>
+		<key>german-sound</key>
+		<string>shopsplaces-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>guesthouse</string>
+		<key>german</key>
+		<string>die Pension</string>
+		<key>german-sound</key>
+		<string>shopsplaces-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>park</string>
+		<key>german</key>
+		<string>der Park</string>
+		<key>german-sound</key>
+		<string>shopsplaces-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>perfume shop</string>
+		<key>german</key>
+		<string>die Parfümerie</string>
+		<key>german-sound</key>
+		<string>shopsplaces-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>museum</string>
+		<key>german</key>
+		<string>das Museum</string>
+		<key>german-sound</key>
+		<string>shopsplaces-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>butcher’s shop</string>
+		<key>german</key>
+		<string>die Metzgerei</string>
+		<key>german-sound</key>
+		<string>shopsplaces-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>market</string>
+		<key>german</key>
+		<string>der Markt</string>
+		<key>german-sound</key>
+		<string>shopsplaces-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grocer’s shop</string>
+		<key>german</key>
+		<string>der Lebensmittelhändler</string>
+		<key>german-sound</key>
+		<string>shopsplaces-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hospital</string>
+		<key>german</key>
+		<string>das Krankenhaus</string>
+		<key>german-sound</key>
+		<string>shopsplaces-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>church</string>
+		<key>german</key>
+		<string>die Kirche</string>
+		<key>german-sound</key>
+		<string>shopsplaces-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cinema</string>
+		<key>german</key>
+		<string>das Kino</string>
+		<key>german-sound</key>
+		<string>shopsplaces-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jeweller’s shop</string>
+		<key>german</key>
+		<string>der Juwelier</string>
+		<key>german-sound</key>
+		<string>shopsplaces-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hotel</string>
+		<key>german</key>
+		<string>das Hotel</string>
+		<key>german-sound</key>
+		<string>shopsplaces-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>house</string>
+		<key>german</key>
+		<string>das Haus</string>
+		<key>german-sound</key>
+		<string>shopsplaces-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shop</string>
+		<key>german</key>
+		<string>das Geschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pedestrian area</string>
+		<key>german</key>
+		<string>die Fußgängerzone</string>
+		<key>german-sound</key>
+		<string>shopsplaces-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shopping centre</string>
+		<key>german</key>
+		<string>das Einkaufszentrum</string>
+		<key>german-sound</key>
+		<string>shopsplaces-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>café</string>
+		<key>german</key>
+		<string>das Café</string>
+		<key>german-sound</key>
+		<string>shopsplaces-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bus station</string>
+		<key>german</key>
+		<string>der Busbahnhof</string>
+		<key>german-sound</key>
+		<string>shopsplaces-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>library</string>
+		<key>german</key>
+		<string>die Bibliothek</string>
+		<key>german-sound</key>
+		<string>shopsplaces-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>farm</string>
+		<key>german</key>
+		<string>der Bauernhof</string>
+		<key>german-sound</key>
+		<string>shopsplaces-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bank</string>
+		<key>german</key>
+		<string>die Bank</string>
+		<key>german-sound</key>
+		<string>shopsplaces-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>railway station</string>
+		<key>german</key>
+		<string>der Bahnhof</string>
+		<key>german-sound</key>
+		<string>shopsplaces-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bakery</string>
+		<key>german</key>
+		<string>die Bäckerei</string>
+		<key>german-sound</key>
+		<string>shopsplaces-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chemist</string>
+		<key>german</key>
+		<string>die Apotheke</string>
+		<key>german-sound</key>
+		<string>shopsplaces-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>city</string>
+		<key>german</key>
+		<string>die Stadt / die Großstadt</string>
+		<key>german-sound</key>
+		<string>shopsplaces-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bus station</string>
+		<key>german</key>
+		<string>die Bushaltestelle</string>
+		<key>german-sound</key>
+		<string>shopsplaces-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>train station</string>
+		<key>german</key>
+		<string>der Bahnhof</string>
+		<key>german-sound</key>
+		<string>shopsplaces-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>airport</string>
+		<key>german</key>
+		<string>der Flughafen</string>
+		<key>german-sound</key>
+		<string>shopsplaces-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parking spot</string>
+		<key>german</key>
+		<string>der Parkplatz</string>
+		<key>german-sound</key>
+		<string>shopsplaces-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>exchange office</string>
+		<key>german</key>
+		<string>die Wechselstube</string>
+		<key>german-sound</key>
+		<string>shopsplaces-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tourist office</string>
+		<key>german</key>
+		<string>die Touristeninformation</string>
+		<key>german-sound</key>
+		<string>shopsplaces-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cathedral</string>
+		<key>german</key>
+		<string>der Dom</string>
+		<key>german-sound</key>
+		<string>shopsplaces-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>city centre</string>
+		<key>german</key>
+		<string>das Stadtzentrum</string>
+		<key>german-sound</key>
+		<string>shopsplaces-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pedestrian area</string>
+		<key>german</key>
+		<string>die Fußgängerzone</string>
+		<key>german-sound</key>
+		<string>shopsplaces-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>main square</string>
+		<key>german</key>
+		<string>der Hauptplatz</string>
+		<key>german-sound</key>
+		<string>shopsplaces-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>store</string>
+		<key>german</key>
+		<string>das Geschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>city park</string>
+		<key>german</key>
+		<string>der Stadtpark</string>
+		<key>german-sound</key>
+		<string>shopsplaces-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>German pub</string>
+		<key>german</key>
+		<string>die Kneipe</string>
+		<key>german-sound</key>
+		<string>shopsplaces-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sausage stand</string>
+		<key>german</key>
+		<string>die Wurstbude</string>
+		<key>german-sound</key>
+		<string>shopsplaces-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>street</string>
+		<key>german</key>
+		<string>die Straße</string>
+		<key>german-sound</key>
+		<string>shopsplaces-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>monument</string>
+		<key>german</key>
+		<string>das Denkmal</string>
+		<key>german-sound</key>
+		<string>shopsplaces-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>building</string>
+		<key>german</key>
+		<string>das Gebäude</string>
+		<key>german-sound</key>
+		<string>shopsplaces-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grocery store</string>
+		<key>german</key>
+		<string>das Lebensmittelgeschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>movie theater</string>
+		<key>german</key>
+		<string>das Kino</string>
+		<key>german-sound</key>
+		<string>shopsplaces-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hardware store</string>
+		<key>german</key>
+		<string>das Eisenwarengeschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stationery store</string>
+		<key>german</key>
+		<string>das Schreibwarengeschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pharmacy</string>
+		<key>german</key>
+		<string>die Apotheke</string>
+		<key>german-sound</key>
+		<string>shopsplaces-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>factory</string>
+		<key>german</key>
+		<string>die Fabrik</string>
+		<key>german-sound</key>
+		<string>shopsplaces-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dry cleaner&apos;s</string>
+		<key>german</key>
+		<string>die Reinigung</string>
+		<key>german-sound</key>
+		<string>shopsplaces-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bookstore</string>
+		<key>german</key>
+		<string>der Buchladen</string>
+		<key>german-sound</key>
+		<string>shopsplaces-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garage</string>
+		<key>german</key>
+		<string>die Garage</string>
+		<key>german-sound</key>
+		<string>shopsplaces-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bar</string>
+		<key>german</key>
+		<string>die Kneipe</string>
+		<key>german-sound</key>
+		<string>shopsplaces-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>village</string>
+		<key>german</key>
+		<string>das Dorf</string>
+		<key>german-sound</key>
+		<string>shopsplaces-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cemetery</string>
+		<key>german</key>
+		<string>der Friedhof</string>
+		<key>german-sound</key>
+		<string>shopsplaces-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>backery</string>
+		<key>german</key>
+		<string>die Bäckerei</string>
+		<key>german-sound</key>
+		<string>shopsplaces-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shoe store</string>
+		<key>german</key>
+		<string>das Schuhgeschäft</string>
+		<key>german-sound</key>
+		<string>shopsplaces-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by the sea</string>
+		<key>german</key>
+		<string>an der Küste</string>
+		<key>german-sound</key>
+		<string>shopsplaces-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the mountains</string>
+		<key>german</key>
+		<string>in den Bergen</string>
+		<key>german-sound</key>
+		<string>shopsplaces-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in town</string>
+		<key>german</key>
+		<string>in der Stadt</string>
+		<key>german-sound</key>
+		<string>shopsplaces-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the suburbs</string>
+		<key>german</key>
+		<string>am Stadtrand</string>
+		<key>german-sound</key>
+		<string>shopsplaces-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the countryside</string>
+		<key>german</key>
+		<string>auf dem Land</string>
+		<key>german-sound</key>
+		<string>shopsplaces-76</string>
+	</dict>
+</array>

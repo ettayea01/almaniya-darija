@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>employee</string>
+		<key>german</key>
+		<string>Angestellter (masculine), Angestellte (feminine)</string>
+		<key>german-sound</key>
+		<string>profession-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawyer</string>
+		<key>german</key>
+		<string>Anwalt (masculine), Anwältin (feminine)</string>
+		<key>german-sound</key>
+		<string>profession-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pharmacist / chemist</string>
+		<key>german</key>
+		<string>Apotheker (masculine), Apothekerin (feminine)</string>
+		<key>german-sound</key>
+		<string>profession-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>architect</string>
+		<key>german</key>
+		<string>Architekt (m), Architektin (f)</string>
+		<key>german-sound</key>
+		<string>profession-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>physician / doctor</string>
+		<key>german</key>
+		<string>Arzt (m), Ärztin (f)</string>
+		<key>german-sound</key>
+		<string>profession-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>farmer</string>
+		<key>german</key>
+		<string>Bauer (m), Bäuerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>civil servant</string>
+		<key>german</key>
+		<string>Beamter (m), Beamtin (f)</string>
+		<key>german-sound</key>
+		<string>profession-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>postman</string>
+		<key>german</key>
+		<string>Briefträger (m), Briefträgerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>accountant / bookkeeper</string>
+		<key>german</key>
+		<string>Buchhalter (m), Buchhalterin (f)</string>
+		<key>german-sound</key>
+		<string>profession-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Busdriver</string>
+		<key>german</key>
+		<string>Busfahrer (m), Busfahrerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>baker</string>
+		<key>german</key>
+		<string>Bäcker (m), Bäckerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chemist</string>
+		<key>german</key>
+		<string>Chemiker (m), Chemikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>surgeon</string>
+		<key>german</key>
+		<string>Chirurg (m), Chirurgin (f)</string>
+		<key>german-sound</key>
+		<string>profession-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>roofer</string>
+		<key>german</key>
+		<string>Dachdecker (m), Dachdeckerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>decorator</string>
+		<key>german</key>
+		<string>Dekorateur (m), Dekorateurin (f)</string>
+		<key>german-sound</key>
+		<string>profession-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>detective</string>
+		<key>german</key>
+		<string>Detektiv (m), Detektivin (f)</string>
+		<key>german-sound</key>
+		<string>profession-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>DJ</string>
+		<key>german</key>
+		<string>DJ</string>
+		<key>german-sound</key>
+		<string>profession-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Printer</string>
+		<key>german</key>
+		<string>Drucker (m), Druckerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pharmacist / druggist</string>
+		<key>german</key>
+		<string>Drogist (m), Drogistin (f)</string>
+		<key>german-sound</key>
+		<string>profession-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dermatologist</string>
+		<key>german</key>
+		<string>Dermatologe (m), Dermatolgin (f)</string>
+		<key>german-sound</key>
+		<string>profession-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>conductor</string>
+		<key>german</key>
+		<string>Dirigent (m), Dirigentin (f)</string>
+		<key>german-sound</key>
+		<string>profession-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Trainer</string>
+		<key>german</key>
+		<string>Dompteur (m), Dompteurin (f)</string>
+		<key>german-sound</key>
+		<string>profession-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Interpreter</string>
+		<key>german</key>
+		<string>Dolmetscher (m), Dolmetscherin (f)</string>
+		<key>german-sound</key>
+		<string>profession-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>electrician</string>
+		<key>german</key>
+		<string>Elektriker (m), Elektrikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>long-distance truck driver</string>
+		<key>german</key>
+		<string>Fernfahrer (m), Fernfahrerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fire fighter</string>
+		<key>german</key>
+		<string>Feuerwehrmann (m), Feuerwehrfrau (f)</string>
+		<key>german-sound</key>
+		<string>profession-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fisher</string>
+		<key>german</key>
+		<string>Fischer (m), Fischerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>butcher</string>
+		<key>german</key>
+		<string>Fleischer (m), Fleischerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tourist guide</string>
+		<key>german</key>
+		<string>Fremdenführer (m), Fremdenführerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hairdresser</string>
+		<key>german</key>
+		<string>Friseur (m), Friseurin (f)</string>
+		<key>german-sound</key>
+		<string>profession-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horticulturist (an expert in garden cultivation and management)</string>
+		<key>german</key>
+		<string>Gärtner (m), Gärtnerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>craftsman</string>
+		<key>german</key>
+		<string>Handwerker (m), Handwerkerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hotel manager</string>
+		<key>german</key>
+		<string>Hotelfachmann (m), Hotelfachfrau (f)</string>
+		<key>german-sound</key>
+		<string>profession-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>engineer</string>
+		<key>german</key>
+		<string>Ingenieur (m), Ingenieurin (f)</string>
+		<key>german-sound</key>
+		<string>profession-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>journalist</string>
+		<key>german</key>
+		<string>Journalist (m), Journalistin (f)</string>
+		<key>german-sound</key>
+		<string>profession-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>merchant / businessman</string>
+		<key>german</key>
+		<string>Kaufmann (m), Kauffrau (f)</string>
+		<key>german-sound</key>
+		<string>profession-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cashier</string>
+		<key>german</key>
+		<string>Kassierer (m), Kassiererin (f)</string>
+		<key>german-sound</key>
+		<string>profession-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nurse</string>
+		<key>german</key>
+		<string>Krankenpfleger (m), Krankenschwester (f)</string>
+		<key>german-sound</key>
+		<string>profession-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>waiter</string>
+		<key>german</key>
+		<string>Kellner (m), Kellnerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cook</string>
+		<key>german</key>
+		<string>Koch (m), Köchin (f)</string>
+		<key>german-sound</key>
+		<string>profession-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>teacher</string>
+		<key>german</key>
+		<string>Lehrer (m), Lehrerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>painter</string>
+		<key>german</key>
+		<string>Maler (m), Malerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mathematician</string>
+		<key>german</key>
+		<string>Mathematiker (m), Mathematikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mechanic</string>
+		<key>german</key>
+		<string>Mechaniker (m), Mechanikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>butcher</string>
+		<key>german</key>
+		<string>Metzger (m), Metzgerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>musician</string>
+		<key>german</key>
+		<string>Musiker (m), Musikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>priest</string>
+		<key>german</key>
+		<string>Pfarrer (m), Pfarrerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>physicist</string>
+		<key>german</key>
+		<string>Physiker (m), Physikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>politician</string>
+		<key>german</key>
+		<string>Politiker (m), Politikerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>policeman</string>
+		<key>german</key>
+		<string>Polizist (m), Polizistin (f)</string>
+		<key>german-sound</key>
+		<string>profession-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>programmer</string>
+		<key>german</key>
+		<string>Programmierer (m), Programmiererin (f)</string>
+		<key>german-sound</key>
+		<string>profession-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>psychiatrist</string>
+		<key>german</key>
+		<string>Psychiater (m), Psychiaterin (f)</string>
+		<key>german-sound</key>
+		<string>profession-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawyer / attorney-at-law</string>
+		<key>german</key>
+		<string>Rechtsanwalt (m), Rechtsanwältin (f)</string>
+		<key>german-sound</key>
+		<string>profession-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>reporter</string>
+		<key>german</key>
+		<string>Reporter (m), Reporterin (f)</string>
+		<key>german-sound</key>
+		<string>profession-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>judge</string>
+		<key>german</key>
+		<string>Richter (m), Richterin (f)</string>
+		<key>german-sound</key>
+		<string>profession-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>actor</string>
+		<key>german</key>
+		<string>Schauspieler (m), Schauspielerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>writer / author</string>
+		<key>german</key>
+		<string>Schriftsteller (m), Schriftstellerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>secretary</string>
+		<key>german</key>
+		<string>Sekretär (m), Sekretärin (f)</string>
+		<key>german-sound</key>
+		<string>profession-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sportsman</string>
+		<key>german</key>
+		<string>Sportler (m), Sportlerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soldier</string>
+		<key>german</key>
+		<string>Soldat (m), Soldatin (f)</string>
+		<key>german-sound</key>
+		<string>profession-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dancer</string>
+		<key>german</key>
+		<string>Tänzer (m), Tänzerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salesperson</string>
+		<key>german</key>
+		<string>Verkäufer (m), Verkäuferin (f)</string>
+		<key>german-sound</key>
+		<string>profession-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>representative</string>
+		<key>german</key>
+		<string>Vertreter (m), Vertreterin (f)</string>
+		<key>german-sound</key>
+		<string>profession-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>winemaker</string>
+		<key>german</key>
+		<string>Winzer (m), Winzerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dentist</string>
+		<key>german</key>
+		<string>Zahnarzt (m), Zahnärztin (f)</string>
+		<key>german-sound</key>
+		<string>profession-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>translator</string>
+		<key>german</key>
+		<string>Übersetzer (m), Übersetzerin (f)</string>
+		<key>german-sound</key>
+		<string>profession-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boss</string>
+		<key>german</key>
+		<string>Chef (m), Chefin (f)</string>
+		<key>german-sound</key>
+		<string>profession-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>student</string>
+		<key>german</key>
+		<string>Student (m), Studentin (f)</string>
+		<key>german-sound</key>
+		<string>profession-68</string>
+	</dict>
+</array>

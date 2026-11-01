@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>daily routine</string>
+		<key>german</key>
+		<string>tägliche Routine</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-1</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to wake up</string>
+		<key>german</key>
+		<string>aufwachen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-2</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get up</string>
+		<key>german</key>
+		<string>aufstehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-3</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take a shower</string>
+		<key>german</key>
+		<string>sich duschen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-4</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get dressed</string>
+		<key>german</key>
+		<string>sich anziehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-5</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to eat breakfast</string>
+		<key>german</key>
+		<string>frühstücken</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-6</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go to work</string>
+		<key>german</key>
+		<string>zur Arbeit gehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-7</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have lunch</string>
+		<key>german</key>
+		<string>zu Mittag essen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-8</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to come home</string>
+		<key>german</key>
+		<string>nach Hause kommen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-9</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have dinner</string>
+		<key>german</key>
+		<string>zu Abend essen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-10</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to watch TV</string>
+		<key>german</key>
+		<string>fernsehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-11</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to set the alarm clock</string>
+		<key>german</key>
+		<string>den Wecker stellen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-12</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get undressed</string>
+		<key>german</key>
+		<string>sich ausziehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-13</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go to bed</string>
+		<key>german</key>
+		<string>ins Bett gehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-14</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I wake up early</string>
+		<key>german</key>
+		<string>ich wache früh auf</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-15</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I wake up early in the morning</string>
+		<key>german</key>
+		<string>ich wache morgens früh auf</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-16</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like taking a long shower in the morning.</string>
+		<key>german</key>
+		<string>Ich dusche morgens gerne lange.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-17</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I shower every day.</string>
+		<key>german</key>
+		<string>Ich dusche täglich.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-18</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I get up at 8:00 a.m.</string>
+		<key>german</key>
+		<string>Ich stehe um acht Uhr auf.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-19</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I brush my teeth.</string>
+		<key>german</key>
+		<string>Ich putze mir die Zähne.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-20</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I wash my hair.</string>
+		<key>german</key>
+		<string>Ich wasche mir die Haare.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-21</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I get dressed.</string>
+		<key>german</key>
+		<string>Ich ziehe mich an.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-22</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I go to work at nine o&apos;clock.</string>
+		<key>german</key>
+		<string>Um neun Uhr fahre ich zur Arbeit.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-23</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lunch break</string>
+		<key>german</key>
+		<string>die Mittagspause</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-24</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have lunch at one p.m.</string>
+		<key>german</key>
+		<string>Um eins esse ich zu Mittag.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-25</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I finish work at 6:30 p.m.</string>
+		<key>german</key>
+		<string>Ich mache um 18:30 Feierabend.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-26</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I go home.</string>
+		<key>german</key>
+		<string>Ich gehe nach Hause.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-27</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I go to sleep at 10:00 p.m.</string>
+		<key>german</key>
+		<string>Ich gehe um 22 Uhr ins Bett.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-28</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We’re coming home late.</string>
+		<key>german</key>
+		<string>Wir kommen spät nach Hause.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-29</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I often watch TV in the evening.</string>
+		<key>german</key>
+		<string>Abends sehe ich oft fern.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-30</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>She goes to bed at ten o’clock.</string>
+		<key>german</key>
+		<string>Sie geht um zehn Uhr ins Bett.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-31</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the dishes</string>
+		<key>german</key>
+		<string>abwaschen / das Geschirr spülen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-32</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to wash the car</string>
+		<key>german</key>
+		<string>das Auto waschen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-33</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to shop</string>
+		<key>german</key>
+		<string>einkaufen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-34</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to invite friends over</string>
+		<key>german</key>
+		<string>Freunde einladen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-35</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the housework</string>
+		<key>german</key>
+		<string>die Hausarbeit machen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-36</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to surf the Internet</string>
+		<key>german</key>
+		<string>im Internet surfen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-37</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to cook</string>
+		<key>german</key>
+		<string>kochen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-38</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to listen to music</string>
+		<key>german</key>
+		<string>Musik hören</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-39</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to clean up</string>
+		<key>german</key>
+		<string>saubermachen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-40</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get up late</string>
+		<key>german</key>
+		<string>spät aufstehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-41</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to vacuum</string>
+		<key>german</key>
+		<string>staubsaugen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-42</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the laundry</string>
+		<key>german</key>
+		<string>die Wäsche waschen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-43</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m inviting friends over.</string>
+		<key>german</key>
+		<string>Ich lade Freunde ein.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-44</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like to do the housework.</string>
+		<key>german</key>
+		<string>Ich mache die Hausarbeit gern.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-45</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>He’s cleaning up this afternoon.</string>
+		<key>german</key>
+		<string>Er macht heute Nachmittag sauber.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-46</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Does she get up late on Sundays?</string>
+		<key>german</key>
+		<string>Steht sie Sonntags spät auf?</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-47</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go out</string>
+		<key>german</key>
+		<string>Ausgehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-48</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go for a stroll/walk</string>
+		<key>german</key>
+		<string>Spazierengehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-49</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go grocery shopping</string>
+		<key>german</key>
+		<string>Einkaufen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-50</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to brush one’s teeth</string>
+		<key>german</key>
+		<string>Sich die Zähne putzen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-51</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to bathe oneself</string>
+		<key>german</key>
+		<string>Sich duschen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-52</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to shave oneself</string>
+		<key>german</key>
+		<string>Sich rasieren</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-53</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to relax oneself</string>
+		<key>german</key>
+		<string>sich ausruhen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-54</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to apply makeup on oneself</string>
+		<key>german</key>
+		<string>Sich schminken</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-55</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>make-up</string>
+		<key>german</key>
+		<string>die Schminke / das Make-up</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-56</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to make the bed</string>
+		<key>german</key>
+		<string>das Bett machen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-57</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the ironing</string>
+		<key>german</key>
+		<string>bügeln</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-58</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to prepare a meal</string>
+		<key>german</key>
+		<string>eine Mahlzeit zubereiten</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-59</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lay the table</string>
+		<key>german</key>
+		<string>den Tisch decken</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-60</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go to the bathroom</string>
+		<key>german</key>
+		<string>ins Bad gehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-61</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have a bath</string>
+		<key>german</key>
+		<string>baden</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-62</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to comb (one’s hair)</string>
+		<key>german</key>
+		<string>sich (die Haare) kämmen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-63</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to prepare breakfast</string>
+		<key>german</key>
+		<string>das Frühstück machen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-64</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have breakfast</string>
+		<key>german</key>
+		<string>frühstücken / Frühstück essen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-65</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to eat</string>
+		<key>german</key>
+		<string>essen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-66</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to drink</string>
+		<key>german</key>
+		<string>trinken</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-67</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to leave (the house)</string>
+		<key>german</key>
+		<string>das Haus verlassen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-68</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go to school</string>
+		<key>german</key>
+		<string>in die Schule gehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-69</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take the children to school</string>
+		<key>german</key>
+		<string>die Kinder in die Schule bringen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-70</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to walk</string>
+		<key>german</key>
+		<string>zu Fuß gehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-71</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go by car / by bus</string>
+		<key>german</key>
+		<string>mit dem Auto / mit dem Bus fahren</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-72</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to start work</string>
+		<key>german</key>
+		<string>mit der Arbeit beginnen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-73</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to work</string>
+		<key>german</key>
+		<string>arbeiten</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-74</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to prepare dinner</string>
+		<key>german</key>
+		<string>das Abendessen machen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-75</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to tidy up / to put away</string>
+		<key>german</key>
+		<string>aufräumen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-76</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to watch the news</string>
+		<key>german</key>
+		<string>die Nachrichten sehen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-77</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to read the paper</string>
+		<key>german</key>
+		<string>die Zeitung lesen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-78</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to write an email</string>
+		<key>german</key>
+		<string>eine E-Mail schreiben</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-79</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to be tired</string>
+		<key>german</key>
+		<string>müde sein</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-80</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am tired.</string>
+		<key>german</key>
+		<string>Ich bin müde.</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-81</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to fall asleep</string>
+		<key>german</key>
+		<string>einschlafen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-82</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to sleep</string>
+		<key>german</key>
+		<string>schlafen</string>
+		<key>english-sound</key>
+		<string>dailyroutine-eng-83</string>
+		<key>german-sound</key>
+		<string>dailyroutine-german-83</string>
+	</dict>
+</array>

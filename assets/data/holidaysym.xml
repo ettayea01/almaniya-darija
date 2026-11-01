@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>holidays</string>
+		<key>german</key>
+		<string>die Ferien</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-1</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>public holiday</string>
+		<key>german</key>
+		<string>gesetzlicher Feiertag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-2</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>national holiday</string>
+		<key>german</key>
+		<string>der Nationalfeiertag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-3</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am on vacation</string>
+		<key>german</key>
+		<string>ich bin auf Urlaub</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-4</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am off today.</string>
+		<key>german</key>
+		<string>Ich bin heute nicht da.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-5</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Merry Christmas!</string>
+		<key>german</key>
+		<string>Frohe Weihnachten!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-6</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy Easter!</string>
+		<key>german</key>
+		<string>Frohe Ostern!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-7</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy New Year!</string>
+		<key>german</key>
+		<string>Glückliches Neues Jahr!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-8</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy Birthday!</string>
+		<key>german</key>
+		<string>Alles Gute zum Geburtstag!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-9</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>New Year&apos;s Eve</string>
+		<key>german</key>
+		<string>das Silvester</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-10</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>New Year&apos;s Day</string>
+		<key>german</key>
+		<string>das Neujahr</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-11</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Valentine&apos;s Day</string>
+		<key>german</key>
+		<string>der Valentinstag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-12</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Easter</string>
+		<key>german</key>
+		<string>das Ostern</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-13</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas</string>
+		<key>german</key>
+		<string>das Weihnachten</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-14</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>birthday</string>
+		<key>german</key>
+		<string>der Geburtstag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-15</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wedding</string>
+		<key>german</key>
+		<string>die Hochzeit</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-16</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy Hanukkah!</string>
+		<key>german</key>
+		<string>Ein frohes Chanukka-Fest!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-17</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have a great winter vacation!</string>
+		<key>german</key>
+		<string>Schönen Winterurlaub!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-18</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>See you next year!</string>
+		<key>german</key>
+		<string>Bis zum nächsten Jahr!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-19</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Warm wishes!</string>
+		<key>german</key>
+		<string>Alles Gute!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-20</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy holidays!</string>
+		<key>german</key>
+		<string>Frohe Feiertage!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-21</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Enjoy the holidays!</string>
+		<key>german</key>
+		<string>Genießen Sie die Feiertage!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-22</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Best wishes for the new year!</string>
+		<key>german</key>
+		<string>Die besten Wünsche für das neue Jahr!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-23</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have a happy New Year!</string>
+		<key>german</key>
+		<string>Haben Sie ein glückliches neues Jahr!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-24</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas Eve</string>
+		<key>german</key>
+		<string>der Heiligabend</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-25</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Santa Claus</string>
+		<key>german</key>
+		<string>der Weihnachtsmann</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-26</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas tree</string>
+		<key>german</key>
+		<string>der Weihnachtsbaum / der Tannenbaum</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-27</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas decoration</string>
+		<key>german</key>
+		<string>die Weihnachtsdekoration</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-28</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bank holiday</string>
+		<key>german</key>
+		<string>der Bankfeiertag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-29</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas party</string>
+		<key>german</key>
+		<string>die Weihnachtsfeier</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-30</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>angel</string>
+		<key>german</key>
+		<string>der Engel</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-31</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas market</string>
+		<key>german</key>
+		<string>der Weihnachtsmarkt / der Christkindlmarkt</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-32</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy days</string>
+		<key>german</key>
+		<string>Glückliche Tage</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-33</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>celebration</string>
+		<key>german</key>
+		<string>die Feier</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-34</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>let us celebrate.</string>
+		<key>german</key>
+		<string>Lass uns feiern.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-35</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>birthday party</string>
+		<key>german</key>
+		<string>die Geburtstagsfeier / Geburtstagsparty</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-36</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>April Fools&apos; Day</string>
+		<key>german</key>
+		<string>Erster April</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-37</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fathers day</string>
+		<key>german</key>
+		<string>Vatertag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-38</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mothers day</string>
+		<key>german</key>
+		<string>Muttertag</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-39</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Happy Halloween!</string>
+		<key>german</key>
+		<string>Fröhliches Halloween!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-40</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>independence Day</string>
+		<key>german</key>
+		<string>Tag der Unabhängigkeit</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-41</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Labor Day</string>
+		<key>german</key>
+		<string>Tag der Arbeit</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-42</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sympathy</string>
+		<key>german</key>
+		<string>die Sympathie / das Mitgefühl / das Mitleid</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-43</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>empathy</string>
+		<key>german</key>
+		<string>die Empathie / das Einfühlungsvermögen</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-44</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>condolence</string>
+		<key>german</key>
+		<string>das Beileid</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-45</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>my condolences</string>
+		<key>german</key>
+		<string>mein Beileid</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-46</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>compassion</string>
+		<key>german</key>
+		<string>das Mitgefühl</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-47</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>loss</string>
+		<key>german</key>
+		<string>der Verlust</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-48</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sorry for your loss</string>
+		<key>german</key>
+		<string>dein Verlust tut mir Leid</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-49</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grief / sorrow</string>
+		<key>german</key>
+		<string>die Trauer</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-50</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>funeral</string>
+		<key>german</key>
+		<string>die Beerdigung</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-51</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can we do anything to help?</string>
+		<key>german</key>
+		<string>Können wir irgendwie helfen?</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-52</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We are thinking of you at this very sad time</string>
+		<key>german</key>
+		<string>Während dieser traurigen Zeit denken wir an Sie</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-53</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I will miss him/her very much</string>
+		<key>german</key>
+		<string>Ich werde ihn/sie sehr vermissen</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-54</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sahra&apos;s grandmother died.</string>
+		<key>german</key>
+		<string>Sahra&apos;s Großmutter ist gestorben.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-55</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The funeral is on saturday.</string>
+		<key>german</key>
+		<string>Die Beerdigung ist am Samstag.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-56</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>In memory of our beloved friend.</string>
+		<key>german</key>
+		<string>In Gedanken an unseren geliebten Freund.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-57</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My sincere condolences.</string>
+		<key>german</key>
+		<string>Mein herzliches Beileid.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-58</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Our sincere condolences.</string>
+		<key>german</key>
+		<string>Unser herzliches Beileid.</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-59</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am sorry</string>
+		<key>german</key>
+		<string>tut mir leid</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-60</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am sorry to hear that</string>
+		<key>german</key>
+		<string>es tut mir leid das zu hören</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-61</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am sorry for your loss</string>
+		<key>german</key>
+		<string>Es tut mir leid für deinen Verlust</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-62</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sorry for the inconvenience</string>
+		<key>german</key>
+		<string>Entschuldigung für die Unannehmlichkeiten</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-63</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sorry for the delay</string>
+		<key>german</key>
+		<string>Entschuldigung für die Verspätung</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-64</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sorry for the late reply</string>
+		<key>german</key>
+		<string>Entschuldigung für die späte Antwor</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-65</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My best wishes!</string>
+		<key>german</key>
+		<string>Meine besten Wünsche!</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-66</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Life goes on</string>
+		<key>german</key>
+		<string>Das Leben geht weiter</string>
+		<key>english-sound</key>
+		<string>holidaysym-eng-67</string>
+		<key>german-sound</key>
+		<string>holidaysym-german-67</string>
+	</dict>
+</array>

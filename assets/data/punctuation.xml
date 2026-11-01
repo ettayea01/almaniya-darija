@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>punctuation</string>
+		<key>german</key>
+		<string>die Zeichensetzung</string>
+		<key>german-sound</key>
+		<string>punctuation-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>comma [ , ]</string>
+		<key>german</key>
+		<string>das Komma</string>
+		<key>german-sound</key>
+		<string>punctuation-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>full stop [ . ]</string>
+		<key>german</key>
+		<string>der Punkt</string>
+		<key>german-sound</key>
+		<string>punctuation-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>colon [ : ]</string>
+		<key>german</key>
+		<string>der Doppelpunkt</string>
+		<key>german-sound</key>
+		<string>punctuation-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apostrophe [ &apos; ]</string>
+		<key>german</key>
+		<string>der Apostrof, das Auslassungszeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>semicolon [ ; ]</string>
+		<key>german</key>
+		<string>der Strichpunkt, das Semikolon</string>
+		<key>german-sound</key>
+		<string>punctuation-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>exclamation mark [ ! ]</string>
+		<key>german</key>
+		<string>das Ausrufezeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>question mark [ ? ]</string>
+		<key>german</key>
+		<string>das Fragezeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hyphen [ - ]</string>
+		<key>german</key>
+		<string>der Bindestrich</string>
+		<key>german-sound</key>
+		<string>punctuation-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ampersand [ &amp; ]</string>
+		<key>german</key>
+		<string>das Kaufmanns</string>
+		<key>german-sound</key>
+		<string>punctuation-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brackets [ [ ] ], square brackets [ [ ] ]</string>
+		<key>german</key>
+		<string>die Klammern, die eckigen Klammern</string>
+		<key>german-sound</key>
+		<string>punctuation-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>curly brackets [ { } ]</string>
+		<key>german</key>
+		<string>die geschweiften Klammern</string>
+		<key>german-sound</key>
+		<string>punctuation-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>angled brackets [ &lt;&gt; ]</string>
+		<key>german</key>
+		<string>die spitzen Klammern</string>
+		<key>german-sound</key>
+		<string>punctuation-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>asterisk [ * ]</string>
+		<key>german</key>
+		<string>das Sternchen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ellipsis [ ... ]</string>
+		<key>german</key>
+		<string>die Auslassungspunkte, die Ellipse</string>
+		<key>german-sound</key>
+		<string>punctuation-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>quotation marks [ &quot; &quot; ]</string>
+		<key>german</key>
+		<string>die Anführungszeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>long dash [ ― ]</string>
+		<key>german</key>
+		<string>der Gedankenstrich</string>
+		<key>german-sound</key>
+		<string>punctuation-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>degree symbol [ ° ]</string>
+		<key>german</key>
+		<string>das Gradsymbol</string>
+		<key>german-sound</key>
+		<string>punctuation-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hash symbol [ # ]</string>
+		<key>german</key>
+		<string>die Raute</string>
+		<key>german-sound</key>
+		<string>punctuation-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at symbol [ @ ]</string>
+		<key>german</key>
+		<string>der Klammeraffe</string>
+		<key>german-sound</key>
+		<string>punctuation-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forward slash [ / ]</string>
+		<key>german</key>
+		<string>der Schrägstrich</string>
+		<key>german-sound</key>
+		<string>punctuation-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>backslash [ \ ]</string>
+		<key>german</key>
+		<string>der Rückwärtsschrägstrich</string>
+		<key>german-sound</key>
+		<string>punctuation-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pound sign [ £ ]</string>
+		<key>german</key>
+		<string>das Pfundzeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dollar sign [ $ ]</string>
+		<key>german</key>
+		<string>das Dollarzeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>acute accent [ É ]</string>
+		<key>german</key>
+		<string>der Accent aigu</string>
+		<key>german-sound</key>
+		<string>punctuation-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grave accent [ ` ]</string>
+		<key>german</key>
+		<string>der Accent grave</string>
+		<key>german-sound</key>
+		<string>punctuation-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>circumflex [ ˆ ]</string>
+		<key>german</key>
+		<string>der Accent circonflexe</string>
+		<key>german-sound</key>
+		<string>punctuation-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cedilla [ ¸ ]</string>
+		<key>german</key>
+		<string>die Cédille</string>
+		<key>german-sound</key>
+		<string>punctuation-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>diaeresis [eg No?l]</string>
+		<key>german</key>
+		<string>das Trema</string>
+		<key>german-sound</key>
+		<string>punctuation-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>equal sign [ = ]</string>
+		<key>german</key>
+		<string>das Gleichheitszeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>greater-than sign [ &gt; ]</string>
+		<key>german</key>
+		<string>das Größer-Zeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>less-than sign [ &lt; ]</string>
+		<key>german</key>
+		<string>das Kleiner-Zeichen</string>
+		<key>german-sound</key>
+		<string>punctuation-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parentheses / round brackets [ () ]</string>
+		<key>german</key>
+		<string>die runde Klammern</string>
+		<key>german-sound</key>
+		<string>punctuation-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Tilde [ ~ ]</string>
+		<key>german</key>
+		<string>die Tilde</string>
+		<key>german-sound</key>
+		<string>punctuation-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Addition</string>
+		<key>german</key>
+		<string>die Addition</string>
+		<key>german-sound</key>
+		<string>punctuation-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Subtraction</string>
+		<key>german</key>
+		<string>die Subtraktion</string>
+		<key>german-sound</key>
+		<string>punctuation-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Multiplication</string>
+		<key>german</key>
+		<string>die Multiplikation</string>
+		<key>german-sound</key>
+		<string>punctuation-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Division</string>
+		<key>german</key>
+		<string>die Division</string>
+		<key>german-sound</key>
+		<string>punctuation-german-38</string>
+	</dict>
+</array>

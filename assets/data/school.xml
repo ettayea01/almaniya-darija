@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>School</string>
+		<key>german</key>
+		<string>die Schule</string>
+		<key>german-sound</key>
+		<string>school-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Elementary School</string>
+		<key>german</key>
+		<string>die Grundschule</string>
+		<key>german-sound</key>
+		<string>school-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Secondary School</string>
+		<key>german</key>
+		<string>das Gymnasium</string>
+		<key>german-sound</key>
+		<string>school-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>High School</string>
+		<key>german</key>
+		<string>die Oberschule</string>
+		<key>german-sound</key>
+		<string>school-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>University</string>
+		<key>german</key>
+		<string>die Universität</string>
+		<key>german-sound</key>
+		<string>school-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>College / University</string>
+		<key>german</key>
+		<string>die Hochschule</string>
+		<key>german-sound</key>
+		<string>school-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Dictionary</string>
+		<key>german</key>
+		<string>das Wörterbuch</string>
+		<key>german-sound</key>
+		<string>school-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Scissors</string>
+		<key>german</key>
+		<string>die Schere</string>
+		<key>german-sound</key>
+		<string>school-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Eraser</string>
+		<key>german</key>
+		<string>der Radiergummi</string>
+		<key>german-sound</key>
+		<string>school-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Book</string>
+		<key>german</key>
+		<string>das Buch</string>
+		<key>german-sound</key>
+		<string>school-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Pencil</string>
+		<key>german</key>
+		<string>der Bleistift</string>
+		<key>german-sound</key>
+		<string>school-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Schoolbag</string>
+		<key>german</key>
+		<string>die Schultasche</string>
+		<key>german-sound</key>
+		<string>school-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Pen</string>
+		<key>german</key>
+		<string>der Kugelschreiber / der Kuli</string>
+		<key>german-sound</key>
+		<string>school-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Girl</string>
+		<key>german</key>
+		<string>das Mädchen</string>
+		<key>german-sound</key>
+		<string>school-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Boy</string>
+		<key>german</key>
+		<string>der Junge</string>
+		<key>german-sound</key>
+		<string>school-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Friend</string>
+		<key>german</key>
+		<string>der Freund (m), die Freundin (f)</string>
+		<key>german-sound</key>
+		<string>school-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Student</string>
+		<key>german</key>
+		<string>der Schüler / der Student (m), die Schülerin / die Studentin (f)</string>
+		<key>german-sound</key>
+		<string>school-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Teacher</string>
+		<key>german</key>
+		<string>der Lehrer (m), die Lehrerin (f)</string>
+		<key>german-sound</key>
+		<string>school-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Professor</string>
+		<key>german</key>
+		<string>der Professor (m), die Professorin (f)</string>
+		<key>german-sound</key>
+		<string>school-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stapler</string>
+		<key>german</key>
+		<string>die Heftmaschine</string>
+		<key>german-sound</key>
+		<string>school-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Ruler</string>
+		<key>german</key>
+		<string>das Lineal</string>
+		<key>german-sound</key>
+		<string>school-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Chalk</string>
+		<key>german</key>
+		<string>die Kreide</string>
+		<key>german-sound</key>
+		<string>school-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Notebook</string>
+		<key>german</key>
+		<string>das Heft</string>
+		<key>german-sound</key>
+		<string>school-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sheet of Paper</string>
+		<key>german</key>
+		<string>das Blatt Papier</string>
+		<key>german-sound</key>
+		<string>school-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Calculator</string>
+		<key>german</key>
+		<string>der Taschenrechner / der Rechner</string>
+		<key>german-sound</key>
+		<string>school-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Homework</string>
+		<key>german</key>
+		<string>die Hausaufgaben</string>
+		<key>german-sound</key>
+		<string>school-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Grades</string>
+		<key>german</key>
+		<string>die Noten</string>
+		<key>german-sound</key>
+		<string>school-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Course</string>
+		<key>german</key>
+		<string>der Kurs</string>
+		<key>german-sound</key>
+		<string>school-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Semester</string>
+		<key>german</key>
+		<string>das Semester</string>
+		<key>german-sound</key>
+		<string>school-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hard</string>
+		<key>german</key>
+		<string>schwer</string>
+		<key>german-sound</key>
+		<string>school-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>easy</string>
+		<key>german</key>
+		<string>leicht</string>
+		<key>german-sound</key>
+		<string>school-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Vacation</string>
+		<key>german</key>
+		<string>die Ferien</string>
+		<key>german-sound</key>
+		<string>school-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Assignment</string>
+		<key>german</key>
+		<string>die Aufgabe</string>
+		<key>german-sound</key>
+		<string>school-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Schedule</string>
+		<key>german</key>
+		<string>der Stundenplan</string>
+		<key>german-sound</key>
+		<string>school-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Subject</string>
+		<key>german</key>
+		<string>das Fach</string>
+		<key>german-sound</key>
+		<string>school-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Test</string>
+		<key>german</key>
+		<string>die Prüfung</string>
+		<key>german-sound</key>
+		<string>school-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Lunchtime</string>
+		<key>german</key>
+		<string>die Mittagspause</string>
+		<key>german-sound</key>
+		<string>school-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Cafeteria</string>
+		<key>german</key>
+		<string>die Mensa</string>
+		<key>german-sound</key>
+		<string>school-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Class</string>
+		<key>german</key>
+		<string>die Klasse</string>
+		<key>german-sound</key>
+		<string>school-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Lunch</string>
+		<key>german</key>
+		<string>das Mittagessen</string>
+		<key>german-sound</key>
+		<string>school-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>School Supplies</string>
+		<key>german</key>
+		<string>die Schulsachen</string>
+		<key>german-sound</key>
+		<string>school-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>favorite subject</string>
+		<key>german</key>
+		<string>das Lieblingsfach</string>
+		<key>german-sound</key>
+		<string>school-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>classroom</string>
+		<key>german</key>
+		<string>das Klassenzimmer</string>
+		<key>german-sound</key>
+		<string>school-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>library</string>
+		<key>german</key>
+		<string>das Bibliothek</string>
+		<key>german-sound</key>
+		<string>school-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>librarian</string>
+		<key>german</key>
+		<string>Bibliothekar (m), Bibliothekarin (f)</string>
+		<key>german-sound</key>
+		<string>school-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hall</string>
+		<key>german</key>
+		<string>die Halle</string>
+		<key>german-sound</key>
+		<string>school-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>staffroom</string>
+		<key>german</key>
+		<string>das Lehrerzimmer</string>
+		<key>german-sound</key>
+		<string>school-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>primary teacher</string>
+		<key>german</key>
+		<string>Grundschullehrer (m), Grundschullehrerin (f)</string>
+		<key>german-sound</key>
+		<string>school-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cloakroom</string>
+		<key>german</key>
+		<string>die Garderobe</string>
+		<key>german-sound</key>
+		<string>school-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toilets</string>
+		<key>german</key>
+		<string>die Toilletten</string>
+		<key>german-sound</key>
+		<string>school-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>laboratory</string>
+		<key>german</key>
+		<string>das Labor</string>
+		<key>german-sound</key>
+		<string>school-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>workshop</string>
+		<key>german</key>
+		<string>die Werkstatt</string>
+		<key>german-sound</key>
+		<string>school-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gym</string>
+		<key>german</key>
+		<string>die Turnhalle</string>
+		<key>german-sound</key>
+		<string>school-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sports field</string>
+		<key>german</key>
+		<string>der Platz</string>
+		<key>german-sound</key>
+		<string>school-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>headmaster</string>
+		<key>german</key>
+		<string>Schulleiter (m), Schulleiterin (f)</string>
+		<key>german-sound</key>
+		<string>school-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dining hall</string>
+		<key>german</key>
+		<string>der Speisesaal</string>
+		<key>german-sound</key>
+		<string>school-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>corridor</string>
+		<key>german</key>
+		<string>der Korridor</string>
+		<key>german-sound</key>
+		<string>school-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>school yard</string>
+		<key>german</key>
+		<string>der Schulhof</string>
+		<key>german-sound</key>
+		<string>school-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lesson</string>
+		<key>german</key>
+		<string>die Stunde</string>
+		<key>german-sound</key>
+		<string>school-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bell</string>
+		<key>german</key>
+		<string>die Klingel</string>
+		<key>german-sound</key>
+		<string>school-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>term / semester</string>
+		<key>german</key>
+		<string>das Trimester / das Semester</string>
+		<key>german-sound</key>
+		<string>school-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>detention</string>
+		<key>german</key>
+		<string>das Nachsitzen</string>
+		<key>german-sound</key>
+		<string>school-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fountain pen</string>
+		<key>german</key>
+		<string>der Füller</string>
+		<key>german-sound</key>
+		<string>school-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blackboard</string>
+		<key>german</key>
+		<string>die Tafel</string>
+		<key>german-sound</key>
+		<string>school-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>paper</string>
+		<key>german</key>
+		<string>das Papier</string>
+		<key>german-sound</key>
+		<string>school-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>text book</string>
+		<key>german</key>
+		<string>das Lehrbuch</string>
+		<key>german-sound</key>
+		<string>school-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Literature</string>
+		<key>german</key>
+		<string>Literatur</string>
+		<key>german-sound</key>
+		<string>school-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Social Studies</string>
+		<key>german</key>
+		<string>Sozialkunde</string>
+		<key>german-sound</key>
+		<string>school-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Biology</string>
+		<key>german</key>
+		<string>Biologie</string>
+		<key>german-sound</key>
+		<string>school-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Philosophy</string>
+		<key>german</key>
+		<string>Philosophie</string>
+		<key>german-sound</key>
+		<string>school-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Earth science</string>
+		<key>german</key>
+		<string>Erdkunde</string>
+		<key>german-sound</key>
+		<string>school-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Math</string>
+		<key>german</key>
+		<string>Mathematik</string>
+		<key>german-sound</key>
+		<string>school-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Geometry</string>
+		<key>german</key>
+		<string>Geometrie</string>
+		<key>german-sound</key>
+		<string>school-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Mechanical Engineering</string>
+		<key>german</key>
+		<string>Maschinenbau</string>
+		<key>german-sound</key>
+		<string>school-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Management</string>
+		<key>german</key>
+		<string>Betriebswirtschaft</string>
+		<key>german-sound</key>
+		<string>school-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Marketing</string>
+		<key>german</key>
+		<string>Marketing</string>
+		<key>german-sound</key>
+		<string>school-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Physics</string>
+		<key>german</key>
+		<string>Physik</string>
+		<key>german-sound</key>
+		<string>school-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Music</string>
+		<key>german</key>
+		<string>Musik</string>
+		<key>german-sound</key>
+		<string>school-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Foreign languages</string>
+		<key>german</key>
+		<string>Fremdsprachen</string>
+		<key>german-sound</key>
+		<string>school-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Linguistics</string>
+		<key>german</key>
+		<string>Linguistik</string>
+		<key>german-sound</key>
+		<string>school-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>History</string>
+		<key>german</key>
+		<string>Geschichte</string>
+		<key>german-sound</key>
+		<string>school-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Natural Science</string>
+		<key>german</key>
+		<string>Naturwissenschaft</string>
+		<key>german-sound</key>
+		<string>school-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Psychology</string>
+		<key>german</key>
+		<string>Psychologie</string>
+		<key>german-sound</key>
+		<string>school-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sociology</string>
+		<key>german</key>
+		<string>Soziologie</string>
+		<key>german-sound</key>
+		<string>school-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Geography</string>
+		<key>german</key>
+		<string>Geographie</string>
+		<key>german-sound</key>
+		<string>school-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Computer science</string>
+		<key>german</key>
+		<string>Informatik</string>
+		<key>german-sound</key>
+		<string>school-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Economics</string>
+		<key>german</key>
+		<string>Wirtschaft</string>
+		<key>german-sound</key>
+		<string>school-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Chemistry</string>
+		<key>german</key>
+		<string>Chemie</string>
+		<key>german-sound</key>
+		<string>school-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Media Studies</string>
+		<key>german</key>
+		<string>Medienwissenschaft</string>
+		<key>german-sound</key>
+		<string>school-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Political Science</string>
+		<key>german</key>
+		<string>Politik</string>
+		<key>german-sound</key>
+		<string>school-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Art</string>
+		<key>german</key>
+		<string>Kunst</string>
+		<key>german-sound</key>
+		<string>school-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bachelor&apos;s degree</string>
+		<key>german</key>
+		<string>Bachelorabschluss</string>
+		<key>german-sound</key>
+		<string>school-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>master&apos;s degree</string>
+		<key>german</key>
+		<string>Magister</string>
+		<key>german-sound</key>
+		<string>school-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>PhD</string>
+		<key>german</key>
+		<string>Doktortitel</string>
+		<key>german-sound</key>
+		<string>school-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kindergarten</string>
+		<key>german</key>
+		<string>Kindergarten</string>
+		<key>german-sound</key>
+		<string>school-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>degree</string>
+		<key>german</key>
+		<string>Hochschulabschluss</string>
+		<key>german-sound</key>
+		<string>school-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>postgraduate</string>
+		<key>german</key>
+		<string>Doktorand</string>
+		<key>german-sound</key>
+		<string>school-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>diploma</string>
+		<key>german</key>
+		<string>Diplom</string>
+		<key>german-sound</key>
+		<string>school-98</string>
+	</dict>
+</array>

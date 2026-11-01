@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>airplane</string>
+		<key>german</key>
+		<string>das Flugzeug</string>
+		<key>german-sound</key>
+		<string>transport-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bicycle</string>
+		<key>german</key>
+		<string>das Fahrrad</string>
+		<key>german-sound</key>
+		<string>transport-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>car</string>
+		<key>german</key>
+		<string>das Auto / der Wagen</string>
+		<key>german-sound</key>
+		<string>transport-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>helicopter</string>
+		<key>german</key>
+		<string>der Hubschrauber</string>
+		<key>german-sound</key>
+		<string>transport-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>motorcycle</string>
+		<key>german</key>
+		<string>das Motorrad</string>
+		<key>german-sound</key>
+		<string>transport-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>taxi</string>
+		<key>german</key>
+		<string>das Taxi</string>
+		<key>german-sound</key>
+		<string>transport-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>train</string>
+		<key>german</key>
+		<string>die Bahn / der Zug</string>
+		<key>german-sound</key>
+		<string>transport-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>truck</string>
+		<key>german</key>
+		<string>der Lastwagen</string>
+		<key>german-sound</key>
+		<string>transport-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tram</string>
+		<key>german</key>
+		<string>die Straßenbahn</string>
+		<key>german-sound</key>
+		<string>transport-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>subway</string>
+		<key>german</key>
+		<string>die U-Bahn</string>
+		<key>german-sound</key>
+		<string>transport-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ship</string>
+		<key>german</key>
+		<string>das Schiff</string>
+		<key>german-sound</key>
+		<string>transport-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boat</string>
+		<key>german</key>
+		<string>das Boot</string>
+		<key>german-sound</key>
+		<string>transport-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ferry</string>
+		<key>german</key>
+		<string>die Fähre</string>
+		<key>german-sound</key>
+		<string>transport-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trailer</string>
+		<key>german</key>
+		<string>der Anhänger</string>
+		<key>german-sound</key>
+		<string>transport-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sailing boat</string>
+		<key>german</key>
+		<string>das Segelboot</string>
+		<key>german-sound</key>
+		<string>transport-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coach</string>
+		<key>german</key>
+		<string>der Reisebus</string>
+		<key>german-sound</key>
+		<string>transport-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ticket</string>
+		<key>german</key>
+		<string>die Fahrkarte / der Fahrschein</string>
+		<key>german-sound</key>
+		<string>transport-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>information office</string>
+		<key>german</key>
+		<string>die Auskunftsbüro</string>
+		<key>german-sound</key>
+		<string>transport-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>depatrure</string>
+		<key>german</key>
+		<string>die Abfahrt</string>
+		<key>german-sound</key>
+		<string>transport-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>timetable</string>
+		<key>german</key>
+		<string>der Fahrplan</string>
+		<key>german-sound</key>
+		<string>transport-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>booking office</string>
+		<key>german</key>
+		<string>der Fahrkartenschalter</string>
+		<key>german-sound</key>
+		<string>transport-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>second class</string>
+		<key>german</key>
+		<string>die zweite Klasse</string>
+		<key>german-sound</key>
+		<string>transport-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seat</string>
+		<key>german</key>
+		<string>der Sitzplatz</string>
+		<key>german-sound</key>
+		<string>transport-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>platform</string>
+		<key>german</key>
+		<string>der Bahnsteig</string>
+		<key>german-sound</key>
+		<string>transport-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>valid</string>
+		<key>german</key>
+		<string>gültig (adj)</string>
+		<key>german-sound</key>
+		<string>transport-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>journey</string>
+		<key>german</key>
+		<string>die Reise / die Fahrt</string>
+		<key>german-sound</key>
+		<string>transport-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to change</string>
+		<key>german</key>
+		<string>unsteigen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get off</string>
+		<key>german</key>
+		<string>aussteigen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bus driver</string>
+		<key>german</key>
+		<string>der Busfahrer / die Busfahrerin</string>
+		<key>german-sound</key>
+		<string>transport-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>non-smoking</string>
+		<key>german</key>
+		<string>Nichtraucher (adj)</string>
+		<key>german-sound</key>
+		<string>transport-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>luggage</string>
+		<key>german</key>
+		<string>das Gepäck</string>
+		<key>german-sound</key>
+		<string>transport-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>airport</string>
+		<key>german</key>
+		<string>der Flughafen</string>
+		<key>german-sound</key>
+		<string>transport-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>airport terminal</string>
+		<key>german</key>
+		<string>der Terminal</string>
+		<key>german-sound</key>
+		<string>transport-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gate</string>
+		<key>german</key>
+		<string>der Flugsteig</string>
+		<key>german-sound</key>
+		<string>transport-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boarding lounge</string>
+		<key>german</key>
+		<string>die Abflughalle</string>
+		<key>german-sound</key>
+		<string>transport-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take off</string>
+		<key>german</key>
+		<string>abfliegen / abheben (verb)</string>
+		<key>german-sound</key>
+		<string>transport-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to land</string>
+		<key>german</key>
+		<string>absetzen / landen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plane ticket</string>
+		<key>german</key>
+		<string>das Ticket / der Flugschein</string>
+		<key>german-sound</key>
+		<string>transport-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pilot</string>
+		<key>german</key>
+		<string>der Pilot / die Pilotin</string>
+		<key>german-sound</key>
+		<string>transport-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>captain</string>
+		<key>german</key>
+		<string>der Kapitän</string>
+		<key>german-sound</key>
+		<string>transport-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>air hostess</string>
+		<key>german</key>
+		<string>die Stewardeß</string>
+		<key>german-sound</key>
+		<string>transport-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flight</string>
+		<key>german</key>
+		<string>der Flug</string>
+		<key>german-sound</key>
+		<string>transport-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>airline</string>
+		<key>german</key>
+		<string>die Fluggesellschaft / die Fluglinie</string>
+		<key>german-sound</key>
+		<string>transport-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>battery</string>
+		<key>german</key>
+		<string>die Batterie</string>
+		<key>german-sound</key>
+		<string>transport-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seat belt</string>
+		<key>german</key>
+		<string>der Sicherheitsgurt</string>
+		<key>german-sound</key>
+		<string>transport-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>motor</string>
+		<key>german</key>
+		<string>der Motor</string>
+		<key>german-sound</key>
+		<string>transport-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gas</string>
+		<key>german</key>
+		<string>das Benzin</string>
+		<key>german-sound</key>
+		<string>transport-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oil</string>
+		<key>german</key>
+		<string>das Öl</string>
+		<key>german-sound</key>
+		<string>transport-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>breaks</string>
+		<key>german</key>
+		<string>die Bremse</string>
+		<key>german-sound</key>
+		<string>transport-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>windshield wipers</string>
+		<key>german</key>
+		<string>der Scheibenwischer</string>
+		<key>german-sound</key>
+		<string>transport-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horn</string>
+		<key>german</key>
+		<string>die Hupe</string>
+		<key>german-sound</key>
+		<string>transport-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>headlight</string>
+		<key>german</key>
+		<string>der Scheinwerfer</string>
+		<key>german-sound</key>
+		<string>transport-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tire</string>
+		<key>german</key>
+		<string>der Reifen</string>
+		<key>german-sound</key>
+		<string>transport-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>steering wheel</string>
+		<key>german</key>
+		<string>das Lenkrad</string>
+		<key>german-sound</key>
+		<string>transport-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rear view mirror</string>
+		<key>german</key>
+		<string>der Rückspiegel</string>
+		<key>german-sound</key>
+		<string>transport-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>radiator</string>
+		<key>german</key>
+		<string>der Kühler</string>
+		<key>german-sound</key>
+		<string>transport-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>abroad</string>
+		<key>german</key>
+		<string>das Ausland</string>
+		<key>german-sound</key>
+		<string>transport-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foreigner male</string>
+		<key>german</key>
+		<string>der Ausländer</string>
+		<key>german-sound</key>
+		<string>transport-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foreigner female</string>
+		<key>german</key>
+		<string>die Ausländerin</string>
+		<key>german-sound</key>
+		<string>transport-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Holiday</string>
+		<key>german</key>
+		<string>die Ferien / der Urlaub</string>
+		<key>german-sound</key>
+		<string>transport-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foreign language</string>
+		<key>german</key>
+		<string>die Fremdsprache</string>
+		<key>german-sound</key>
+		<string>transport-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>breakfast</string>
+		<key>german</key>
+		<string>das Frühstück</string>
+		<key>german-sound</key>
+		<string>transport-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hotel</string>
+		<key>german</key>
+		<string>das Hotel</string>
+		<key>german-sound</key>
+		<string>transport-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>museum</string>
+		<key>german</key>
+		<string>das Museum</string>
+		<key>german-sound</key>
+		<string>transport-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>travel</string>
+		<key>german</key>
+		<string>die Reise</string>
+		<key>german-sound</key>
+		<string>transport-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>restaurant</string>
+		<key>german</key>
+		<string>das Restaurant</string>
+		<key>german-sound</key>
+		<string>transport-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beach</string>
+		<key>german</key>
+		<string>der Strand</string>
+		<key>german-sound</key>
+		<string>transport-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tourist male</string>
+		<key>german</key>
+		<string>der Tourist</string>
+		<key>german-sound</key>
+		<string>transport-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tourist female</string>
+		<key>german</key>
+		<string>die Touristin</string>
+		<key>german-sound</key>
+		<string>transport-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>track / lane / railroad</string>
+		<key>german</key>
+		<string>der Bahnen</string>
+		<key>german-sound</key>
+		<string>transport-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to depart</string>
+		<key>german</key>
+		<string>abfahren / abreisen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to arrive</string>
+		<key>german</key>
+		<string>ankommen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to travel (not walk)</string>
+		<key>german</key>
+		<string>reisen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go (walk)</string>
+		<key>german</key>
+		<string>gehen (verb)</string>
+		<key>german-sound</key>
+		<string>transport-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pack</string>
+		<key>german</key>
+		<string>einpacken (verb)</string>
+		<key>german-sound</key>
+		<string>transport-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to drive</string>
+		<key>german</key>
+		<string>fahren (verb)</string>
+		<key>german-sound</key>
+		<string>transport-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scooter</string>
+		<key>german</key>
+		<string>der Roller / der Scooter</string>
+		<key>german-sound</key>
+		<string>transport-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by bicycle</string>
+		<key>german</key>
+		<string>mit dem Fahrrad</string>
+		<key>german-sound</key>
+		<string>transport-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by motorbike</string>
+		<key>german</key>
+		<string>mit dem Motorrad</string>
+		<key>german-sound</key>
+		<string>transport-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by scooter</string>
+		<key>german</key>
+		<string>mit dem Roller</string>
+		<key>german-sound</key>
+		<string>transport-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by car</string>
+		<key>german</key>
+		<string>mit dem Auto</string>
+		<key>german-sound</key>
+		<string>transport-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by plane</string>
+		<key>german</key>
+		<string>mit dem Flugzeug</string>
+		<key>german-sound</key>
+		<string>transport-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by helicopter</string>
+		<key>german</key>
+		<string>mit dem Hubschrauber</string>
+		<key>german-sound</key>
+		<string>transport-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by train</string>
+		<key>german</key>
+		<string>mit dem Zug</string>
+		<key>german-sound</key>
+		<string>transport-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by underground / by tube</string>
+		<key>german</key>
+		<string>mit der U-Bahn</string>
+		<key>german-sound</key>
+		<string>transport-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>passport</string>
+		<key>german</key>
+		<string>der Pass</string>
+		<key>german-sound</key>
+		<string>transport-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foreign currency</string>
+		<key>german</key>
+		<string>die ausländische Währung</string>
+		<key>german-sound</key>
+		<string>transport-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>customs</string>
+		<key>german</key>
+		<string>der Zoll</string>
+		<key>german-sound</key>
+		<string>transport-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nothing to declare</string>
+		<key>german</key>
+		<string>nichts zu verzollen</string>
+		<key>german-sound</key>
+		<string>transport-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>customs officer</string>
+		<key>german</key>
+		<string>der Zollbeamte / die Zollbeamtin</string>
+		<key>german-sound</key>
+		<string>transport-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>customs duty</string>
+		<key>german</key>
+		<string>die Zollgebühr</string>
+		<key>german-sound</key>
+		<string>transport-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>car park</string>
+		<key>german</key>
+		<string>der Parkplatz</string>
+		<key>german-sound</key>
+		<string>transport-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tourist office</string>
+		<key>german</key>
+		<string>das Touristenbüro</string>
+		<key>german-sound</key>
+		<string>transport-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sightseeing tour</string>
+		<key>german</key>
+		<string>die Stadtrundfahrt</string>
+		<key>german-sound</key>
+		<string>transport-94</string>
+	</dict>
+</array>

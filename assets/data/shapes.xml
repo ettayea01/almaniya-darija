@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>circle</string>
+		<key>german</key>
+		<string>der Kreis</string>
+		<key>german-sound</key>
+		<string>shapes-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>square</string>
+		<key>german</key>
+		<string>das Viereck</string>
+		<key>german-sound</key>
+		<string>shapes-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cube</string>
+		<key>german</key>
+		<string>der Würfel</string>
+		<key>german-sound</key>
+		<string>shapes-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>triangle</string>
+		<key>german</key>
+		<string>das Dreieck</string>
+		<key>german-sound</key>
+		<string>shapes-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>square</string>
+		<key>german</key>
+		<string>das Quadrat</string>
+		<key>german-sound</key>
+		<string>shapes-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rectangle</string>
+		<key>german</key>
+		<string>das Rechteck</string>
+		<key>german-sound</key>
+		<string>shapes-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sphere</string>
+		<key>german</key>
+		<string>die Kugel</string>
+		<key>german-sound</key>
+		<string>shapes-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>star</string>
+		<key>german</key>
+		<string>der Stern</string>
+		<key>german-sound</key>
+		<string>shapes-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cylinder</string>
+		<key>german</key>
+		<string>der Zylinder</string>
+		<key>german-sound</key>
+		<string>shapes-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>semicircle</string>
+		<key>german</key>
+		<string>der Halbkreis</string>
+		<key>german-sound</key>
+		<string>shapes-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cone</string>
+		<key>german</key>
+		<string>der Kegel</string>
+		<key>german-sound</key>
+		<string>shapes-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dot, point</string>
+		<key>german</key>
+		<string>der Punkt</string>
+		<key>german-sound</key>
+		<string>shapes-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>diamond / rhombus</string>
+		<key>german</key>
+		<string>der Rhombus</string>
+		<key>german-sound</key>
+		<string>shapes-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>octagon</string>
+		<key>german</key>
+		<string>das Achteck</string>
+		<key>german-sound</key>
+		<string>shapes-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pentagon</string>
+		<key>german</key>
+		<string>das Fünfeck</string>
+		<key>german-sound</key>
+		<string>shapes-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heart</string>
+		<key>german</key>
+		<string>das Herz</string>
+		<key>german-sound</key>
+		<string>shapes-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oval</string>
+		<key>german</key>
+		<string>das Oval</string>
+		<key>german-sound</key>
+		<string>shapes-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hexagon</string>
+		<key>german</key>
+		<string>das Sechseck</string>
+		<key>german-sound</key>
+		<string>shapes-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>zigzag</string>
+		<key>german</key>
+		<string>das Zickzack</string>
+		<key>german-sound</key>
+		<string>shapes-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hemisphere</string>
+		<key>german</key>
+		<string>die Halbkugel</string>
+		<key>german-sound</key>
+		<string>shapes-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pyramid</string>
+		<key>german</key>
+		<string>die Pyramide</string>
+		<key>german-sound</key>
+		<string>shapes-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spiral</string>
+		<key>german</key>
+		<string>die Spirale</string>
+		<key>german-sound</key>
+		<string>shapes-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shape</string>
+		<key>german</key>
+		<string>die Form (singular), die Formen (plural)</string>
+		<key>german-sound</key>
+		<string>shapes-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trapezoid</string>
+		<key>german</key>
+		<string>das Trapezoid</string>
+		<key>german-sound</key>
+		<string>shapes-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heptagon</string>
+		<key>german</key>
+		<string>das Siebeneck</string>
+		<key>german-sound</key>
+		<string>shapes-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nonagon</string>
+		<key>german</key>
+		<string>das Neuneck</string>
+		<key>german-sound</key>
+		<string>shapes-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>decagon</string>
+		<key>german</key>
+		<string>das Zehneck</string>
+		<key>german-sound</key>
+		<string>shapes-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ball</string>
+		<key>german</key>
+		<string>die Kugel</string>
+		<key>german-sound</key>
+		<string>shapes-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>prism</string>
+		<key>german</key>
+		<string>das Prisma</string>
+		<key>german-sound</key>
+		<string>shapes-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>arch</string>
+		<key>german</key>
+		<string>der Bogen</string>
+		<key>german-sound</key>
+		<string>shapes-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wedge</string>
+		<key>german</key>
+		<string>der Keil</string>
+		<key>german-sound</key>
+		<string>shapes-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>crescent</string>
+		<key>german</key>
+		<string>der Halbmond</string>
+		<key>german-sound</key>
+		<string>shapes-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ellipse</string>
+		<key>german</key>
+		<string>die Ellipse</string>
+		<key>german-sound</key>
+		<string>shapes-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>line</string>
+		<key>german</key>
+		<string>die Linie</string>
+		<key>german-sound</key>
+		<string>shapes-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>round</string>
+		<key>german</key>
+		<string>die Runde</string>
+		<key>german-sound</key>
+		<string>shapes-35</string>
+	</dict>
+</array>

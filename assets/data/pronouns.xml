@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>I</string>
+		<key>german</key>
+		<string>ich</string>
+		<key>german-sound</key>
+		<string>pronoun-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>you (singular, informal)</string>
+		<key>german</key>
+		<string>du</string>
+		<key>german-sound</key>
+		<string>pronoun-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>he</string>
+		<key>german</key>
+		<string>er</string>
+		<key>german-sound</key>
+		<string>pronoun-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>she / her</string>
+		<key>german</key>
+		<string>sie</string>
+		<key>german-sound</key>
+		<string>pronoun-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>it</string>
+		<key>german</key>
+		<string>es</string>
+		<key>german-sound</key>
+		<string>pronoun-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>we</string>
+		<key>german</key>
+		<string>wir</string>
+		<key>german-sound</key>
+		<string>pronoun-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>you (plural, informal)</string>
+		<key>german</key>
+		<string>ihr</string>
+		<key>german-sound</key>
+		<string>pronoun-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>they / them</string>
+		<key>german</key>
+		<string>sie</string>
+		<key>german-sound</key>
+		<string>pronoun-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>you (singular or plural, formal)</string>
+		<key>german</key>
+		<string>Sie [Remember that the formal Sie (you) always has a capital letter]</string>
+		<key>german-sound</key>
+		<string>pronoun-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>me</string>
+		<key>german</key>
+		<string>mich</string>
+		<key>german-sound</key>
+		<string>pronoun-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>him</string>
+		<key>german</key>
+		<string>ihn</string>
+		<key>german-sound</key>
+		<string>pronoun-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>us</string>
+		<key>german</key>
+		<string>uns</string>
+		<key>german-sound</key>
+		<string>pronoun-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I work in London</string>
+		<key>german</key>
+		<string>Ich arbeite in London</string>
+		<key>german-sound</key>
+		<string>pronoun-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are from Germany</string>
+		<key>german</key>
+		<string>Du kommst aus Deutschland</string>
+		<key>german-sound</key>
+		<string>pronoun-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>He speaks English</string>
+		<key>german</key>
+		<string>Er spricht Englisch</string>
+		<key>german-sound</key>
+		<string>pronoun-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>She is learning German</string>
+		<key>german</key>
+		<string>Sie lernt Deutsch</string>
+		<key>german-sound</key>
+		<string>pronoun-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is hot</string>
+		<key>german</key>
+		<string>Es ist heiß</string>
+		<key>german-sound</key>
+		<string>pronoun-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We are going to the Cinema</string>
+		<key>german</key>
+		<string>Wir gehen ins Kino</string>
+		<key>german-sound</key>
+		<string>pronoun-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are related</string>
+		<key>german</key>
+		<string>Ihr seid verwandt</string>
+		<key>german-sound</key>
+		<string>pronoun-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>They are going to a concert</string>
+		<key>german</key>
+		<string>sie gehen auf ein Konzert</string>
+		<key>german-sound</key>
+		<string>pronoun-20</string>
+	</dict>
+</array>

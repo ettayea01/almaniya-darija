@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>german</key>
+		<string>Woher kommen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-1</string>
+		<key>german-sound</key>
+		<string>constarter-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s lovely weather today, is not it?</string>
+		<key>german</key>
+		<string>Schönes Wetter heute, nicht wahr?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-2</string>
+		<key>german-sound</key>
+		<string>constarter-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My name is</string>
+		<key>german</key>
+		<string>Mein Name ist</string>
+		<key>english-sound</key>
+		<string>constarter-eng-3</string>
+		<key>german-sound</key>
+		<string>constarter-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is this seat free?</string>
+		<key>german</key>
+		<string>Ist dieser Platz frei?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-4</string>
+		<key>german-sound</key>
+		<string>constarter-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What would you recommend?</string>
+		<key>german</key>
+		<string>Was empfehlen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-5</string>
+		<key>german-sound</key>
+		<string>constarter-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>german</key>
+		<string>Woher kommen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-6</string>
+		<key>german-sound</key>
+		<string>constarter-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am from</string>
+		<key>german</key>
+		<string>Ich Komme aus</string>
+		<key>english-sound</key>
+		<string>constarter-eng-7</string>
+		<key>german-sound</key>
+		<string>constarter-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Excuse me, how do I get to the train station / movies / pub?</string>
+		<key>german</key>
+		<string>Entschuldigung, wie komme ich denn zum Bahnhof / Kino / zur Kneipe</string>
+		<key>english-sound</key>
+		<string>constarter-eng-8</string>
+		<key>german-sound</key>
+		<string>constarter-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can we sit over there?</string>
+		<key>german</key>
+		<string>Können wir dort sitzen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-9</string>
+		<key>german-sound</key>
+		<string>constarter-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What do you recommend?</string>
+		<key>german</key>
+		<string>Was empfehlen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-10</string>
+		<key>german-sound</key>
+		<string>constarter-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where should I go now?</string>
+		<key>german</key>
+		<string>Wohin muss ich jetzt gehen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-11</string>
+		<key>german-sound</key>
+		<string>constarter-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Excuse me, could I ask you something?</string>
+		<key>german</key>
+		<string>Entschuldigung, darf ich Sie etwas fragen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-12</string>
+		<key>german-sound</key>
+		<string>constarter-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like this</string>
+		<key>german</key>
+		<string>Das gefällt mir</string>
+		<key>english-sound</key>
+		<string>constarter-eng-13</string>
+		<key>german-sound</key>
+		<string>constarter-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Just a moment</string>
+		<key>german</key>
+		<string>Moment, bitte</string>
+		<key>english-sound</key>
+		<string>constarter-eng-14</string>
+		<key>german-sound</key>
+		<string>constarter-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yes, please</string>
+		<key>german</key>
+		<string>Ja, bitte</string>
+		<key>english-sound</key>
+		<string>constarter-eng-15</string>
+		<key>german-sound</key>
+		<string>constarter-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>No, thanks</string>
+		<key>german</key>
+		<string>Nein, danke</string>
+		<key>english-sound</key>
+		<string>constarter-eng-16</string>
+		<key>german-sound</key>
+		<string>constarter-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can you help me, please?</string>
+		<key>german</key>
+		<string>Können Sie mir bitte helfen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-17</string>
+		<key>german-sound</key>
+		<string>constarter-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m sorry to bother you, but …</string>
+		<key>german</key>
+		<string>Es tut mir leid, Sie zu stören, aber…</string>
+		<key>english-sound</key>
+		<string>constarter-eng-18</string>
+		<key>german-sound</key>
+		<string>constarter-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Could I ask you something quickly?</string>
+		<key>german</key>
+		<string>Kann ich Sie schnell etwas fragen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-19</string>
+		<key>german-sound</key>
+		<string>constarter-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I introduce my wife, Maria?</string>
+		<key>german</key>
+		<string>Kann ich meine Frau, Maria einführen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-20</string>
+		<key>german-sound</key>
+		<string>constarter-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Not bad</string>
+		<key>german</key>
+		<string>Nicht schlecht</string>
+		<key>english-sound</key>
+		<string>constarter-eng-21</string>
+		<key>german-sound</key>
+		<string>constarter-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you going?</string>
+		<key>german</key>
+		<string>Wohin gehst du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-22</string>
+		<key>german-sound</key>
+		<string>constarter-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you travel a lot?</string>
+		<key>german</key>
+		<string>Reist du viel?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-23</string>
+		<key>german-sound</key>
+		<string>constarter-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How many languages do you speak?</string>
+		<key>german</key>
+		<string>Wie viele Sprachen sprichst du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-24</string>
+		<key>german-sound</key>
+		<string>constarter-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is this seat taken?</string>
+		<key>german</key>
+		<string>Ist dieser Platz besetzt?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-25</string>
+		<key>german-sound</key>
+		<string>constarter-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What do you do for a living?</string>
+		<key>german</key>
+		<string>Was machen Sie beruflich?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-26</string>
+		<key>german-sound</key>
+		<string>constarter-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What do you study?</string>
+		<key>german</key>
+		<string>Was studierst du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-27</string>
+		<key>german-sound</key>
+		<string>constarter-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What brings you here?</string>
+		<key>german</key>
+		<string>Was bringt dich hierher?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-28</string>
+		<key>german-sound</key>
+		<string>constarter-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you come here often?</string>
+		<key>german</key>
+		<string>Kommst du oft hierher?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-29</string>
+		<key>german-sound</key>
+		<string>constarter-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The Weather is nice today</string>
+		<key>german</key>
+		<string>Das Wetter ist heute schön</string>
+		<key>english-sound</key>
+		<string>constarter-eng-30</string>
+		<key>german-sound</key>
+		<string>constarter-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have siblings?</string>
+		<key>german</key>
+		<string>Hast du Geschwister?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-31</string>
+		<key>german-sound</key>
+		<string>constarter-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have any children?</string>
+		<key>german</key>
+		<string>Hast du Kinder?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-32</string>
+		<key>german-sound</key>
+		<string>constarter-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How old are you?</string>
+		<key>german</key>
+		<string>Wie alt sind Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-33</string>
+		<key>german-sound</key>
+		<string>constarter-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where did you grow up?</string>
+		<key>german</key>
+		<string>Wo bist du aufgewachsen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-34</string>
+		<key>german-sound</key>
+		<string>constarter-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have pets?</string>
+		<key>german</key>
+		<string>Haben sie Haustiere?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-35</string>
+		<key>german-sound</key>
+		<string>constarter-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like travelling?</string>
+		<key>german</key>
+		<string>Magst du es, zu reisen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-36</string>
+		<key>german-sound</key>
+		<string>constarter-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are your children?</string>
+		<key>german</key>
+		<string>Wie geht es deinen Kindern?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-37</string>
+		<key>german-sound</key>
+		<string>constarter-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are your parents?</string>
+		<key>german</key>
+		<string>Wie geht es deinen Eltern?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-38</string>
+		<key>german-sound</key>
+		<string>constarter-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When did you arrive?</string>
+		<key>german</key>
+		<string>Wann seid ihr angekommen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-39</string>
+		<key>german-sound</key>
+		<string>constarter-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like your job?</string>
+		<key>german</key>
+		<string>Magst du deinen Job?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-40</string>
+		<key>german-sound</key>
+		<string>constarter-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Did you enjoy it?</string>
+		<key>german</key>
+		<string>Hast du es genossen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-41</string>
+		<key>german-sound</key>
+		<string>constarter-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like to cook?</string>
+		<key>german</key>
+		<string>Kochst du gerne?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-42</string>
+		<key>german-sound</key>
+		<string>constarter-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is your favorite food?</string>
+		<key>german</key>
+		<string>Was ist dein Lieblingsessen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-43</string>
+		<key>german-sound</key>
+		<string>constarter-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like Italian food?</string>
+		<key>german</key>
+		<string>Magst du italienisches Essen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-44</string>
+		<key>german-sound</key>
+		<string>constarter-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you enjoy reading?</string>
+		<key>german</key>
+		<string>Liest du gerne?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-45</string>
+		<key>german-sound</key>
+		<string>constarter-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like to watch movies?</string>
+		<key>german</key>
+		<string>Magst du es, Filme zu schauen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-46</string>
+		<key>german-sound</key>
+		<string>constarter-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is your favorite movie?</string>
+		<key>german</key>
+		<string>Was ist dein Lieblingsfilm?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-47</string>
+		<key>german-sound</key>
+		<string>constarter-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is your favorite book?</string>
+		<key>german</key>
+		<string>Was ist dein Lieblingsbuch?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-48</string>
+		<key>german-sound</key>
+		<string>constarter-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Which team do you support?</string>
+		<key>german</key>
+		<string>Welches Team unterstützt Du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-49</string>
+		<key>german-sound</key>
+		<string>constarter-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you work out?</string>
+		<key>german</key>
+		<string>Trainierst du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-50</string>
+		<key>german-sound</key>
+		<string>constarter-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you work?</string>
+		<key>german</key>
+		<string>Wo arbeitest du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-51</string>
+		<key>german-sound</key>
+		<string>constarter-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What are your hobbies?</string>
+		<key>german</key>
+		<string>Was sind deine Hobbies?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-52</string>
+		<key>german-sound</key>
+		<string>constarter-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you study or work?</string>
+		<key>german</key>
+		<string>Lernst oder arbeitest du?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-53</string>
+		<key>german-sound</key>
+		<string>constarter-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you agree?</string>
+		<key>german</key>
+		<string>Sind Sie einverstanden?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-54</string>
+		<key>german-sound</key>
+		<string>constarter-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have heard that ...</string>
+		<key>german</key>
+		<string>Ich habe das gehört ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-55</string>
+		<key>german-sound</key>
+		<string>constarter-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It reminds me ...</string>
+		<key>german</key>
+		<string>Es erinnert mich ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-56</string>
+		<key>german-sound</key>
+		<string>constarter-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Speaking of ...</string>
+		<key>german</key>
+		<string>Apropos ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-57</string>
+		<key>german-sound</key>
+		<string>constarter-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I wondered ...</string>
+		<key>german</key>
+		<string>Ich fragte mich ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-58</string>
+		<key>german-sound</key>
+		<string>constarter-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you from here?</string>
+		<key>german</key>
+		<string>Sind sie von hier?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-59</string>
+		<key>german-sound</key>
+		<string>constarter-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like Christmas?</string>
+		<key>german</key>
+		<string>Magst du Weihnachten?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-60</string>
+		<key>german-sound</key>
+		<string>constarter-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What are you doing for christmas?</string>
+		<key>german</key>
+		<string>Was machst du an Weihnachten?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-61</string>
+		<key>german-sound</key>
+		<string>constarter-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can you drive?</string>
+		<key>german</key>
+		<string>Können Sie fahren?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-62</string>
+		<key>german-sound</key>
+		<string>constarter-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you smoke?</string>
+		<key>german</key>
+		<string>Rauchen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-63</string>
+		<key>german-sound</key>
+		<string>constarter-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Oh dear God!</string>
+		<key>german</key>
+		<string>Oh mein Gott!</string>
+		<key>english-sound</key>
+		<string>constarter-eng-64</string>
+		<key>german-sound</key>
+		<string>constarter-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We will see ...</string>
+		<key>german</key>
+		<string>Wir werden sehen ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-65</string>
+		<key>german-sound</key>
+		<string>constarter-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You know?</string>
+		<key>german</key>
+		<string>Wissen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-66</string>
+		<key>german-sound</key>
+		<string>constarter-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you religious?</string>
+		<key>german</key>
+		<string>Bist du religiös?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-67</string>
+		<key>german-sound</key>
+		<string>constarter-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you sing in the shower?</string>
+		<key>german</key>
+		<string>Singst du in der Dusche?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-68</string>
+		<key>german-sound</key>
+		<string>constarter-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My favorite food is ...</string>
+		<key>german</key>
+		<string>Mein Lieblingsessen ist ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-69</string>
+		<key>german-sound</key>
+		<string>constarter-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What kind of music do you like?</string>
+		<key>german</key>
+		<string>Welche Art von Musik haben Sie gern?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-70</string>
+		<key>german-sound</key>
+		<string>constarter-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I prefer ...</string>
+		<key>german</key>
+		<string>Ich bevorzuge ...</string>
+		<key>english-sound</key>
+		<string>constarter-eng-71</string>
+		<key>german-sound</key>
+		<string>constarter-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Me too</string>
+		<key>german</key>
+		<string>Ich auch</string>
+		<key>english-sound</key>
+		<string>constarter-eng-72</string>
+		<key>german-sound</key>
+		<string>constarter-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Neither do I</string>
+		<key>german</key>
+		<string>Ich auch nicht</string>
+		<key>english-sound</key>
+		<string>constarter-eng-73</string>
+		<key>german-sound</key>
+		<string>constarter-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How was your weekend?</string>
+		<key>german</key>
+		<string>Wie war dein Wochenende?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-74</string>
+		<key>german-sound</key>
+		<string>constarter-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How is your family?</string>
+		<key>german</key>
+		<string>Wie geht&apos;s deiner Familie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-75</string>
+		<key>german-sound</key>
+		<string>constarter-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I love this song</string>
+		<key>german</key>
+		<string>Ich liebe dieses Lied</string>
+		<key>english-sound</key>
+		<string>constarter-eng-76</string>
+		<key>german-sound</key>
+		<string>constarter-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like dancing?</string>
+		<key>german</key>
+		<string>Tanzt du gerne?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-77</string>
+		<key>german-sound</key>
+		<string>constarter-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would you like to dance?</string>
+		<key>german</key>
+		<string>Möchtest du tanzen?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-78</string>
+		<key>german-sound</key>
+		<string>constarter-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>do you have any tattoos?</string>
+		<key>german</key>
+		<string>hast du irgendwelche Tattoos?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-79</string>
+		<key>german-sound</key>
+		<string>constarter-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have a girlfriend?</string>
+		<key>german</key>
+		<string>Hast du eine Freundin?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-80</string>
+		<key>german-sound</key>
+		<string>constarter-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have a boyfriend?</string>
+		<key>german</key>
+		<string>Hast du einen Freund?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-81</string>
+		<key>german-sound</key>
+		<string>constarter-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What&apos;s your favourite song?</string>
+		<key>german</key>
+		<string>Was ist dein Lieblingslied?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-82</string>
+		<key>german-sound</key>
+		<string>constarter-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you live?</string>
+		<key>german</key>
+		<string>Wo wohnen Sie?</string>
+		<key>english-sound</key>
+		<string>constarter-eng-83</string>
+		<key>german-sound</key>
+		<string>constarter-german-83</string>
+	</dict>
+</array>

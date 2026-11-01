@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>What?</string>
+		<key>german</key>
+		<string>Was?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-1</string>
+		<key>german-sound</key>
+		<string>cquestions-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where?</string>
+		<key>german</key>
+		<string>Wo?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-2</string>
+		<key>german-sound</key>
+		<string>cquestions-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When?</string>
+		<key>german</key>
+		<string>Wann?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-3</string>
+		<key>german-sound</key>
+		<string>cquestions-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Why?</string>
+		<key>german</key>
+		<string>Warum?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-4</string>
+		<key>german-sound</key>
+		<string>cquestions-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who?</string>
+		<key>german</key>
+		<string>Wer?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-5</string>
+		<key>german-sound</key>
+		<string>cquestions-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How?</string>
+		<key>german</key>
+		<string>Wie?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-6</string>
+		<key>german-sound</key>
+		<string>cquestions-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much?</string>
+		<key>german</key>
+		<string>Wie viel?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-7</string>
+		<key>german-sound</key>
+		<string>cquestions-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How many?</string>
+		<key>german</key>
+		<string>Wie viele?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-8</string>
+		<key>german-sound</key>
+		<string>cquestions-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>whom</string>
+		<key>german</key>
+		<string>wem</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-9</string>
+		<key>german-sound</key>
+		<string>cquestions-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>how come</string>
+		<key>german</key>
+		<string>wieso</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-10</string>
+		<key>german-sound</key>
+		<string>cquestions-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where from</string>
+		<key>german</key>
+		<string>woher</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-11</string>
+		<key>german-sound</key>
+		<string>cquestions-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where to</string>
+		<key>german</key>
+		<string>wohin</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-12</string>
+		<key>german-sound</key>
+		<string>cquestions-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Which?</string>
+		<key>german</key>
+		<string>Welcher?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-13</string>
+		<key>german-sound</key>
+		<string>cquestions-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is/Are there ...?</string>
+		<key>german</key>
+		<string>Gibt es ...?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-14</string>
+		<key>german-sound</key>
+		<string>cquestions-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>have</string>
+		<key>german</key>
+		<string>haben</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-15</string>
+		<key>german-sound</key>
+		<string>cquestions-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>has</string>
+		<key>german</key>
+		<string>hat</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-16</string>
+		<key>german-sound</key>
+		<string>cquestions-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is that?</string>
+		<key>german</key>
+		<string>Was ist das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-17</string>
+		<key>german-sound</key>
+		<string>cquestions-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are the books?</string>
+		<key>german</key>
+		<string>Wo sind die Bücher?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-18</string>
+		<key>german-sound</key>
+		<string>cquestions-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are the shoes?</string>
+		<key>german</key>
+		<string>Wo sind die Schuhe?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-19</string>
+		<key>german-sound</key>
+		<string>cquestions-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are the games?</string>
+		<key>german</key>
+		<string>Wo sind die Spiele?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-20</string>
+		<key>german-sound</key>
+		<string>cquestions-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you going?</string>
+		<key>german</key>
+		<string>Wohin gehen Sie? [Note: You can form questions by reversing the subject noun/pronoun and conjugated verb.]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-21</string>
+		<key>german-sound</key>
+		<string>cquestions-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much energy we have?</string>
+		<key>german</key>
+		<string>Wie viel Energie haben wir? [Note: when you form more complex questions (by adding an object into the sentence), the word order might seem a little strange]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-22</string>
+		<key>german-sound</key>
+		<string>cquestions-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How many apples dad has?</string>
+		<key>german</key>
+		<string>Wie viele Äpfel hat Papa? [Note: Question word + object + verb + subject of the sentence]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-23</string>
+		<key>german-sound</key>
+		<string>cquestions-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you eat? / Are you eating?</string>
+		<key>german</key>
+		<string>Isst du? [Note: To ask a question in German, just swap the verb and the subject round]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-24</string>
+		<key>german-sound</key>
+		<string>cquestions-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What sort of?</string>
+		<key>german</key>
+		<string>Was für?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-25</string>
+		<key>german-sound</key>
+		<string>cquestions-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have a dog?</string>
+		<key>german</key>
+		<string>Hast du einen Hund? [literally: Have you a dog?]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-26</string>
+		<key>german-sound</key>
+		<string>cquestions-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I speak to you?</string>
+		<key>german</key>
+		<string>Darf ich mit Ihnen sprechen?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-27</string>
+		<key>german-sound</key>
+		<string>cquestions-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is your name?</string>
+		<key>german</key>
+		<string>Wie heißt du? [literally: How are you called?]</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-28</string>
+		<key>german-sound</key>
+		<string>cquestions-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How old are you?</string>
+		<key>german</key>
+		<string>Wie alt bist du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-29</string>
+		<key>german-sound</key>
+		<string>cquestions-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you live?</string>
+		<key>german</key>
+		<string>Wo wohnst du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-30</string>
+		<key>german-sound</key>
+		<string>cquestions-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you come from?</string>
+		<key>german</key>
+		<string>Woher kommst du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-31</string>
+		<key>german-sound</key>
+		<string>cquestions-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who is that?</string>
+		<key>german</key>
+		<string>Wer ist das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-32</string>
+		<key>german-sound</key>
+		<string>cquestions-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How many siblings do you have?</string>
+		<key>german</key>
+		<string>Wie viele Geschwister hast du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-33</string>
+		<key>german-sound</key>
+		<string>cquestions-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much time do we have?</string>
+		<key>german</key>
+		<string>Wie viel Zeit haben wir?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-34</string>
+		<key>german-sound</key>
+		<string>cquestions-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Why are we doing this?</string>
+		<key>german</key>
+		<string>Warum machen wir das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-35</string>
+		<key>german-sound</key>
+		<string>cquestions-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Look! Who is that?</string>
+		<key>german</key>
+		<string>Schau mal! Wer ist das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-36</string>
+		<key>german-sound</key>
+		<string>cquestions-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is that?</string>
+		<key>german</key>
+		<string>Was ist das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-37</string>
+		<key>german-sound</key>
+		<string>cquestions-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where is the bathroom?</string>
+		<key>german</key>
+		<string>Wo ist die Toilette?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-38</string>
+		<key>german-sound</key>
+		<string>cquestions-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are you?</string>
+		<key>german</key>
+		<string>Wie geht es dir?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-39</string>
+		<key>german-sound</key>
+		<string>cquestions-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>german</key>
+		<string>Wo kommst du her?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-40</string>
+		<key>german-sound</key>
+		<string>cquestions-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What did you say?</string>
+		<key>german</key>
+		<string>Was hast du gesagt?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-41</string>
+		<key>german-sound</key>
+		<string>cquestions-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When is your birthday?</string>
+		<key>german</key>
+		<string>Wann ist dein Geburtstag?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-42</string>
+		<key>german-sound</key>
+		<string>cquestions-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you work?</string>
+		<key>german</key>
+		<string>Wo arbeitest du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-43</string>
+		<key>german-sound</key>
+		<string>cquestions-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you live?</string>
+		<key>german</key>
+		<string>Wo lebst du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-44</string>
+		<key>german-sound</key>
+		<string>cquestions-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What time is it?</string>
+		<key>german</key>
+		<string>Wie spät ist es?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-45</string>
+		<key>german-sound</key>
+		<string>cquestions-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How is the weather?</string>
+		<key>german</key>
+		<string>Wie ist das Wetter?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-46</string>
+		<key>german-sound</key>
+		<string>cquestions-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How far is it?</string>
+		<key>german</key>
+		<string>Wie weit ist es?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-47</string>
+		<key>german-sound</key>
+		<string>cquestions-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much is it?</string>
+		<key>german</key>
+		<string>Was kostet das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-48</string>
+		<key>german-sound</key>
+		<string>cquestions-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do I find an ATM?</string>
+		<key>german</key>
+		<string>Wo finde ich ein Geldautomat?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-49</string>
+		<key>german-sound</key>
+		<string>cquestions-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What would you like?</string>
+		<key>german</key>
+		<string>Was möchtest du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-50</string>
+		<key>german-sound</key>
+		<string>cquestions-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much does it cost?</string>
+		<key>german</key>
+		<string>Wie viel kostet das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-51</string>
+		<key>german-sound</key>
+		<string>cquestions-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>For how many people?</string>
+		<key>german</key>
+		<string>Für wie viele Personen?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-52</string>
+		<key>german-sound</key>
+		<string>cquestions-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Why are you tired?</string>
+		<key>german</key>
+		<string>Warum bist du müde?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-53</string>
+		<key>german-sound</key>
+		<string>cquestions-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who is calling me?</string>
+		<key>german</key>
+		<string>Wer ruft mich?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-54</string>
+		<key>german-sound</key>
+		<string>cquestions-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Whose dog is it?</string>
+		<key>german</key>
+		<string>Wessen Hund ist das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-55</string>
+		<key>german-sound</key>
+		<string>cquestions-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where is my key?</string>
+		<key>german</key>
+		<string>Wo ist mein Schlüssel?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-56</string>
+		<key>german-sound</key>
+		<string>cquestions-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When are you coming?</string>
+		<key>german</key>
+		<string>Wann kommst du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-57</string>
+		<key>german-sound</key>
+		<string>cquestions-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is there a swimming pool?</string>
+		<key>german</key>
+		<string>Gibt es dort ein Schwimmbad?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-58</string>
+		<key>german-sound</key>
+		<string>cquestions-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have souvenirs? </string>
+		<key>german</key>
+		<string>Haben Sie Andenken?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-59</string>
+		<key>german-sound</key>
+		<string>cquestions-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you sell…?</string>
+		<key>german</key>
+		<string>Verkaufen Sie…?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-60</string>
+		<key>german-sound</key>
+		<string>cquestions-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much is that? </string>
+		<key>german</key>
+		<string>Wie viel kostet das?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-61</string>
+		<key>german-sound</key>
+		<string>cquestions-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I can only pay five euros.</string>
+		<key>german</key>
+		<string>Ich kann nur fünf Euro bezahlen.</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-62</string>
+		<key>german-sound</key>
+		<string>cquestions-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I can only pay ten euros.</string>
+		<key>german</key>
+		<string>Ich kann nur zehn Euro bezahlen.</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-63</string>
+		<key>german-sound</key>
+		<string>cquestions-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I only have five euros with me. </string>
+		<key>german</key>
+		<string>Ich habe nur fünf Euro dabei.</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-64</string>
+		<key>german-sound</key>
+		<string>cquestions-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can I buy it for ten euros? </string>
+		<key>german</key>
+		<string>Kann ich es für zehn Euro kaufen?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-65</string>
+		<key>german-sound</key>
+		<string>cquestions-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have something cheaper? </string>
+		<key>german</key>
+		<string>Haben Sie etwas Billigeres?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-66</string>
+		<key>german-sound</key>
+		<string>cquestions-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have that in a smaller size? </string>
+		<key>german</key>
+		<string>Haben Sie das in einer kleineren Größe?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-67</string>
+		<key>german-sound</key>
+		<string>cquestions-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have that in a bigger size?</string>
+		<key>german</key>
+		<string>Haben Sie das in einer größeren Größe?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-68</string>
+		<key>german-sound</key>
+		<string>cquestions-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What time does the shop open?</string>
+		<key>german</key>
+		<string>Um wieviel Uhr öffnet das Geschäft?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-69</string>
+		<key>german-sound</key>
+		<string>cquestions-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What time does the shop close?</string>
+		<key>german</key>
+		<string>Um wieviel Uhr schließt das Geschäft?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-70</string>
+		<key>german-sound</key>
+		<string>cquestions-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What are you looking for?</string>
+		<key>german</key>
+		<string>Was suchen Sie?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-71</string>
+		<key>german-sound</key>
+		<string>cquestions-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I pay with cash? </string>
+		<key>german</key>
+		<string>Darf ich mit Bargeld bezahlen?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-72</string>
+		<key>german-sound</key>
+		<string>cquestions-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I pay with credit card?</string>
+		<key>german</key>
+		<string>Darf ich mit Kreditkarte bezahlen?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-73</string>
+		<key>german-sound</key>
+		<string>cquestions-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is up with you?</string>
+		<key>german</key>
+		<string>Was ist los mit dir?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-74</string>
+		<key>german-sound</key>
+		<string>cquestions-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When should we go to Paris?</string>
+		<key>german</key>
+		<string>Wenn sollen wir nach Paris fahren?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-75</string>
+		<key>german-sound</key>
+		<string>cquestions-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Why are you late?</string>
+		<key>german</key>
+		<string>Weshalb bist du spät?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-76</string>
+		<key>german-sound</key>
+		<string>cquestions-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you live here?</string>
+		<key>german</key>
+		<string>Wohnst du hier?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-77</string>
+		<key>german-sound</key>
+		<string>cquestions-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you staying long?</string>
+		<key>german</key>
+		<string>Bleiben Sie lange?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-78</string>
+		<key>german-sound</key>
+		<string>cquestions-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What are you buying?</string>
+		<key>german</key>
+		<string>Was kaufst du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-79</string>
+		<key>german-sound</key>
+		<string>cquestions-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you live now?</string>
+		<key>german</key>
+		<string>Wo lebst du jetzt?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-80</string>
+		<key>german-sound</key>
+		<string>cquestions-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where is your mother?</string>
+		<key>german</key>
+		<string>Wo ist deine Mutter?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-81</string>
+		<key>german-sound</key>
+		<string>cquestions-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you learning German?</string>
+		<key>german</key>
+		<string>Wo lernt ihr Deutsch?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-82</string>
+		<key>german-sound</key>
+		<string>cquestions-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who is already there?</string>
+		<key>german</key>
+		<string>Wer ist schon da?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-83</string>
+		<key>german-sound</key>
+		<string>cquestions-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who lives in this house?</string>
+		<key>german</key>
+		<string>Wer wohnt in diesem Haus?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-84</string>
+		<key>german-sound</key>
+		<string>cquestions-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When does he need an answer?</string>
+		<key>german</key>
+		<string>Wann braucht er eine Antwort?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-85</string>
+		<key>german-sound</key>
+		<string>cquestions-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When does the film start?</string>
+		<key>german</key>
+		<string>Wann beginnt der Film?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-86</string>
+		<key>german-sound</key>
+		<string>cquestions-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How tall are you?</string>
+		<key>german</key>
+		<string>Wie groß bist du?</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-87</string>
+		<key>german-sound</key>
+		<string>cquestions-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>question</string>
+		<key>german</key>
+		<string>die Frage</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-88</string>
+		<key>german-sound</key>
+		<string>cquestions-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>answer</string>
+		<key>german</key>
+		<string>die Antwort</string>
+		<key>english-sound</key>
+		<string>cquestions-eng-89</string>
+		<key>german-sound</key>
+		<string>cquestions-german-89</string>
+	</dict>
+</array>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>week</string>
+		<key>german</key>
+		<string>die Woche (feminine noun)</string>
+		<key>german-sound</key>
+		<string>noun-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>year</string>
+		<key>german</key>
+		<string>das Jahr (neutral noun)</string>
+		<key>german-sound</key>
+		<string>noun-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>second</string>
+		<key>german</key>
+		<string>die Sekunde (feminine noun)</string>
+		<key>german-sound</key>
+		<string>noun-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hour</string>
+		<key>german</key>
+		<string>die Stunde (feminine noun)</string>
+		<key>german-sound</key>
+		<string>noun-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>water</string>
+		<key>german</key>
+		<string>das Wasser (neutral noun)</string>
+		<key>german-sound</key>
+		<string>noun-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee</string>
+		<key>german</key>
+		<string>der Kaffee (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ice</string>
+		<key>german</key>
+		<string>das Eis (neutral noun)</string>
+		<key>german-sound</key>
+		<string>noun-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tea</string>
+		<key>german</key>
+		<string>der Tee (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mother</string>
+		<key>german</key>
+		<string>die Mutter (feminine noun)</string>
+		<key>german-sound</key>
+		<string>noun-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>father</string>
+		<key>german</key>
+		<string>der Vater (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kitchen</string>
+		<key>german</key>
+		<string>die Küche (feminine noun)</string>
+		<key>german-sound</key>
+		<string>noun-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hotel</string>
+		<key>german</key>
+		<string>das Hotel (neutral noun)</string>
+		<key>german-sound</key>
+		<string>noun-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>child, children</string>
+		<key>german</key>
+		<string>das Kind (neutral noun), die Kinder (plural noun)</string>
+		<key>german-sound</key>
+		<string>noun-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rain</string>
+		<key>german</key>
+		<string>der Regen (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>snow</string>
+		<key>german</key>
+		<string>der Schnee (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cloud, clouds</string>
+		<key>german</key>
+		<string>die Wolke (feminine noun), die Wolken (plural noun)</string>
+		<key>german-sound</key>
+		<string>noun-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>friend</string>
+		<key>german</key>
+		<string>der Freund (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>TV</string>
+		<key>german</key>
+		<string>der Fernseher (masculine noun)</string>
+		<key>german-sound</key>
+		<string>noun-18</string>
+	</dict>
+</array>

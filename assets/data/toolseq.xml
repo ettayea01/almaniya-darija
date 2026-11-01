@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>tools and equipment</string>
+		<key>german</key>
+		<string>Werkzeuge und Ausrüstung</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-1</string>
+		<key>german-sound</key>
+		<string>toolseq-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drill</string>
+		<key>german</key>
+		<string>der Bohrer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-2</string>
+		<key>german-sound</key>
+		<string>toolseq-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drill machine</string>
+		<key>german</key>
+		<string>Bohrmaschine</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-3</string>
+		<key>german-sound</key>
+		<string>toolseq-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hammer drill</string>
+		<key>german</key>
+		<string>der Bohrhammer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-4</string>
+		<key>german-sound</key>
+		<string>toolseq-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drill bit</string>
+		<key>german</key>
+		<string>der Bohreinsatz</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-5</string>
+		<key>german-sound</key>
+		<string>toolseq-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drill chuck</string>
+		<key>german</key>
+		<string>das Bohrfutter</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-6</string>
+		<key>german-sound</key>
+		<string>toolseq-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>screwdriver - flat</string>
+		<key>german</key>
+		<string>der Schraubenzieher</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-7</string>
+		<key>german-sound</key>
+		<string>toolseq-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>screwdriver - Philips</string>
+		<key>german</key>
+		<string>der Kreuzschlitzschraubenzieher</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-8</string>
+		<key>german-sound</key>
+		<string>toolseq-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>screw</string>
+		<key>german</key>
+		<string>die Schraube</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-9</string>
+		<key>german-sound</key>
+		<string>toolseq-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nail</string>
+		<key>german</key>
+		<string>der Nagel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-10</string>
+		<key>german-sound</key>
+		<string>toolseq-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nut</string>
+		<key>german</key>
+		<string>die Mutter</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-11</string>
+		<key>german-sound</key>
+		<string>toolseq-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bolt</string>
+		<key>german</key>
+		<string>der Bolzen</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-12</string>
+		<key>german-sound</key>
+		<string>toolseq-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>washer</string>
+		<key>german</key>
+		<string>die Mutterscheibe / der Dichtungsring</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-13</string>
+		<key>german-sound</key>
+		<string>toolseq-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chisel</string>
+		<key>german</key>
+		<string>der Meissel / das Stemmeisen</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-14</string>
+		<key>german-sound</key>
+		<string>toolseq-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hammer</string>
+		<key>german</key>
+		<string>der Hammer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-15</string>
+		<key>german-sound</key>
+		<string>toolseq-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spanner / wrench</string>
+		<key>german</key>
+		<string>der Schraubenschlüssel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-16</string>
+		<key>german-sound</key>
+		<string>toolseq-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>workbench</string>
+		<key>german</key>
+		<string>die Werkbank</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-17</string>
+		<key>german-sound</key>
+		<string>toolseq-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cement</string>
+		<key>german</key>
+		<string>der Zement / der Mörtel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-18</string>
+		<key>german-sound</key>
+		<string>toolseq-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sand</string>
+		<key>german</key>
+		<string>der Sand</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-19</string>
+		<key>german-sound</key>
+		<string>toolseq-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>concrete</string>
+		<key>german</key>
+		<string>der Beton</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-20</string>
+		<key>german-sound</key>
+		<string>toolseq-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brick</string>
+		<key>german</key>
+		<string>der Baustein / der Ziegel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-21</string>
+		<key>german-sound</key>
+		<string>toolseq-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mud</string>
+		<key>german</key>
+		<string>der Schmutz / der Schlamm</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-22</string>
+		<key>german-sound</key>
+		<string>toolseq-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plaster</string>
+		<key>german</key>
+		<string>der Putz</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-23</string>
+		<key>german-sound</key>
+		<string>toolseq-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ladder</string>
+		<key>german</key>
+		<string>die Leiter</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-24</string>
+		<key>german-sound</key>
+		<string>toolseq-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tools</string>
+		<key>german</key>
+		<string>das Werkzeug</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-25</string>
+		<key>german-sound</key>
+		<string>toolseq-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hand tool</string>
+		<key>german</key>
+		<string>das Handwerkzeug</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-26</string>
+		<key>german-sound</key>
+		<string>toolseq-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>power tool</string>
+		<key>german</key>
+		<string>das Elektrowerkzeug</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-27</string>
+		<key>german-sound</key>
+		<string>toolseq-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toolbag</string>
+		<key>german</key>
+		<string>die Werkzeugtasche</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-28</string>
+		<key>german-sound</key>
+		<string>toolseq-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tool belt</string>
+		<key>german</key>
+		<string>der Werkzeuggürtel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-29</string>
+		<key>german-sound</key>
+		<string>toolseq-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sandpaper</string>
+		<key>german</key>
+		<string>das Schmirgelpapier / das Sandpapier</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-30</string>
+		<key>german-sound</key>
+		<string>toolseq-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stanley knife</string>
+		<key>german</key>
+		<string>das Stanley Messer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-31</string>
+		<key>german-sound</key>
+		<string>toolseq-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wallpaper</string>
+		<key>german</key>
+		<string>die Tapete</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-32</string>
+		<key>german-sound</key>
+		<string>toolseq-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trestle table</string>
+		<key>german</key>
+		<string>der Tapeziertisch</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-33</string>
+		<key>german-sound</key>
+		<string>toolseq-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>paint</string>
+		<key>german</key>
+		<string>die Farbe</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-34</string>
+		<key>german-sound</key>
+		<string>toolseq-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>quick-drying paint</string>
+		<key>german</key>
+		<string>die schnell trocknende Farbe</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-35</string>
+		<key>german-sound</key>
+		<string>toolseq-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gloss paint</string>
+		<key>german</key>
+		<string>die Glanzfarbe</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-36</string>
+		<key>german-sound</key>
+		<string>toolseq-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>paintbrush</string>
+		<key>german</key>
+		<string>der Pinsel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-37</string>
+		<key>german-sound</key>
+		<string>toolseq-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>white spirit</string>
+		<key>german</key>
+		<string>der Terpentinersatz</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-38</string>
+		<key>german-sound</key>
+		<string>toolseq-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>axe</string>
+		<key>german</key>
+		<string>die Axt</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-39</string>
+		<key>german-sound</key>
+		<string>toolseq-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>broom</string>
+		<key>german</key>
+		<string>der Besen</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-40</string>
+		<key>german-sound</key>
+		<string>toolseq-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bucket</string>
+		<key>german</key>
+		<string>der Eimer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-41</string>
+		<key>german-sound</key>
+		<string>toolseq-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>file</string>
+		<key>german</key>
+		<string>die Feile</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-42</string>
+		<key>german-sound</key>
+		<string>toolseq-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>level</string>
+		<key>german</key>
+		<string>die Wasserwaage</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-43</string>
+		<key>german-sound</key>
+		<string>toolseq-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lever</string>
+		<key>german</key>
+		<string>der Hebel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-44</string>
+		<key>german-sound</key>
+		<string>toolseq-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pliers</string>
+		<key>german</key>
+		<string>die Zange</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-45</string>
+		<key>german-sound</key>
+		<string>toolseq-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rope</string>
+		<key>german</key>
+		<string>das Seil</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-46</string>
+		<key>german-sound</key>
+		<string>toolseq-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>saw</string>
+		<key>german</key>
+		<string>die Säge</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-47</string>
+		<key>german-sound</key>
+		<string>toolseq-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scissors</string>
+		<key>german</key>
+		<string>die Schere</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-48</string>
+		<key>german-sound</key>
+		<string>toolseq-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shovel</string>
+		<key>german</key>
+		<string>die Schaufel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-49</string>
+		<key>german-sound</key>
+		<string>toolseq-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tape measure</string>
+		<key>german</key>
+		<string>das Metermaß</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-50</string>
+		<key>german-sound</key>
+		<string>toolseq-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>allen key</string>
+		<key>german</key>
+		<string>der Innensechskantschlüssel </string>
+		<key>english-sound</key>
+		<string>toolseq-eng-51</string>
+		<key>german-sound</key>
+		<string>toolseq-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cable tie</string>
+		<key>german</key>
+		<string>der Kabelbinder</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-52</string>
+		<key>german-sound</key>
+		<string>toolseq-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blade</string>
+		<key>german</key>
+		<string>die Klinge</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-53</string>
+		<key>german-sound</key>
+		<string>toolseq-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flashlight</string>
+		<key>german</key>
+		<string>die Taschenlampe</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-54</string>
+		<key>german-sound</key>
+		<string>toolseq-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pulley</string>
+		<key>german</key>
+		<string>der Flaschenzug</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-55</string>
+		<key>german-sound</key>
+		<string>toolseq-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grinder</string>
+		<key>german</key>
+		<string>die Schleifmaschine</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-56</string>
+		<key>german-sound</key>
+		<string>toolseq-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>angle grinder</string>
+		<key>german</key>
+		<string>der Winkelschleifer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-57</string>
+		<key>german-sound</key>
+		<string>toolseq-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nail gun</string>
+		<key>german</key>
+		<string>die Nagelpistole</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-58</string>
+		<key>german-sound</key>
+		<string>toolseq-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sander</string>
+		<key>german</key>
+		<string>die Schleifmaschine</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-59</string>
+		<key>german-sound</key>
+		<string>toolseq-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chainsaw</string>
+		<key>german</key>
+		<string>die Kettensäge</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-60</string>
+		<key>german-sound</key>
+		<string>toolseq-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wall hook</string>
+		<key>german</key>
+		<string>der Wandhaken</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-61</string>
+		<key>german-sound</key>
+		<string>toolseq-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>door hinge</string>
+		<key>german</key>
+		<string>die Türangel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-62</string>
+		<key>german-sound</key>
+		<string>toolseq-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wall bracket</string>
+		<key>german</key>
+		<string>die Wandleiste</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-63</string>
+		<key>german-sound</key>
+		<string>toolseq-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mechanical digger</string>
+		<key>german</key>
+		<string>der Bagger</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-64</string>
+		<key>german-sound</key>
+		<string>toolseq-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>concrete mixer</string>
+		<key>german</key>
+		<string>der Zementmischer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-65</string>
+		<key>german-sound</key>
+		<string>toolseq-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scaffolding</string>
+		<key>german</key>
+		<string>das Baugerüst</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-66</string>
+		<key>german-sound</key>
+		<string>toolseq-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scaffolding pole</string>
+		<key>german</key>
+		<string>die Gerüststange</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-67</string>
+		<key>german-sound</key>
+		<string>toolseq-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scaffolding board</string>
+		<key>german</key>
+		<string>die Baugerüstbohle</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-68</string>
+		<key>german-sound</key>
+		<string>toolseq-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>earplugs</string>
+		<key>german</key>
+		<string>die Ohrenstöpsel</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-69</string>
+		<key>german-sound</key>
+		<string>toolseq-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>earmuffs</string>
+		<key>german</key>
+		<string>die Ohrenschützer</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-70</string>
+		<key>german-sound</key>
+		<string>toolseq-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dust mask</string>
+		<key>german</key>
+		<string>die Staubschutzmaske</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-71</string>
+		<key>german-sound</key>
+		<string>toolseq-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>carpet tape</string>
+		<key>german</key>
+		<string>das Teppichklebeband</string>
+		<key>english-sound</key>
+		<string>toolseq-eng-72</string>
+		<key>german-sound</key>
+		<string>toolseq-german-72</string>
+	</dict>
+</array>

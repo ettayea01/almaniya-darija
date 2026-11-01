@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>food</string>
+		<key>german</key>
+		<string>das Essen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-1</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drink</string>
+		<key>german</key>
+		<string>das Getränk</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-2</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>food and drink</string>
+		<key>german</key>
+		<string>Essen und Trinken</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-3</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>meat</string>
+		<key>german</key>
+		<string>das Fleisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-4</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lamb</string>
+		<key>german</key>
+		<string>das Lammfleisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-5</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mutton</string>
+		<key>german</key>
+		<string>das Hammelfleisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-6</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beef</string>
+		<key>german</key>
+		<string>das Rindfleisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-7</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>burger / hamburger</string>
+		<key>german</key>
+		<string>der Hamburger</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-8</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pork</string>
+		<key>german</key>
+		<string>das Schweinefleisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-9</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sausages</string>
+		<key>german</key>
+		<string>die Würstchen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-10</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salami</string>
+		<key>german</key>
+		<string>die Salami</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-11</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>meat balls</string>
+		<key>german</key>
+		<string>die Fleischbällchen / die Klopse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-12</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>roast</string>
+		<key>german</key>
+		<string>der Braten</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-13</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>roast beef</string>
+		<key>german</key>
+		<string>der Rinderbraten</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-14</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leg of lamb</string>
+		<key>german</key>
+		<string>die Lammkeule</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-15</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shoulder of lamb</string>
+		<key>german</key>
+		<string>die Lammschulter</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-16</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lamb chop / lamb cutlet</string>
+		<key>german</key>
+		<string>das Lammkotelett</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-17</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beef steak</string>
+		<key>german</key>
+		<string>das Rindsteak</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-18</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>T-bone steak</string>
+		<key>german</key>
+		<string>das T-Bone-Steak</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-19</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bacon</string>
+		<key>german</key>
+		<string>der Schinkenspeck</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-20</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pork pie</string>
+		<key>german</key>
+		<string>die Schweinefleischpastete</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-21</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pork chop</string>
+		<key>german</key>
+		<string>das Schweinekotelett</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-22</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ham</string>
+		<key>german</key>
+		<string>der Schinken</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-23</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dairy products</string>
+		<key>german</key>
+		<string>die Molkereiprodukte</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-24</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>milk</string>
+		<key>german</key>
+		<string>die Milch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-25</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>yoghurt</string>
+		<key>german</key>
+		<string>der Jogurt</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-26</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>butter</string>
+		<key>german</key>
+		<string>die Butter</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-27</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cheese</string>
+		<key>german</key>
+		<string>der Käse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-28</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ice cream</string>
+		<key>german</key>
+		<string>das Eis</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-29</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>milk</string>
+		<key>german</key>
+		<string>die Milch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-30</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fresh milk</string>
+		<key>german</key>
+		<string>die frische Milch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-31</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skimmed milk</string>
+		<key>german</key>
+		<string>die Magermilch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-32</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>powdered milk</string>
+		<key>german</key>
+		<string>das Milchpulver</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-33</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>whole milk</string>
+		<key>german</key>
+		<string>die Vollmilch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-34</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>condensed milk</string>
+		<key>german</key>
+		<string>die Kondensmilch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-35</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coconut milk</string>
+		<key>german</key>
+		<string>die Kokosmilch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-36</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>egg</string>
+		<key>german</key>
+		<string>das Ei</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-37</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fried egg</string>
+		<key>german</key>
+		<string>das Spiegelei</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-38</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hard-boiled egg</string>
+		<key>german</key>
+		<string>das hartgekochte Ei</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-39</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soft-boiled egg</string>
+		<key>german</key>
+		<string>das weichgekochte Ei</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-40</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scrambled eggs</string>
+		<key>german</key>
+		<string>die Rühreier</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-41</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>omelette</string>
+		<key>german</key>
+		<string>das Omelette</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-42</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cereals</string>
+		<key>german</key>
+		<string>die Frühstücksflocken</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-43</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oats</string>
+		<key>german</key>
+		<string>die Haferflocken</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-44</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>popcorn</string>
+		<key>german</key>
+		<string>das Popcorn</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-45</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bread</string>
+		<key>german</key>
+		<string>das Brot</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-46</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>white bread</string>
+		<key>german</key>
+		<string>das Weissbrot</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-47</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brown bread</string>
+		<key>german</key>
+		<string>das Braunbrot</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-48</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wholegrain bread</string>
+		<key>german</key>
+		<string>das Vollkornbrot</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-49</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>breadcrumbs</string>
+		<key>german</key>
+		<string>die Semmelbrösel</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-50</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garlic bread</string>
+		<key>german</key>
+		<string>die Knoblauchbutter</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-51</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>yeast</string>
+		<key>german</key>
+		<string>die Hefe</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-52</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flour</string>
+		<key>german</key>
+		<string>das Mehl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-53</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cornflour</string>
+		<key>german</key>
+		<string>das Maismehl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-54</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rice</string>
+		<key>german</key>
+		<string>der Reis</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-55</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rice flour</string>
+		<key>german</key>
+		<string>das Reismehl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-56</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brown rice</string>
+		<key>german</key>
+		<string>der Naturreis</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-57</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sugar</string>
+		<key>german</key>
+		<string>der Zucker</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-58</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brown sugar</string>
+		<key>german</key>
+		<string>der braune Zucker</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-59</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jam</string>
+		<key>german</key>
+		<string>die Marmelade</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-60</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>peanut butter</string>
+		<key>german</key>
+		<string>die Erdnussbutter</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-61</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>honey</string>
+		<key>german</key>
+		<string>der Honig</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-62</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soup</string>
+		<key>german</key>
+		<string>die Suppe</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-63</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chicken soup</string>
+		<key>german</key>
+		<string>die Hühnersuppe</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-64</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tomato soup</string>
+		<key>german</key>
+		<string>die Tomatensuppe</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-65</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stew</string>
+		<key>german</key>
+		<string>der Eintopf</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-66</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sauce</string>
+		<key>german</key>
+		<string>die Soße / die Sosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-67</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mint sauce</string>
+		<key>german</key>
+		<string>die Minzsosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-68</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tartar sauce</string>
+		<key>german</key>
+		<string>die Remouladensosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-69</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>white sauce</string>
+		<key>german</key>
+		<string>die Einbrenne</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-70</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tomato sauce</string>
+		<key>german</key>
+		<string>die Tomatensosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-71</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soy sauce</string>
+		<key>german</key>
+		<string>die Sojasosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-72</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chilli sauce</string>
+		<key>german</key>
+		<string>die Chilisosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-73</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>barbecue sauce</string>
+		<key>german</key>
+		<string>die Barbecuesosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-74</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salad dressing</string>
+		<key>german</key>
+		<string>die Salatsosse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-75</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mayonnaise</string>
+		<key>german</key>
+		<string>die Mayonnaise</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-76</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ketchup</string>
+		<key>german</key>
+		<string>der Ketchup / der Ketschup</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-77</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salt</string>
+		<key>german</key>
+		<string>das Salz</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-78</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pepper</string>
+		<key>german</key>
+		<string>der Pfeffer</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-79</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mustard</string>
+		<key>german</key>
+		<string>der Senf</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-80</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sesame seed</string>
+		<key>german</key>
+		<string>das Sesamkorn</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-81</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pumpkin seed</string>
+		<key>german</key>
+		<string>der Kürbiskern</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-82</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oil</string>
+		<key>german</key>
+		<string>das Öl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-83</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>almond oil</string>
+		<key>german</key>
+		<string>das Mandelöl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-84</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>olive oil</string>
+		<key>german</key>
+		<string>das Olivenöl</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-85</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>herbs</string>
+		<key>german</key>
+		<string>die Kräuter</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-86</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parsley</string>
+		<key>german</key>
+		<string>die Petersilie</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-87</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mint</string>
+		<key>german</key>
+		<string>die Minze</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-88</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garlic</string>
+		<key>german</key>
+		<string>der Knoblauch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-89</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ginger</string>
+		<key>german</key>
+		<string>der Ingwer</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-90</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spices</string>
+		<key>german</key>
+		<string>die Gewürze</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-91</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>paprika</string>
+		<key>german</key>
+		<string>der Paprika</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-92</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coriander</string>
+		<key>german</key>
+		<string>der Koriander</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-93</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chilli</string>
+		<key>german</key>
+		<string>der Chili</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-94</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cinnamon</string>
+		<key>german</key>
+		<string>der Zimt</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-95</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>turmeric</string>
+		<key>german</key>
+		<string>die Gelbwurz / die Kurkuma</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-96</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pastries</string>
+		<key>german</key>
+		<string>die Backwaren</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-97</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apple pie</string>
+		<key>german</key>
+		<string>der Apfelkuchen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-98</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>doughnut</string>
+		<key>german</key>
+		<string>der Berliner</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-99</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>croissant</string>
+		<key>german</key>
+		<string>das Croissant</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-100</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cake</string>
+		<key>german</key>
+		<string>der Kuchen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-101</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>waffle</string>
+		<key>german</key>
+		<string>die Waffel</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-102</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seafood</string>
+		<key>german</key>
+		<string>die Meeresfrüchte</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-103</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mussels</string>
+		<key>german</key>
+		<string>die Miesmuschel</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-104</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>prawns</string>
+		<key>german</key>
+		<string>die Krabben</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-105</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shrimps</string>
+		<key>german</key>
+		<string>die Garnelen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-106</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oysters</string>
+		<key>german</key>
+		<string>die Austern</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-107</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>crab</string>
+		<key>german</key>
+		<string>der Krebs</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-108</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lobster</string>
+		<key>german</key>
+		<string>der Hummer</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-109</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tea</string>
+		<key>german</key>
+		<string>der Tee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-110</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cup of tea</string>
+		<key>german</key>
+		<string>die Tasse Tee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-111</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tea cup</string>
+		<key>german</key>
+		<string>die Teetasse</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-112</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>black tea</string>
+		<key>german</key>
+		<string>der schwarze Tee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-113</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>green tea</string>
+		<key>german</key>
+		<string>der grüne Tee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-114</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>iced tea</string>
+		<key>german</key>
+		<string>der Eisstee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-115</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee</string>
+		<key>german</key>
+		<string>der Kaffee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-116</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee with milk</string>
+		<key>german</key>
+		<string>der Kaffee mit Milch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-117</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee with cream</string>
+		<key>german</key>
+		<string>der Kaffee mit Sahne</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-118</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-118</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>black coffee</string>
+		<key>german</key>
+		<string>der schwarze Kaffee</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-119</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-119</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>juice</string>
+		<key>german</key>
+		<string>der Saft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-120</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-120</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fruit juice</string>
+		<key>german</key>
+		<string>der Obstsaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-121</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-121</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apple juice</string>
+		<key>german</key>
+		<string>der Apfelsaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-122</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-122</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>orange juice</string>
+		<key>german</key>
+		<string>der Orangensaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-123</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-123</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grape juice</string>
+		<key>german</key>
+		<string>der Traubensaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-124</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-124</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pineapple juice</string>
+		<key>german</key>
+		<string>der Ananassaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-125</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-125</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>carrot juice</string>
+		<key>german</key>
+		<string>der Karottensaft</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-126</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-126</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drink / beverage</string>
+		<key>german</key>
+		<string>drink, beverage</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-127</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-127</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>water</string>
+		<key>german</key>
+		<string>das Wasser</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-128</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-128</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tap water</string>
+		<key>german</key>
+		<string>das Leitungswasser</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-129</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-129</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mineral water</string>
+		<key>german</key>
+		<string>das Mineralwasser / der Sprudel</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-130</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-130</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sparkling water</string>
+		<key>german</key>
+		<string>das Sprudelwasser</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-131</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-131</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lemonade</string>
+		<key>german</key>
+		<string>die Limonade</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-132</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-132</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>alcohol</string>
+		<key>german</key>
+		<string>der Alkohol</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-133</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-133</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>whisky</string>
+		<key>german</key>
+		<string>der Whisky</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-134</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-134</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vodka</string>
+		<key>german</key>
+		<string>der Wodka</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-135</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-135</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rum</string>
+		<key>german</key>
+		<string>der Rum</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-136</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-136</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brandy</string>
+		<key>german</key>
+		<string>der Weinbrand</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-137</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-137</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>champagne</string>
+		<key>german</key>
+		<string>der Sekt</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-138</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-138</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soda water</string>
+		<key>german</key>
+		<string>das Sodawasser</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-139</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-139</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beer</string>
+		<key>german</key>
+		<string>das Bier</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-140</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-140</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ginger beer</string>
+		<key>german</key>
+		<string>das Ingwerbier</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-141</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-141</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beer bottle</string>
+		<key>german</key>
+		<string>die Bierflasche</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-142</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-142</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wine</string>
+		<key>german</key>
+		<string>der Wein</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-143</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-143</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>white wine</string>
+		<key>german</key>
+		<string>der Weisswein</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-144</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-144</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>red wine</string>
+		<key>german</key>
+		<string>der Rotwein</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-145</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-145</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to order</string>
+		<key>german</key>
+		<string>bestellen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-146</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-146</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take</string>
+		<key>german</key>
+		<string>nehmen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-147</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-147</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>with that</string>
+		<key>german</key>
+		<string>dazu</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-148</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-148</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bill</string>
+		<key>german</key>
+		<string>die Rechnung</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-149</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-149</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to eat here</string>
+		<key>german</key>
+		<string>zum hier Essen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-150</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-150</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take away</string>
+		<key>german</key>
+		<string>zum Mitnehmen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-151</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-151</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>French Fries</string>
+		<key>german</key>
+		<string>die Pommes Frites</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-152</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-152</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>main course</string>
+		<key>german</key>
+		<string>das Hauptgericht</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-153</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-153</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>starter</string>
+		<key>german</key>
+		<string>die Vorspeise</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-154</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-154</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dessert</string>
+		<key>german</key>
+		<string>der Nachtisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-155</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-155</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>breakfast</string>
+		<key>german</key>
+		<string>das Frühstück</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-156</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-156</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lunch</string>
+		<key>german</key>
+		<string>das Mittagessen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-157</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-157</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dinner</string>
+		<key>german</key>
+		<string>das Abendessen</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-158</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-158</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vegetarian</string>
+		<key>german</key>
+		<string>vegetarisch</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-159</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-159</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To take away, please.</string>
+		<key>german</key>
+		<string>Zum mitnehmen, bitte.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-160</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-160</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like</string>
+		<key>german</key>
+		<string>Ich möchte / Ich hätte gern</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-161</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-161</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like two bread buns please.</string>
+		<key>german</key>
+		<string>Ich hätte gern zwei Brötchen bitte.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-162</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-162</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like an apple juice.</string>
+		<key>german</key>
+		<string>Ich möchte einen Apfelsaft.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-163</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-163</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is there a vegan option?</string>
+		<key>german</key>
+		<string>Gibt es etwas Veganes?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-164</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-164</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’d prefer it not too spicy.</string>
+		<key>german</key>
+		<string>Ich möchte es lieber ohne scharf.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-165</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-165</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Enjoy your meal!</string>
+		<key>german</key>
+		<string>Guten Appetit!</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-166</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-166</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can you please pass me the salt?</string>
+		<key>german</key>
+		<string>Kannst du mir das Salz geben, bitte?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-167</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-167</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you like it?</string>
+		<key>german</key>
+		<string>Schmeckt es dir?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-168</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-168</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can we have more water, please?</string>
+		<key>german</key>
+		<string>Können wir mehr Wasser haben, bitte?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-169</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-169</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>One cheeseburger please</string>
+		<key>german</key>
+		<string>Einmal Cheeseburger bitte</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-170</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-170</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Two cheeseburgers please</string>
+		<key>german</key>
+		<string>Zweimal Cheeseburger bitte</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-171</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-171</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Three cheeseburgers please</string>
+		<key>german</key>
+		<string>Dreimal Cheeseburger bitte</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-172</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-172</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It’s tasty!</string>
+		<key>german</key>
+		<string>Lecker!</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-173</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-173</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>very good</string>
+		<key>german</key>
+		<string>Sehr gut</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-174</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-174</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It’s spicy</string>
+		<key>german</key>
+		<string>Ich finde es scharf</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-175</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-175</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Table for two, please.</string>
+		<key>german</key>
+		<string>Ein Tisch für zwei, bitte.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-176</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-176</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I see the menu, please?</string>
+		<key>german</key>
+		<string>Kann ich die Speisekarte bitte anschauen?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-177</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-177</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>we would like.</string>
+		<key>german</key>
+		<string>wir möchten.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-178</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-178</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We would like to order something to eat.</string>
+		<key>german</key>
+		<string>Wir möchten etwas zum Essen bestellen.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-179</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-179</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like to order something to eat.</string>
+		<key>german</key>
+		<string>Ich möchte etwas zum Essen bestellen.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-180</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-180</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m allergic to fish.</string>
+		<key>german</key>
+		<string>Ich bin gegen Fisch allergisch.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-181</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-181</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We would only like to order a drink.</string>
+		<key>german</key>
+		<string>Wir möchten nur ein Getränk bestellen.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-182</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-182</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I please see the wine list?</string>
+		<key>german</key>
+		<string>Kann ich die Weinkarte bitte anschauen?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-183</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-183</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I have the check please?</string>
+		<key>german</key>
+		<string>Kann ich die Rechnung bitte haben?</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-184</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-184</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’d like to pay, please.</string>
+		<key>german</key>
+		<string>Zahlen, bitte.</string>
+		<key>english-sound</key>
+		<string>fooddrink-eng-185</string>
+		<key>german-sound</key>
+		<string>fooddrink-german-185</string>
+	</dict>
+</array>

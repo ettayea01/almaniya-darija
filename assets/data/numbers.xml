@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>zero [0]</string>
+		<key>german</key>
+		<string>null</string>
+		<key>german-sound</key>
+		<string>num-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one [1]</string>
+		<key>german</key>
+		<string>eins</string>
+		<key>german-sound</key>
+		<string>num-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two [2]</string>
+		<key>german</key>
+		<string>zwei</string>
+		<key>german-sound</key>
+		<string>num-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>three [3]</string>
+		<key>german</key>
+		<string>drei</string>
+		<key>german-sound</key>
+		<string>num-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>four [4]</string>
+		<key>german</key>
+		<string>vier</string>
+		<key>german-sound</key>
+		<string>num-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five [5]</string>
+		<key>german</key>
+		<string>fünf</string>
+		<key>german-sound</key>
+		<string>num-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>six [6]</string>
+		<key>german</key>
+		<string>sechs</string>
+		<key>german-sound</key>
+		<string>num-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seven [7]</string>
+		<key>german</key>
+		<string>sieben</string>
+		<key>german-sound</key>
+		<string>num-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eight [8]</string>
+		<key>german</key>
+		<string>acht</string>
+		<key>german-sound</key>
+		<string>num-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nine [9]</string>
+		<key>german</key>
+		<string>neun</string>
+		<key>german-sound</key>
+		<string>num-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ten [10]</string>
+		<key>german</key>
+		<string>zehn</string>
+		<key>german-sound</key>
+		<string>num-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eleven [11]</string>
+		<key>german</key>
+		<string>elf</string>
+		<key>german-sound</key>
+		<string>num-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twelve [12]</string>
+		<key>german</key>
+		<string>zwölf</string>
+		<key>german-sound</key>
+		<string>num-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirteen [13]</string>
+		<key>german</key>
+		<string>dreizehn</string>
+		<key>german-sound</key>
+		<string>num-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fourteen [14]</string>
+		<key>german</key>
+		<string>vierzehn</string>
+		<key>german-sound</key>
+		<string>num-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifteen [15]</string>
+		<key>german</key>
+		<string>fünfzehn</string>
+		<key>german-sound</key>
+		<string>num-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixteen [16]</string>
+		<key>german</key>
+		<string>sechzehn</string>
+		<key>german-sound</key>
+		<string>num-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventeen [17]</string>
+		<key>german</key>
+		<string>siebzehn</string>
+		<key>german-sound</key>
+		<string>num-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighteen [18]</string>
+		<key>german</key>
+		<string>achtzehn</string>
+		<key>german-sound</key>
+		<string>num-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninteen [19]</string>
+		<key>german</key>
+		<string>neunzehn</string>
+		<key>german-sound</key>
+		<string>num-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty [20]</string>
+		<key>german</key>
+		<string>zwanzig</string>
+		<key>german-sound</key>
+		<string>num-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty one [21]</string>
+		<key>german</key>
+		<string>einundzwanzig [Notice a Pattern: ein(one) + und(and) + zwanzig(twenty)]</string>
+		<key>german-sound</key>
+		<string>num-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty two [22]</string>
+		<key>german</key>
+		<string>zweiundzwanzig [Notice a Pattern: zwei(two) + und(and) + zwanzig(twenty)]</string>
+		<key>german-sound</key>
+		<string>num-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty three [23]</string>
+		<key>german</key>
+		<string>dreiundzwanzig [Notice a Pattern: drei(three) + und(and) + zwanzig(twenty)]</string>
+		<key>german-sound</key>
+		<string>num-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty four [24]</string>
+		<key>german</key>
+		<string>vierundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty five [25]</string>
+		<key>german</key>
+		<string>fünfundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty six [26]</string>
+		<key>german</key>
+		<string>sechsundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty seven [27]</string>
+		<key>german</key>
+		<string>siebenundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty eight [28]</string>
+		<key>german</key>
+		<string>achtundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty nine [29]</string>
+		<key>german</key>
+		<string>neunundzwanzig</string>
+		<key>german-sound</key>
+		<string>num-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty [30]</string>
+		<key>german</key>
+		<string>dreißig</string>
+		<key>german-sound</key>
+		<string>num-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty one [31]</string>
+		<key>german</key>
+		<string>einunddreißig</string>
+		<key>german-sound</key>
+		<string>num-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty two [32]</string>
+		<key>german</key>
+		<string>zweiunddreißig</string>
+		<key>german-sound</key>
+		<string>num-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty three [33]</string>
+		<key>german</key>
+		<string>dreiunddreißig</string>
+		<key>german-sound</key>
+		<string>num-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty four [34]</string>
+		<key>german</key>
+		<string>vierunddreißig</string>
+		<key>german-sound</key>
+		<string>num-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty five [35]</string>
+		<key>german</key>
+		<string>fünfunddreißig</string>
+		<key>german-sound</key>
+		<string>num-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty six [36]</string>
+		<key>german</key>
+		<string>sechsunddreißig</string>
+		<key>german-sound</key>
+		<string>num-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty seven [37]</string>
+		<key>german</key>
+		<string>siebenunddreißig</string>
+		<key>german-sound</key>
+		<string>num-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty eight [38]</string>
+		<key>german</key>
+		<string>achtunddreißig</string>
+		<key>german-sound</key>
+		<string>num-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty nine [39]</string>
+		<key>german</key>
+		<string>neununddreißig</string>
+		<key>german-sound</key>
+		<string>num-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty [40]</string>
+		<key>german</key>
+		<string>vierzig</string>
+		<key>german-sound</key>
+		<string>num-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty one [41]</string>
+		<key>german</key>
+		<string>einundvierzig</string>
+		<key>german-sound</key>
+		<string>num-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty two [42]</string>
+		<key>german</key>
+		<string>zweiundvierzig</string>
+		<key>german-sound</key>
+		<string>num-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty three [43]</string>
+		<key>german</key>
+		<string>dreiundvierzig</string>
+		<key>german-sound</key>
+		<string>num-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty four [44]</string>
+		<key>german</key>
+		<string>vierundvierzig</string>
+		<key>german-sound</key>
+		<string>num-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty five [45]</string>
+		<key>german</key>
+		<string>fünfundvierzig</string>
+		<key>german-sound</key>
+		<string>num-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty six [46]</string>
+		<key>german</key>
+		<string>sechsundvierzig</string>
+		<key>german-sound</key>
+		<string>num-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty seven [47]</string>
+		<key>german</key>
+		<string>siebenundvierzig</string>
+		<key>german-sound</key>
+		<string>num-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty eight [48]</string>
+		<key>german</key>
+		<string>achtundvierzig</string>
+		<key>german-sound</key>
+		<string>num-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forty nine [49]</string>
+		<key>german</key>
+		<string>neunundvierzig</string>
+		<key>german-sound</key>
+		<string>num-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty [50]</string>
+		<key>german</key>
+		<string>fünfzig</string>
+		<key>german-sound</key>
+		<string>num-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty one [51]</string>
+		<key>german</key>
+		<string>einundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty two [52]</string>
+		<key>german</key>
+		<string>zweiundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty three [53]</string>
+		<key>german</key>
+		<string>dreiundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty four [54]</string>
+		<key>german</key>
+		<string>vierundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty five [55]</string>
+		<key>german</key>
+		<string>fünfundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty six [56]</string>
+		<key>german</key>
+		<string>sechsundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty seven [57]</string>
+		<key>german</key>
+		<string>siebenundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty eight [58]</string>
+		<key>german</key>
+		<string>achtundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty nine [59]</string>
+		<key>german</key>
+		<string>neunundfünfzig</string>
+		<key>german-sound</key>
+		<string>num-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty [60]</string>
+		<key>german</key>
+		<string>sechzig</string>
+		<key>german-sound</key>
+		<string>num-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty one [61]</string>
+		<key>german</key>
+		<string>einundsechzig</string>
+		<key>german-sound</key>
+		<string>num-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty two [62]</string>
+		<key>german</key>
+		<string>zweiundsechzig</string>
+		<key>german-sound</key>
+		<string>num-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty three [63]</string>
+		<key>german</key>
+		<string>dreiundsechzig</string>
+		<key>german-sound</key>
+		<string>num-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty four [64]</string>
+		<key>german</key>
+		<string>vierundsechzig</string>
+		<key>german-sound</key>
+		<string>num-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty five [65]</string>
+		<key>german</key>
+		<string>fünfundsechzig</string>
+		<key>german-sound</key>
+		<string>num-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty six [66]</string>
+		<key>german</key>
+		<string>sechsundsechzig</string>
+		<key>german-sound</key>
+		<string>num-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty seven [67]</string>
+		<key>german</key>
+		<string>siebenundsechzig</string>
+		<key>german-sound</key>
+		<string>num-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty eight [68]</string>
+		<key>german</key>
+		<string>achtundsechzig</string>
+		<key>german-sound</key>
+		<string>num-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixty nine [69]</string>
+		<key>german</key>
+		<string>neunundsechzig</string>
+		<key>german-sound</key>
+		<string>num-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy [70]</string>
+		<key>german</key>
+		<string>siebzig</string>
+		<key>german-sound</key>
+		<string>num-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy one [71]</string>
+		<key>german</key>
+		<string>einundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy two [72]</string>
+		<key>german</key>
+		<string>zweiundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy three [73]</string>
+		<key>german</key>
+		<string>dreiundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy four [74]</string>
+		<key>german</key>
+		<string>vierundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy five [75]</string>
+		<key>german</key>
+		<string>fünfundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy six [76]</string>
+		<key>german</key>
+		<string>sechsundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy seven [77]</string>
+		<key>german</key>
+		<string>siebenundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy eight [78]</string>
+		<key>german</key>
+		<string>achtundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seventy nine [79]</string>
+		<key>german</key>
+		<string>neunundsiebzig</string>
+		<key>german-sound</key>
+		<string>num-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty [80]</string>
+		<key>german</key>
+		<string>achtzig</string>
+		<key>german-sound</key>
+		<string>num-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty one [81]</string>
+		<key>german</key>
+		<string>einundachtzig</string>
+		<key>german-sound</key>
+		<string>num-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty two [82]</string>
+		<key>german</key>
+		<string>zweiundachtzig</string>
+		<key>german-sound</key>
+		<string>num-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty three [83]</string>
+		<key>german</key>
+		<string>dreiundachtzig</string>
+		<key>german-sound</key>
+		<string>num-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty four [84]</string>
+		<key>german</key>
+		<string>vierundachtzig</string>
+		<key>german-sound</key>
+		<string>num-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty five [85]</string>
+		<key>german</key>
+		<string>fünfundachtzig</string>
+		<key>german-sound</key>
+		<string>num-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty six [86]</string>
+		<key>german</key>
+		<string>sechsundachtzig</string>
+		<key>german-sound</key>
+		<string>num-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty seven [87]</string>
+		<key>german</key>
+		<string>siebenundachtzig</string>
+		<key>german-sound</key>
+		<string>num-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty eight [88]</string>
+		<key>german</key>
+		<string>achtundachtzig</string>
+		<key>german-sound</key>
+		<string>num-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eighty nine [89]</string>
+		<key>german</key>
+		<string>neunundachtzig</string>
+		<key>german-sound</key>
+		<string>num-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety [90]</string>
+		<key>german</key>
+		<string>neunzig</string>
+		<key>german-sound</key>
+		<string>num-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety one [91]</string>
+		<key>german</key>
+		<string>einundneunzig</string>
+		<key>german-sound</key>
+		<string>num-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety two [92]</string>
+		<key>german</key>
+		<string>zweiundneunzig</string>
+		<key>german-sound</key>
+		<string>num-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety three [93]</string>
+		<key>german</key>
+		<string>dreiundneunzig</string>
+		<key>german-sound</key>
+		<string>num-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety four [94]</string>
+		<key>german</key>
+		<string>vierundneunzig</string>
+		<key>german-sound</key>
+		<string>num-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety five [95]</string>
+		<key>german</key>
+		<string>fünfundneunzig</string>
+		<key>german-sound</key>
+		<string>num-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety six [96]</string>
+		<key>german</key>
+		<string>sechsundneunzig</string>
+		<key>german-sound</key>
+		<string>num-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety seven [97]</string>
+		<key>german</key>
+		<string>siebenundneunzig</string>
+		<key>german-sound</key>
+		<string>num-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety eight [98]</string>
+		<key>german</key>
+		<string>achtundneunzig</string>
+		<key>german-sound</key>
+		<string>num-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ninety nine [99]</string>
+		<key>german</key>
+		<string>neunundneunzig</string>
+		<key>german-sound</key>
+		<string>num-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>(one) hundred [100]</string>
+		<key>german</key>
+		<string>(ein)hundert</string>
+		<key>german-sound</key>
+		<string>num-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred one [101]</string>
+		<key>german</key>
+		<string>einhunderteins [Notice a Pattern: ein(one) + hundert(hundred) + eins(one)]</string>
+		<key>german-sound</key>
+		<string>num-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred two [102]</string>
+		<key>german</key>
+		<string>einhundertzwei [Notice a Pattern: ein(one) + hundert(hundred) + zwei(two)]</string>
+		<key>german-sound</key>
+		<string>num-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred three [103]</string>
+		<key>german</key>
+		<string>einhundertdrei [Notice a Pattern: ein(one) + hundert(hundred) + drei(three)]</string>
+		<key>german-sound</key>
+		<string>num-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>One hundred ten [110]</string>
+		<key>german</key>
+		<string>einhundertzehn [Notice a Pattern: ein(one) + hundert(hundred) + zehn(ten)]</string>
+		<key>german-sound</key>
+		<string>num-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred eleven [111]</string>
+		<key>german</key>
+		<string>einhundertelf [Notice a Pattern: ein(one) + hundert(hundred) + elf(eleven)]</string>
+		<key>german-sound</key>
+		<string>num-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred twenty [120]</string>
+		<key>german</key>
+		<string>einhundertzwanzig [Notice a Pattern: ein(one) + hundert(hundred) + zwanzig(twenty)]</string>
+		<key>german-sound</key>
+		<string>num-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred thirty [130]</string>
+		<key>german</key>
+		<string>einhundertdreißig  [Notice a Pattern: ein(one) + hundert(hundred) + dreißig(thirty)]</string>
+		<key>german-sound</key>
+		<string>num-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred forty [140]</string>
+		<key>german</key>
+		<string>einhundertvierzig [Notice a Pattern: ein(one) + hundert(hundred) + vierzig(fourty)]</string>
+		<key>german-sound</key>
+		<string>num-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one hundred fifty [150]</string>
+		<key>german</key>
+		<string>einhundertfünfzig [Notice a Pattern: ein(one) + hundert(hundred) + fünfzig(fifty)]</string>
+		<key>german-sound</key>
+		<string>num-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two hundred [200]</string>
+		<key>german</key>
+		<string>zweihundert</string>
+		<key>german-sound</key>
+		<string>num-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>three hundred [300]</string>
+		<key>german</key>
+		<string>dreihundert</string>
+		<key>german-sound</key>
+		<string>num-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>four hundred [400]</string>
+		<key>german</key>
+		<string>vierhundert</string>
+		<key>german-sound</key>
+		<string>num-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five hundred [500]</string>
+		<key>german</key>
+		<string>fünfhundert</string>
+		<key>german-sound</key>
+		<string>num-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>six hundred [600]</string>
+		<key>german</key>
+		<string>sechshundert</string>
+		<key>german-sound</key>
+		<string>num-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seven hundred [700]</string>
+		<key>german</key>
+		<string>siebenhundert</string>
+		<key>german-sound</key>
+		<string>num-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eight hundred [800]</string>
+		<key>german</key>
+		<string>achthundert</string>
+		<key>german-sound</key>
+		<string>num-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nine hundred [900]</string>
+		<key>german</key>
+		<string>neunhundert</string>
+		<key>german-sound</key>
+		<string>num-118</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>(one) thousand [1,000]</string>
+		<key>german</key>
+		<string>(ein)tausend [1.000] [In German use the comma as the decimal separator and the period as the thousands separator]</string>
+		<key>german-sound</key>
+		<string>num-119</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two thousand [2,000]</string>
+		<key>german</key>
+		<string>zweitausend [2.000] [In German use the period as the thousands separator]</string>
+		<key>german-sound</key>
+		<string>num-120</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>three thousand [3,000]</string>
+		<key>german</key>
+		<string>dreitausend [3.000]</string>
+		<key>german-sound</key>
+		<string>num-121</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>four thousand [4,000]</string>
+		<key>german</key>
+		<string>viertausend [4.000]</string>
+		<key>german-sound</key>
+		<string>num-122</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five thousand [5,000]</string>
+		<key>german</key>
+		<string>fünftausend [5.000]</string>
+		<key>german-sound</key>
+		<string>num-123</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>six thousand [6,000]</string>
+		<key>german</key>
+		<string>sechstausend [6.000]</string>
+		<key>german-sound</key>
+		<string>num-124</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seven thousand [7,000]</string>
+		<key>german</key>
+		<string>siebentausend [7.000]</string>
+		<key>german-sound</key>
+		<string>num-125</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eight thousand [8,000]</string>
+		<key>german</key>
+		<string>achttausend [8.000]</string>
+		<key>german-sound</key>
+		<string>num-126</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nine thousand [9,000]</string>
+		<key>german</key>
+		<string>neuntausend [9.000]</string>
+		<key>german-sound</key>
+		<string>num-127</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ten thousand [10,000]</string>
+		<key>german</key>
+		<string>zehntausend [10.000]</string>
+		<key>german-sound</key>
+		<string>num-128</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty thousand [20,000]</string>
+		<key>german</key>
+		<string>zwanzigtausend [20.000]</string>
+		<key>german-sound</key>
+		<string>num-129</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thirty thousand [30,000]</string>
+		<key>german</key>
+		<string>dreißigtausend [30.000]</string>
+		<key>german-sound</key>
+		<string>num-130</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hundred thousand [100,000]</string>
+		<key>german</key>
+		<string>hunderttausend [100.000]</string>
+		<key>german-sound</key>
+		<string>num-131</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one million</string>
+		<key>german</key>
+		<string>eine Million</string>
+		<key>german-sound</key>
+		<string>num-132</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two million</string>
+		<key>german</key>
+		<string>zwei Millionen</string>
+		<key>german-sound</key>
+		<string>num-133</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one billion</string>
+		<key>german</key>
+		<string>eine Milliarde</string>
+		<key>german-sound</key>
+		<string>num-134</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one trillion</string>
+		<key>german</key>
+		<string>eine Billion [German (long scale) billion is indeed an English (short scale) trillion]</string>
+		<key>german-sound</key>
+		<string>num-135</string>
+	</dict>
+</array>

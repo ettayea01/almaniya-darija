@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>the dog</string>
+		<key>german</key>
+		<string>der Hund (noun is masculine and singular, that&apos;s why we used der)</string>
+		<key>german-sound</key>
+		<string>definitearticle-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the cat</string>
+		<key>german</key>
+		<string>die Katze (noun is feminine and singular, that&apos;s why we used die)</string>
+		<key>german-sound</key>
+		<string>definitearticle-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the rabbit</string>
+		<key>german</key>
+		<string>das Kaninchen (noun is neuter and singular, that&apos;s why we used das)</string>
+		<key>german-sound</key>
+		<string>definitearticle-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the dogs, the cats</string>
+		<key>german</key>
+		<string>die Hunde, die Katzen (noun is plural, that&apos;s why we used die) [Note: with plural nouns we use &quot;die”, even if the noun is masculine or feminine or neuter]</string>
+		<key>german-sound</key>
+		<string>definitearticle-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the boy</string>
+		<key>german</key>
+		<string>der Junge (noun is masculine and singular, that&apos;s why we used der)</string>
+		<key>german-sound</key>
+		<string>definitearticle-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the woman</string>
+		<key>german</key>
+		<string>die Frau (noun is feminine and singular, that&apos;s why we used die)</string>
+		<key>german-sound</key>
+		<string>definitearticle-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the girl</string>
+		<key>german</key>
+		<string>das Mädchen (noun is neuter and singular, that&apos;s why we used das) [Note: almost all words with the ending -chen are neuter]</string>
+		<key>german-sound</key>
+		<string>definitearticle-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the boys</string>
+		<key>german</key>
+		<string>die Jungen (noun is plural, that&apos;s why we used die) [Note: with plural nouns we use &quot;die”, even if the noun is masculine or feminine or neuter]</string>
+		<key>german-sound</key>
+		<string>definitearticle-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the women</string>
+		<key>german</key>
+		<string>die Frauen (noun is plural, that&apos;s why we used die) [Note: with plural nouns we use &quot;die”, even if the noun is masculine or feminine or neuter]</string>
+		<key>german-sound</key>
+		<string>definitearticle-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the girls</string>
+		<key>german</key>
+		<string>die Mädchen (noun is plural, that&apos;s why we used die) [Note: with plural nouns we use &quot;die”, even if the noun is masculine or feminine or neuter]</string>
+		<key>german-sound</key>
+		<string>definitearticle-10</string>
+	</dict>
+</array>

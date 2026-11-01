@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>What time is it?</string>
+		<key>german</key>
+		<string>Wie spät ist es?</string>
+		<key>english-sound</key>
+		<string>time-eng-1</string>
+		<key>german-sound</key>
+		<string>time-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is mid-day.</string>
+		<key>german</key>
+		<string>Es ist Mittag.</string>
+		<key>english-sound</key>
+		<string>time-eng-2</string>
+		<key>german-sound</key>
+		<string>time-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is midnight.</string>
+		<key>german</key>
+		<string>Es ist Mitternacht.</string>
+		<key>english-sound</key>
+		<string>time-eng-3</string>
+		<key>german-sound</key>
+		<string>time-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>an hour</string>
+		<key>german</key>
+		<string>eine Stunde</string>
+		<key>english-sound</key>
+		<string>time-eng-4</string>
+		<key>german-sound</key>
+		<string>time-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a minute</string>
+		<key>german</key>
+		<string>eine Minute</string>
+		<key>english-sound</key>
+		<string>time-eng-5</string>
+		<key>german-sound</key>
+		<string>time-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a second</string>
+		<key>german</key>
+		<string>eine Sekunde</string>
+		<key>english-sound</key>
+		<string>time-eng-6</string>
+		<key>german-sound</key>
+		<string>time-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is one o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist ein Uhr. [Es ist(It is), ein(one), Uhr(Clock)], [Tip: When we have a full hour we put the word ‚Uhr‚ at the end.]</string>
+		<key>english-sound</key>
+		<string>time-eng-7</string>
+		<key>german-sound</key>
+		<string>time-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is two o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist zwei Uhr. [Es ist(It is), zwei(two), Uhr(Clock)], [Tip: When we have a full hour we put the word ‚Uhr‚ at the end.]</string>
+		<key>english-sound</key>
+		<string>time-eng-8</string>
+		<key>german-sound</key>
+		<string>time-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is three o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist drei Uhr. [Es ist(It is), drei(three), Uhr(Clock)], [Tip: When we have a full hour we put the word ‚Uhr‚ at the end.]</string>
+		<key>english-sound</key>
+		<string>time-eng-9</string>
+		<key>german-sound</key>
+		<string>time-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is four o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist vier Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-10</string>
+		<key>german-sound</key>
+		<string>time-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is five o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist fünf Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-11</string>
+		<key>german-sound</key>
+		<string>time-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is six o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist sechs Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-12</string>
+		<key>german-sound</key>
+		<string>time-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is seven o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist sieben Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-13</string>
+		<key>german-sound</key>
+		<string>time-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is eight o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist acht Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-14</string>
+		<key>german-sound</key>
+		<string>time-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is nine o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist neun Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-15</string>
+		<key>german-sound</key>
+		<string>time-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is ten o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist zehn Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-16</string>
+		<key>german-sound</key>
+		<string>time-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is eleven o&apos;clock.</string>
+		<key>german</key>
+		<string>Es ist elf Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-17</string>
+		<key>german-sound</key>
+		<string>time-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:05</string>
+		<key>german</key>
+		<string>fünf nach zwölf [fünf(five) nach(past) zwölf(twelve)], [Tip: Another way of telling the time is to use the word: nach. This time you say the minutes first.]</string>
+		<key>english-sound</key>
+		<string>time-eng-18</string>
+		<key>german-sound</key>
+		<string>time-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:10</string>
+		<key>german</key>
+		<string>zehn nach zwölf [zehn(ten) nach(past) zwölf(twelve)], [Tip: Another way of telling the time is to use the word: nach. This time you say the minutes first.]</string>
+		<key>english-sound</key>
+		<string>time-eng-19</string>
+		<key>german-sound</key>
+		<string>time-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:15</string>
+		<key>german</key>
+		<string>viertel nach zwölf [viertel(quarter) nach(past) zwölf(twelve)]</string>
+		<key>english-sound</key>
+		<string>time-eng-20</string>
+		<key>german-sound</key>
+		<string>time-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:20</string>
+		<key>german</key>
+		<string>zwanzig nach zwölf [zwanzig(twenty) nach(past) zwölf(twelve)]</string>
+		<key>english-sound</key>
+		<string>time-eng-21</string>
+		<key>german-sound</key>
+		<string>time-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:30</string>
+		<key>german</key>
+		<string>halb eins [halb(half), eins(one)], [Tip: In German it is a little tricky when we have 30 minute left to the next hour. You use the word: halb but then you add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-22</string>
+		<key>german-sound</key>
+		<string>time-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:45</string>
+		<key>german</key>
+		<string>viertel vor eins [viertel(quarter), vor(before), eins(one)], [Tip: If we have less than 30 minutes to the next hour we can use the word: vor and add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-23</string>
+		<key>german-sound</key>
+		<string>time-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:50</string>
+		<key>german</key>
+		<string>zehn vor eins [zehn(ten), vor(before), eins(one)], [Note: I know, it&apos;s tricky but don&apos;t worry, later in the section I will show you the easiest way of telling time in German]</string>
+		<key>english-sound</key>
+		<string>time-eng-24</string>
+		<key>german-sound</key>
+		<string>time-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:55</string>
+		<key>german</key>
+		<string>fünf vor eins [fünf(five), vor(before), eins(one)], [Note: I know, it&apos;s tricky but don&apos;t worry, later in the section I will show you the easiest way of telling time in German]</string>
+		<key>english-sound</key>
+		<string>time-eng-25</string>
+		<key>german-sound</key>
+		<string>time-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is half past twelve</string>
+		<key>german</key>
+		<string>Es ist halb eins. [Es ist(It is), halb(half), eins(one)], [Tip: In German it is a little tricky when we have 30 minute left to the next hour. You use the word: halb but then you add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-26</string>
+		<key>german-sound</key>
+		<string>time-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is half past one.</string>
+		<key>german</key>
+		<string>Es ist halb zwei. [Es ist(It is), halb(half), zwei(two)], [Tip: In German it is a little tricky when we have 30 minute left to the next hour. You use the word: halb but then you add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-27</string>
+		<key>german-sound</key>
+		<string>time-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is five past one.</string>
+		<key>german</key>
+		<string>Es ist fünf nach eins. [Es ist(It is), fünf(five), nach(past), eins(one)], [Remember we say minutes first when we use nach]</string>
+		<key>english-sound</key>
+		<string>time-eng-28</string>
+		<key>german-sound</key>
+		<string>time-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is ten past one.</string>
+		<key>german</key>
+		<string>Es ist zehn nach eins. [Es ist(It is), zehn(ten), nach(past), eins(one)]</string>
+		<key>english-sound</key>
+		<string>time-eng-29</string>
+		<key>german-sound</key>
+		<string>time-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is quarter past one.</string>
+		<key>german</key>
+		<string>Es ist Viertel nach eins. [Es ist(It is), Viertel(quarter), nach(past), eins(one)]</string>
+		<key>english-sound</key>
+		<string>time-eng-30</string>
+		<key>german-sound</key>
+		<string>time-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is twenty past one.</string>
+		<key>german</key>
+		<string>Es ist zwanzig nach eins. [Es ist(It is), zwanzig(twenty), nach(past), eins(one)]</string>
+		<key>english-sound</key>
+		<string>time-eng-31</string>
+		<key>german-sound</key>
+		<string>time-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>O’Clock</string>
+		<key>german</key>
+		<string>Uhr</string>
+		<key>english-sound</key>
+		<string>time-eng-32</string>
+		<key>german-sound</key>
+		<string>time-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Time</string>
+		<key>german</key>
+		<string>Zeit</string>
+		<key>english-sound</key>
+		<string>time-eng-33</string>
+		<key>german-sound</key>
+		<string>time-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>At / Around</string>
+		<key>german</key>
+		<string>Um</string>
+		<key>english-sound</key>
+		<string>time-eng-34</string>
+		<key>german-sound</key>
+		<string>time-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Before</string>
+		<key>german</key>
+		<string>Vor</string>
+		<key>english-sound</key>
+		<string>time-eng-35</string>
+		<key>german-sound</key>
+		<string>time-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>After</string>
+		<key>german</key>
+		<string>Nach</string>
+		<key>english-sound</key>
+		<string>time-eng-36</string>
+		<key>german-sound</key>
+		<string>time-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Shortly</string>
+		<key>german</key>
+		<string>Kurz</string>
+		<key>english-sound</key>
+		<string>time-eng-37</string>
+		<key>german-sound</key>
+		<string>time-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Quarter</string>
+		<key>german</key>
+		<string>Viertel</string>
+		<key>english-sound</key>
+		<string>time-eng-38</string>
+		<key>german-sound</key>
+		<string>time-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Half</string>
+		<key>german</key>
+		<string>Halb</string>
+		<key>english-sound</key>
+		<string>time-eng-39</string>
+		<key>german-sound</key>
+		<string>time-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Today</string>
+		<key>german</key>
+		<string>Heute</string>
+		<key>english-sound</key>
+		<string>time-eng-40</string>
+		<key>german-sound</key>
+		<string>time-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Tomorrow / morning</string>
+		<key>german</key>
+		<string>Morgen</string>
+		<key>english-sound</key>
+		<string>time-eng-41</string>
+		<key>german-sound</key>
+		<string>time-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Forenoon</string>
+		<key>german</key>
+		<string>Vormittag</string>
+		<key>english-sound</key>
+		<string>time-eng-42</string>
+		<key>german-sound</key>
+		<string>time-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Noon</string>
+		<key>german</key>
+		<string>Mittag</string>
+		<key>english-sound</key>
+		<string>time-eng-43</string>
+		<key>german-sound</key>
+		<string>time-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is afternoon</string>
+		<key>german</key>
+		<string>Es ist nachmittag</string>
+		<key>english-sound</key>
+		<string>time-eng-44</string>
+		<key>german-sound</key>
+		<string>time-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s midnight</string>
+		<key>german</key>
+		<string>Es ist mitternacht</string>
+		<key>english-sound</key>
+		<string>time-eng-45</string>
+		<key>german-sound</key>
+		<string>time-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the morning</string>
+		<key>german</key>
+		<string>morgens / früh</string>
+		<key>english-sound</key>
+		<string>time-eng-46</string>
+		<key>german-sound</key>
+		<string>time-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the evening</string>
+		<key>german</key>
+		<string>abends</string>
+		<key>english-sound</key>
+		<string>time-eng-47</string>
+		<key>german-sound</key>
+		<string>time-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s exactly...</string>
+		<key>german</key>
+		<string>Es ist genau...</string>
+		<key>english-sound</key>
+		<string>time-eng-48</string>
+		<key>german-sound</key>
+		<string>time-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>2:16</string>
+		<key>german</key>
+		<string>Es ist zwei Uhr sechzehn. [Tip: To tell the exact time you say the hour and then the minutes but make sure you put the word ‚Uhr]</string>
+		<key>english-sound</key>
+		<string>time-eng-49</string>
+		<key>german-sound</key>
+		<string>time-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>3:25</string>
+		<key>german</key>
+		<string>Es ist drei Uhr fünfundzwanzig. [Tip: To tell the exact time you say the hour and then the minutes but make sure you put the word ‚Uhr]</string>
+		<key>english-sound</key>
+		<string>time-eng-50</string>
+		<key>german-sound</key>
+		<string>time-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>7:34</string>
+		<key>german</key>
+		<string>Es ist sieben Uhr vierunddreißig. [Tip: To tell the exact time you say the hour and then the minutes but make sure you put the word ‚Uhr]</string>
+		<key>english-sound</key>
+		<string>time-eng-51</string>
+		<key>german-sound</key>
+		<string>time-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>5:45</string>
+		<key>german</key>
+		<string>Es ist fünf Uhr fünfundvierzig. [Tip: To tell the exact time you say the hour and then the minutes but make sure you put the word ‚Uhr]</string>
+		<key>english-sound</key>
+		<string>time-eng-52</string>
+		<key>german-sound</key>
+		<string>time-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>10:05</string>
+		<key>german</key>
+		<string>Es ist fünf nach zehn. [Tip: Another way of telling the time is to use the word: nach. This time you say the minutes first.]</string>
+		<key>english-sound</key>
+		<string>time-eng-53</string>
+		<key>german-sound</key>
+		<string>time-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>12:10</string>
+		<key>german</key>
+		<string>Es ist zehn nach zwölf. [Tip: Another way of telling the time is to use the word: nach. This time you say the minutes first.]</string>
+		<key>english-sound</key>
+		<string>time-eng-54</string>
+		<key>german-sound</key>
+		<string>time-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>4:02</string>
+		<key>german</key>
+		<string>Es ist zwei nach vier. [Tip: Another way of telling the time is to use the word: nach. This time you say the minutes first.]</string>
+		<key>english-sound</key>
+		<string>time-eng-55</string>
+		<key>german-sound</key>
+		<string>time-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>2:50</string>
+		<key>german</key>
+		<string>Es ist zehn vor drei. [It’s ten to (before) three.], [Tip: If we have less than 30 minutes to the next hour we can use the word: vor.]</string>
+		<key>english-sound</key>
+		<string>time-eng-56</string>
+		<key>german-sound</key>
+		<string>time-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>3:40</string>
+		<key>german</key>
+		<string>Es ist zwanzig vor vier. [It’s twenty to (before) four.], [Tip: If we have less than 30 minutes to the next hour we can use the word: vor.]</string>
+		<key>english-sound</key>
+		<string>time-eng-57</string>
+		<key>german-sound</key>
+		<string>time-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>8:30</string>
+		<key>german</key>
+		<string>Es ist halb neun. [Tip: In German it is a little tricky when we have 30 minute left to the next hour. You use the word: halb but then you add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-58</string>
+		<key>german-sound</key>
+		<string>time-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>9:30</string>
+		<key>german</key>
+		<string>Es ist halb zehn. [Tip: In German it is a little tricky when we have 30 minute left to the next hour. You use the word: halb but then you add the next hour!]</string>
+		<key>english-sound</key>
+		<string>time-eng-59</string>
+		<key>german-sound</key>
+		<string>time-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>13:00</string>
+		<key>german</key>
+		<string>Es ist dreizehn Uhr. [Note: Germans use the 24-hour system.]</string>
+		<key>english-sound</key>
+		<string>time-eng-60</string>
+		<key>german-sound</key>
+		<string>time-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>15:00</string>
+		<key>german</key>
+		<string>Es ist fünfzehn Uhr.</string>
+		<key>english-sound</key>
+		<string>time-eng-61</string>
+		<key>german-sound</key>
+		<string>time-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>17:30</string>
+		<key>german</key>
+		<string>Es ist siebzehn Uhr dreißig.</string>
+		<key>english-sound</key>
+		<string>time-eng-62</string>
+		<key>german-sound</key>
+		<string>time-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>19:16</string>
+		<key>german</key>
+		<string>Es ist neunzehn Uhr sechzehn.</string>
+		<key>english-sound</key>
+		<string>time-eng-63</string>
+		<key>german-sound</key>
+		<string>time-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>20:45</string>
+		<key>german</key>
+		<string>Es ist zwanzig Uhr fünfundvierzig.</string>
+		<key>english-sound</key>
+		<string>time-eng-64</string>
+		<key>german-sound</key>
+		<string>time-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>half an hour</string>
+		<key>german</key>
+		<string>eine halbe Stunde</string>
+		<key>english-sound</key>
+		<string>time-eng-65</string>
+		<key>german-sound</key>
+		<string>time-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>an hour and a half</string>
+		<key>german</key>
+		<string>anderthalb Stunden</string>
+		<key>english-sound</key>
+		<string>time-eng-66</string>
+		<key>german-sound</key>
+		<string>time-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at four o&apos;clock</string>
+		<key>german</key>
+		<string>um vier Uhr</string>
+		<key>english-sound</key>
+		<string>time-eng-67</string>
+		<key>german-sound</key>
+		<string>time-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the afternoon</string>
+		<key>german</key>
+		<string>nachmittags</string>
+		<key>english-sound</key>
+		<string>time-eng-68</string>
+		<key>german-sound</key>
+		<string>time-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>watch</string>
+		<key>german</key>
+		<string>die Armbanduhr</string>
+		<key>english-sound</key>
+		<string>time-eng-69</string>
+		<key>german-sound</key>
+		<string>time-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>clock</string>
+		<key>german</key>
+		<string>die Uhr</string>
+		<key>english-sound</key>
+		<string>time-eng-70</string>
+		<key>german-sound</key>
+		<string>time-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by the clock</string>
+		<key>german</key>
+		<string>nach der Uhr</string>
+		<key>english-sound</key>
+		<string>time-eng-71</string>
+		<key>german-sound</key>
+		<string>time-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to put the clock right</string>
+		<key>german</key>
+		<string>die Uhr einstellen</string>
+		<key>english-sound</key>
+		<string>time-eng-72</string>
+		<key>german-sound</key>
+		<string>time-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the exact time</string>
+		<key>german</key>
+		<string>die genaue Zeit</string>
+		<key>english-sound</key>
+		<string>time-eng-73</string>
+		<key>german-sound</key>
+		<string>time-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>by my watch</string>
+		<key>german</key>
+		<string>nach meiner Uhr</string>
+		<key>english-sound</key>
+		<string>time-eng-74</string>
+		<key>german-sound</key>
+		<string>time-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>alarm clock</string>
+		<key>german</key>
+		<string>der Wecker</string>
+		<key>english-sound</key>
+		<string>time-eng-75</string>
+		<key>german-sound</key>
+		<string>time-german-75</string>
+	</dict>
+</array>

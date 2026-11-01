@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>body</string>
+		<key>german</key>
+		<string>der Körper (singular), die Körper (plural) [Note: The plural article is always &quot;die&quot;.]</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-1</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>head</string>
+		<key>german</key>
+		<string>der Kopf (singular), die Köpfe (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-2</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hair</string>
+		<key>german</key>
+		<string>das Haar (singular), die Haare (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-3</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forehead</string>
+		<key>german</key>
+		<string>die Stirn (singular)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-4</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>face</string>
+		<key>german</key>
+		<string>das Gesicht (singular), die Gesichter (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-5</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eye</string>
+		<key>german</key>
+		<string>das Auge (singular), die Augen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-6</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eyebrow</string>
+		<key>german</key>
+		<string>die Augenbraue (singular), die Augenbrauen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-7</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eyelash</string>
+		<key>german</key>
+		<string>die Wimper (singular), die Wimpern (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-8</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ear</string>
+		<key>german</key>
+		<string>das Ohr (singular), die Ohren (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-9</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nose</string>
+		<key>german</key>
+		<string>die Nase (singular), die Nasen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-10</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nosehole</string>
+		<key>german</key>
+		<string>das Nasenloch (singular), die Nasenlöcher (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-11</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cheek</string>
+		<key>german</key>
+		<string>die Wange (singular), die Wangen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-12</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mouth</string>
+		<key>german</key>
+		<string>der Mund (singular), die Münder (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-13</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lip</string>
+		<key>german</key>
+		<string>die Lippe (singular), die Lippen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-14</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>upper lip</string>
+		<key>german</key>
+		<string>die Oberlippe (singular), die Oberlippen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-15</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bottom lip</string>
+		<key>german</key>
+		<string>die Unterlippe (singular), die Unterlippen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-16</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tongue</string>
+		<key>german</key>
+		<string>die Zunge (singular), die Zungen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-17</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tooth</string>
+		<key>german</key>
+		<string>der Zahn (singular), die Zähne (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-18</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wisdom tooth</string>
+		<key>german</key>
+		<string>der Weisheitszahn (singular), die Weisheitszähne (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-19</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>baby tooth</string>
+		<key>german</key>
+		<string>der Milchzahn (singular), die Milchzähne (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-20</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chin</string>
+		<key>german</key>
+		<string>das Kinn (singular)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-21</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shoulder</string>
+		<key>german</key>
+		<string>die Schulter (singular), die Schultern (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-22</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>arm</string>
+		<key>german</key>
+		<string>der Arm (singular), die Arme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-23</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>upper arm</string>
+		<key>german</key>
+		<string>der Oberarm (singular), die Oberarme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-24</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>elbow</string>
+		<key>german</key>
+		<string>der Ellenbogen (singular), die Ellenbogen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-25</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lower arm</string>
+		<key>german</key>
+		<string>der Unterarm (singular), die Unterarme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-26</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hand</string>
+		<key>german</key>
+		<string>die Hand (singular), die Hände (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-27</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>finger</string>
+		<key>german</key>
+		<string>der Finger (singular), die Finger (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-28</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thumb</string>
+		<key>german</key>
+		<string>der Daumen (singular), die Daumen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-29</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forefinger</string>
+		<key>german</key>
+		<string>der Zeigefinger (singular), die Zeigefinger (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-30</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>middle finger</string>
+		<key>german</key>
+		<string>der Mittelfinger (singular), die Mittelfinger (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-31</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ring finger</string>
+		<key>german</key>
+		<string>der Ringfinger (singular), die Ringfinger (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-32</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>little finger</string>
+		<key>german</key>
+		<string>der kleine Finger (singular), die kleinen Finger (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-33</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fingernail</string>
+		<key>german</key>
+		<string>der Fingernagel (singular), die Fingernägel (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-34</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mole (big one)</string>
+		<key>german</key>
+		<string>der Leberfleck (singular), die Leberflecken (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-35</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mole (small one)</string>
+		<key>german</key>
+		<string>das Muttermal (singular), die Muttermale (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-36</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blackhead</string>
+		<key>german</key>
+		<string>der Mitesser (singular), die Mitesser (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-37</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pimple</string>
+		<key>german</key>
+		<string>der Pickel (singular), die Pickel (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-38</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>acne</string>
+		<key>german</key>
+		<string>die Akne (singular)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-39</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>breast</string>
+		<key>german</key>
+		<string>die Brust (singular), die Brüste (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-40</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nipple</string>
+		<key>german</key>
+		<string>die Brustwarze (singular), die Brustwarzen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-41</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>belly</string>
+		<key>german</key>
+		<string>der Bauch (singular), die Bäuche (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-42</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>navel</string>
+		<key>german</key>
+		<string>der Bauchnabel (singular), die Bauchnabel (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-43</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>back</string>
+		<key>german</key>
+		<string>der Rücken (singular), die Rücken (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-44</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hip</string>
+		<key>german</key>
+		<string>die Hüfte (singular), die Hüften (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-45</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leg</string>
+		<key>german</key>
+		<string>das Bein (singular), die Beine (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-46</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thigh</string>
+		<key>german</key>
+		<string>der Oberschenkel (singular), die Oberschenkel (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-47</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>knee</string>
+		<key>german</key>
+		<string>das Knie (singular), die Knie (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-48</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>waste</string>
+		<key>german</key>
+		<string>die Wade (singular), die Waden (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-49</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foot</string>
+		<key>german</key>
+		<string>der Fuß (singular), die Füße (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-50</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toe</string>
+		<key>german</key>
+		<string>der Zeh (singular), die Zehen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-51</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>foreskin</string>
+		<key>german</key>
+		<string>die Vorhaut (singular), die Vorhäute (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-52</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beard</string>
+		<key>german</key>
+		<string>der Bart (singular), die Bärte (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-53</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mustache</string>
+		<key>german</key>
+		<string>der Schnurrbart (singular), die Schnurrbärte (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-54</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>neck</string>
+		<key>german</key>
+		<string>der Hals (singular), die Hälse (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-55</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chest</string>
+		<key>german</key>
+		<string>die Brust (singular), die Brüste (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-56</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>armpit</string>
+		<key>german</key>
+		<string>die Achsel (singular), die Achseln (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-57</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nail</string>
+		<key>german</key>
+		<string>der Nagel (singular), die Nägel (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-58</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Organs</string>
+		<key>german</key>
+		<string>die Organe</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-59</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the small intestine</string>
+		<key>german</key>
+		<string>der Dünndarm (singular), die Dünndärme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-60</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the large intestine</string>
+		<key>german</key>
+		<string>der Dickdarm (singular), die Dickdärme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-61</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brain</string>
+		<key>german</key>
+		<string>das Gehirn (singular), die Gehirne (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-62</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skin</string>
+		<key>german</key>
+		<string>die Haut (singular), die Häute (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-63</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heart</string>
+		<key>german</key>
+		<string>das Herz (singular), die Herzen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-64</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>liver</string>
+		<key>german</key>
+		<string>die Leber (singular), die Lebern (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-65</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lung</string>
+		<key>german</key>
+		<string>die Lunge (singular), die Lungen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-66</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stomach</string>
+		<key>german</key>
+		<string>der Magen (singular), die Mägen (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-67</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>muscle</string>
+		<key>german</key>
+		<string>der Muskel (singular), die Muskeln (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-68</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kidney</string>
+		<key>german</key>
+		<string>die Niere (singular), die Nieren (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-69</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skeleton</string>
+		<key>german</key>
+		<string>das Skelett (singular), die Skelette (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-70</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bicep</string>
+		<key>german</key>
+		<string>der Bizeps (singular), die Bizepse (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-71</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forearm</string>
+		<key>german</key>
+		<string>der Unterarm (singular), die Unterarme (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-72</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wrist</string>
+		<key>german</key>
+		<string>das Handgelenk (singular), die Handgelenke (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-73</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>calf</string>
+		<key>german</key>
+		<string>die Wade (singular), die Waden (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-74</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ankle</string>
+		<key>german</key>
+		<string>die Fessel (singular), die Fesseln (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-75</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heel</string>
+		<key>german</key>
+		<string>der Absatz (singular), die Absätze (plural)</string>
+		<key>english-sound</key>
+		<string>bodyparts-eng-76</string>
+		<key>german-sound</key>
+		<string>bodyparts-german-76</string>
+	</dict>
+</array>

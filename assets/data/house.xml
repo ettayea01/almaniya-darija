@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>house</string>
+		<key>german</key>
+		<string>das Haus</string>
+		<key>english-sound</key>
+		<string>house-eng-1</string>
+		<key>german-sound</key>
+		<string>house-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>home</string>
+		<key>german</key>
+		<string>das Zuhause</string>
+		<key>english-sound</key>
+		<string>house-eng-2</string>
+		<key>german-sound</key>
+		<string>house-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>detached house</string>
+		<key>german</key>
+		<string>das alleinstehende Haus</string>
+		<key>english-sound</key>
+		<string>house-eng-3</string>
+		<key>german-sound</key>
+		<string>house-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>semi-detached house</string>
+		<key>german</key>
+		<string>das Doppelhaus</string>
+		<key>english-sound</key>
+		<string>house-eng-4</string>
+		<key>german-sound</key>
+		<string>house-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cottage</string>
+		<key>german</key>
+		<string>das Häuschen</string>
+		<key>english-sound</key>
+		<string>house-eng-5</string>
+		<key>german-sound</key>
+		<string>house-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bungalow</string>
+		<key>german</key>
+		<string>der Bungalow</string>
+		<key>english-sound</key>
+		<string>house-eng-6</string>
+		<key>german-sound</key>
+		<string>house-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flat</string>
+		<key>german</key>
+		<string>die Wohnung</string>
+		<key>english-sound</key>
+		<string>house-eng-7</string>
+		<key>german-sound</key>
+		<string>house-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ground-floor flat</string>
+		<key>german</key>
+		<string>die Erdgeschosswohnung</string>
+		<key>english-sound</key>
+		<string>house-eng-8</string>
+		<key>german-sound</key>
+		<string>house-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>retirement home</string>
+		<key>german</key>
+		<string>das Altenwohnheim</string>
+		<key>english-sound</key>
+		<string>house-eng-9</string>
+		<key>german-sound</key>
+		<string>house-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two-storey house</string>
+		<key>german</key>
+		<string>das Doppelstockhaus</string>
+		<key>english-sound</key>
+		<string>house-eng-10</string>
+		<key>german-sound</key>
+		<string>house-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boarding house</string>
+		<key>german</key>
+		<string>die Pension</string>
+		<key>english-sound</key>
+		<string>house-eng-11</string>
+		<key>german-sound</key>
+		<string>house-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>family house</string>
+		<key>german</key>
+		<string>das Einfamilienhaus</string>
+		<key>english-sound</key>
+		<string>house-eng-12</string>
+		<key>german-sound</key>
+		<string>house-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>villa</string>
+		<key>german</key>
+		<string>die Villa</string>
+		<key>english-sound</key>
+		<string>house-eng-13</string>
+		<key>german-sound</key>
+		<string>house-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>solar-powered house</string>
+		<key>german</key>
+		<string>das Solarhaus</string>
+		<key>english-sound</key>
+		<string>house-eng-14</string>
+		<key>german-sound</key>
+		<string>house-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>penthouse</string>
+		<key>german</key>
+		<string>die Dachwohnung / das Penthaus</string>
+		<key>english-sound</key>
+		<string>house-eng-15</string>
+		<key>german-sound</key>
+		<string>house-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>driveway</string>
+		<key>german</key>
+		<string>die Auffahrt</string>
+		<key>english-sound</key>
+		<string>house-eng-16</string>
+		<key>german-sound</key>
+		<string>house-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garage</string>
+		<key>german</key>
+		<string>die Garage</string>
+		<key>english-sound</key>
+		<string>house-eng-17</string>
+		<key>german-sound</key>
+		<string>house-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>central heating</string>
+		<key>german</key>
+		<string>die Zentralheizung</string>
+		<key>english-sound</key>
+		<string>house-eng-18</string>
+		<key>german-sound</key>
+		<string>house-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>double glazing</string>
+		<key>german</key>
+		<string>die Doppelverglasung</string>
+		<key>english-sound</key>
+		<string>house-eng-19</string>
+		<key>german-sound</key>
+		<string>house-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>air conditioning</string>
+		<key>german</key>
+		<string>die Klimanlage</string>
+		<key>english-sound</key>
+		<string>house-eng-20</string>
+		<key>german-sound</key>
+		<string>house-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden</string>
+		<key>german</key>
+		<string>der Garten</string>
+		<key>english-sound</key>
+		<string>house-eng-21</string>
+		<key>german-sound</key>
+		<string>house-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>roof</string>
+		<key>german</key>
+		<string>das Dach</string>
+		<key>english-sound</key>
+		<string>house-eng-22</string>
+		<key>german-sound</key>
+		<string>house-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tiled roof</string>
+		<key>german</key>
+		<string>das Ziegeldach</string>
+		<key>english-sound</key>
+		<string>house-eng-23</string>
+		<key>german-sound</key>
+		<string>house-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ground floor</string>
+		<key>german</key>
+		<string>das Erdgeschoss</string>
+		<key>english-sound</key>
+		<string>house-eng-24</string>
+		<key>german-sound</key>
+		<string>house-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>first floor</string>
+		<key>german</key>
+		<string>der erste Stock</string>
+		<key>english-sound</key>
+		<string>house-eng-25</string>
+		<key>german-sound</key>
+		<string>house-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cellar</string>
+		<key>german</key>
+		<string>der Keller</string>
+		<key>english-sound</key>
+		<string>house-eng-26</string>
+		<key>german-sound</key>
+		<string>house-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>basement</string>
+		<key>german</key>
+		<string>der Keller / das Untergeschoss</string>
+		<key>english-sound</key>
+		<string>house-eng-27</string>
+		<key>german-sound</key>
+		<string>house-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>loft</string>
+		<key>german</key>
+		<string>die Loftwohnung / der Dachboden</string>
+		<key>english-sound</key>
+		<string>house-eng-28</string>
+		<key>german-sound</key>
+		<string>house-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>room</string>
+		<key>german</key>
+		<string>das Zimmer</string>
+		<key>english-sound</key>
+		<string>house-eng-29</string>
+		<key>german-sound</key>
+		<string>house-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>floor</string>
+		<key>german</key>
+		<string>der Fussboden</string>
+		<key>english-sound</key>
+		<string>house-eng-30</string>
+		<key>german-sound</key>
+		<string>house-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>walls</string>
+		<key>german</key>
+		<string>die Wände / die Mauern</string>
+		<key>english-sound</key>
+		<string>house-eng-31</string>
+		<key>german-sound</key>
+		<string>house-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>window</string>
+		<key>german</key>
+		<string>das Fenster</string>
+		<key>english-sound</key>
+		<string>house-eng-32</string>
+		<key>german-sound</key>
+		<string>house-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>window blind</string>
+		<key>german</key>
+		<string>das Fensterrollo</string>
+		<key>english-sound</key>
+		<string>house-eng-33</string>
+		<key>german-sound</key>
+		<string>house-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ceiling</string>
+		<key>german</key>
+		<string>die Decke</string>
+		<key>english-sound</key>
+		<string>house-eng-34</string>
+		<key>german-sound</key>
+		<string>house-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ceiling light</string>
+		<key>german</key>
+		<string>die Deckenbeleuchtung</string>
+		<key>english-sound</key>
+		<string>house-eng-35</string>
+		<key>german-sound</key>
+		<string>house-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>front door</string>
+		<key>german</key>
+		<string>die Haustür</string>
+		<key>english-sound</key>
+		<string>house-eng-36</string>
+		<key>german-sound</key>
+		<string>house-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hallway</string>
+		<key>german</key>
+		<string>der Hausflur</string>
+		<key>english-sound</key>
+		<string>house-eng-37</string>
+		<key>german-sound</key>
+		<string>house-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kitchen</string>
+		<key>german</key>
+		<string>die Küche</string>
+		<key>english-sound</key>
+		<string>house-eng-38</string>
+		<key>german-sound</key>
+		<string>house-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dining room</string>
+		<key>german</key>
+		<string>das Esszimmer</string>
+		<key>english-sound</key>
+		<string>house-eng-39</string>
+		<key>german-sound</key>
+		<string>house-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lounge</string>
+		<key>german</key>
+		<string>das Wohnzimmer</string>
+		<key>english-sound</key>
+		<string>house-eng-40</string>
+		<key>german-sound</key>
+		<string>house-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stairs</string>
+		<key>german</key>
+		<string>die Treppen</string>
+		<key>english-sound</key>
+		<string>house-eng-41</string>
+		<key>german-sound</key>
+		<string>house-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bathroom</string>
+		<key>german</key>
+		<string>das Bad</string>
+		<key>english-sound</key>
+		<string>house-eng-42</string>
+		<key>german-sound</key>
+		<string>house-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lavatory</string>
+		<key>german</key>
+		<string>die Toilette</string>
+		<key>english-sound</key>
+		<string>house-eng-43</string>
+		<key>german-sound</key>
+		<string>house-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bedroom</string>
+		<key>german</key>
+		<string>das Schlafzimmer</string>
+		<key>english-sound</key>
+		<string>house-eng-44</string>
+		<key>german-sound</key>
+		<string>house-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>window frame</string>
+		<key>german</key>
+		<string>der Fensterrahmen</string>
+		<key>english-sound</key>
+		<string>house-eng-45</string>
+		<key>german-sound</key>
+		<string>house-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>round window</string>
+		<key>german</key>
+		<string>das runde Fenster</string>
+		<key>english-sound</key>
+		<string>house-eng-46</string>
+		<key>german-sound</key>
+		<string>house-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>window cleaner</string>
+		<key>german</key>
+		<string>der Fensterputzer</string>
+		<key>english-sound</key>
+		<string>house-eng-47</string>
+		<key>german-sound</key>
+		<string>house-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>furniture</string>
+		<key>german</key>
+		<string>die Möbel</string>
+		<key>english-sound</key>
+		<string>house-eng-48</string>
+		<key>german-sound</key>
+		<string>house-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sofa</string>
+		<key>german</key>
+		<string>die Couch / das Sofa</string>
+		<key>english-sound</key>
+		<string>house-eng-49</string>
+		<key>german-sound</key>
+		<string>house-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sofa bed</string>
+		<key>german</key>
+		<string>die Schlafcouch</string>
+		<key>english-sound</key>
+		<string>house-eng-50</string>
+		<key>german-sound</key>
+		<string>house-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dining table</string>
+		<key>german</key>
+		<string>der Esstisch</string>
+		<key>english-sound</key>
+		<string>house-eng-51</string>
+		<key>german-sound</key>
+		<string>house-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dining chair</string>
+		<key>german</key>
+		<string>der Stuhl</string>
+		<key>english-sound</key>
+		<string>house-eng-52</string>
+		<key>german-sound</key>
+		<string>house-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>armchair</string>
+		<key>german</key>
+		<string>der Sessel</string>
+		<key>english-sound</key>
+		<string>house-eng-53</string>
+		<key>german-sound</key>
+		<string>house-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bed</string>
+		<key>german</key>
+		<string>das Bett</string>
+		<key>english-sound</key>
+		<string>house-eng-54</string>
+		<key>german-sound</key>
+		<string>house-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>double bed</string>
+		<key>german</key>
+		<string>das Doppelbett</string>
+		<key>english-sound</key>
+		<string>house-eng-55</string>
+		<key>german-sound</key>
+		<string>house-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wardrobe</string>
+		<key>german</key>
+		<string>der Kleiderschrank</string>
+		<key>english-sound</key>
+		<string>house-eng-56</string>
+		<key>german-sound</key>
+		<string>house-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cupboard</string>
+		<key>german</key>
+		<string>der Schrank</string>
+		<key>english-sound</key>
+		<string>house-eng-57</string>
+		<key>german-sound</key>
+		<string>house-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>magazines</string>
+		<key>german</key>
+		<string>die Zeitschriften</string>
+		<key>english-sound</key>
+		<string>house-eng-58</string>
+		<key>german-sound</key>
+		<string>house-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>newspapers</string>
+		<key>german</key>
+		<string>die Zeitungen</string>
+		<key>english-sound</key>
+		<string>house-eng-59</string>
+		<key>german-sound</key>
+		<string>house-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bedside cabinet</string>
+		<key>german</key>
+		<string>der Nachttisch</string>
+		<key>english-sound</key>
+		<string>house-eng-60</string>
+		<key>german-sound</key>
+		<string>house-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rocking chair</string>
+		<key>german</key>
+		<string>der Schaukelstuhl</string>
+		<key>english-sound</key>
+		<string>house-eng-61</string>
+		<key>german-sound</key>
+		<string>house-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>curtains</string>
+		<key>german</key>
+		<string>die Vorhänge</string>
+		<key>english-sound</key>
+		<string>house-eng-62</string>
+		<key>german-sound</key>
+		<string>house-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>net curtains</string>
+		<key>german</key>
+		<string>die Netzvorhänge</string>
+		<key>english-sound</key>
+		<string>house-eng-63</string>
+		<key>german-sound</key>
+		<string>house-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>carpet</string>
+		<key>german</key>
+		<string>der Teppich</string>
+		<key>english-sound</key>
+		<string>house-eng-64</string>
+		<key>german-sound</key>
+		<string>house-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rug</string>
+		<key>german</key>
+		<string>der Vorleger</string>
+		<key>english-sound</key>
+		<string>house-eng-65</string>
+		<key>german-sound</key>
+		<string>house-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fabric</string>
+		<key>german</key>
+		<string>der Stoff</string>
+		<key>english-sound</key>
+		<string>house-eng-66</string>
+		<key>german-sound</key>
+		<string>house-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seat cover</string>
+		<key>german</key>
+		<string>der Sitzbezug</string>
+		<key>english-sound</key>
+		<string>house-eng-67</string>
+		<key>german-sound</key>
+		<string>house-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sofa cover</string>
+		<key>german</key>
+		<string>der Couchbezug</string>
+		<key>english-sound</key>
+		<string>house-eng-68</string>
+		<key>german-sound</key>
+		<string>house-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cushion</string>
+		<key>german</key>
+		<string>das Kissen</string>
+		<key>english-sound</key>
+		<string>house-eng-69</string>
+		<key>german-sound</key>
+		<string>house-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mirror</string>
+		<key>german</key>
+		<string>der Spiegel</string>
+		<key>english-sound</key>
+		<string>house-eng-70</string>
+		<key>german-sound</key>
+		<string>house-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mobile phone</string>
+		<key>german</key>
+		<string>das Handy</string>
+		<key>english-sound</key>
+		<string>house-eng-71</string>
+		<key>german-sound</key>
+		<string>house-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ceiling light</string>
+		<key>german</key>
+		<string>das Deckenlicht</string>
+		<key>english-sound</key>
+		<string>house-eng-72</string>
+		<key>german-sound</key>
+		<string>house-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wall light</string>
+		<key>german</key>
+		<string>die Wandbeleuchtung</string>
+		<key>english-sound</key>
+		<string>house-eng-73</string>
+		<key>german-sound</key>
+		<string>house-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lamp</string>
+		<key>german</key>
+		<string>die Lampe</string>
+		<key>english-sound</key>
+		<string>house-eng-74</string>
+		<key>german-sound</key>
+		<string>house-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>light bulb</string>
+		<key>german</key>
+		<string>die Glühbirne</string>
+		<key>english-sound</key>
+		<string>house-eng-75</string>
+		<key>german-sound</key>
+		<string>house-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>light switch</string>
+		<key>german</key>
+		<string>der Lichtschalter</string>
+		<key>english-sound</key>
+		<string>house-eng-76</string>
+		<key>german-sound</key>
+		<string>house-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bath</string>
+		<key>german</key>
+		<string>das Bad</string>
+		<key>english-sound</key>
+		<string>house-eng-77</string>
+		<key>german-sound</key>
+		<string>house-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>towel</string>
+		<key>german</key>
+		<string>das Handtuch</string>
+		<key>english-sound</key>
+		<string>house-eng-78</string>
+		<key>german-sound</key>
+		<string>house-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bath towel</string>
+		<key>german</key>
+		<string>das Badehandtuch</string>
+		<key>english-sound</key>
+		<string>house-eng-79</string>
+		<key>german-sound</key>
+		<string>house-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wash basin</string>
+		<key>german</key>
+		<string>das Waschbecken</string>
+		<key>english-sound</key>
+		<string>house-eng-80</string>
+		<key>german-sound</key>
+		<string>house-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lavatory seat</string>
+		<key>german</key>
+		<string>der Toilettensitz</string>
+		<key>english-sound</key>
+		<string>house-eng-81</string>
+		<key>german-sound</key>
+		<string>house-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toilet tissue</string>
+		<key>german</key>
+		<string>das Toilettenpapier</string>
+		<key>english-sound</key>
+		<string>house-eng-82</string>
+		<key>german-sound</key>
+		<string>house-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lavatory brush</string>
+		<key>german</key>
+		<string>die Toilettenbürste</string>
+		<key>english-sound</key>
+		<string>house-eng-83</string>
+		<key>german-sound</key>
+		<string>house-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shower</string>
+		<key>german</key>
+		<string>die Dusche</string>
+		<key>english-sound</key>
+		<string>house-eng-84</string>
+		<key>german-sound</key>
+		<string>house-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shower curtain</string>
+		<key>german</key>
+		<string>der Duschvorhang</string>
+		<key>english-sound</key>
+		<string>house-eng-85</string>
+		<key>german-sound</key>
+		<string>house-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bed sheet</string>
+		<key>german</key>
+		<string>das Betttuch</string>
+		<key>english-sound</key>
+		<string>house-eng-86</string>
+		<key>german-sound</key>
+		<string>house-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pillow</string>
+		<key>german</key>
+		<string>das Kissen</string>
+		<key>english-sound</key>
+		<string>house-eng-87</string>
+		<key>german-sound</key>
+		<string>house-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pillow-case</string>
+		<key>german</key>
+		<string>der Kissenbezug</string>
+		<key>english-sound</key>
+		<string>house-eng-88</string>
+		<key>german-sound</key>
+		<string>house-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blanket</string>
+		<key>german</key>
+		<string>die Decke</string>
+		<key>english-sound</key>
+		<string>house-eng-89</string>
+		<key>german-sound</key>
+		<string>house-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gas heating</string>
+		<key>german</key>
+		<string>die Gasheizung</string>
+		<key>english-sound</key>
+		<string>house-eng-90</string>
+		<key>german-sound</key>
+		<string>house-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>electric heating</string>
+		<key>german</key>
+		<string>die Elektroheizung</string>
+		<key>english-sound</key>
+		<string>house-eng-91</string>
+		<key>german-sound</key>
+		<string>house-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>radiator</string>
+		<key>german</key>
+		<string>der Heizkörper</string>
+		<key>english-sound</key>
+		<string>house-eng-92</string>
+		<key>german-sound</key>
+		<string>house-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>television</string>
+		<key>german</key>
+		<string>der Fernsehapparat / der Fernseher	</string>
+		<key>english-sound</key>
+		<string>house-eng-93</string>
+		<key>german-sound</key>
+		<string>house-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>radio</string>
+		<key>german</key>
+		<string>das Radio</string>
+		<key>english-sound</key>
+		<string>house-eng-94</string>
+		<key>german-sound</key>
+		<string>house-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vacuum cleaner</string>
+		<key>german</key>
+		<string>der Staubsauger</string>
+		<key>english-sound</key>
+		<string>house-eng-95</string>
+		<key>german-sound</key>
+		<string>house-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vacuum cleaning</string>
+		<key>german</key>
+		<string>staubsaugen</string>
+		<key>english-sound</key>
+		<string>house-eng-96</string>
+		<key>german-sound</key>
+		<string>house-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>house plant</string>
+		<key>german</key>
+		<string>die Topfpflanze</string>
+		<key>english-sound</key>
+		<string>house-eng-97</string>
+		<key>german-sound</key>
+		<string>house-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>knife</string>
+		<key>german</key>
+		<string>das Messer</string>
+		<key>english-sound</key>
+		<string>house-eng-98</string>
+		<key>german-sound</key>
+		<string>house-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bread knife</string>
+		<key>german</key>
+		<string>das Brotmesser</string>
+		<key>english-sound</key>
+		<string>house-eng-99</string>
+		<key>german-sound</key>
+		<string>house-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fork</string>
+		<key>german</key>
+		<string>die Gabel</string>
+		<key>english-sound</key>
+		<string>house-eng-100</string>
+		<key>german-sound</key>
+		<string>house-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spoon</string>
+		<key>german</key>
+		<string>der Löffel</string>
+		<key>english-sound</key>
+		<string>house-eng-101</string>
+		<key>german-sound</key>
+		<string>house-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>teaspoon</string>
+		<key>german</key>
+		<string>der Teelöffel</string>
+		<key>english-sound</key>
+		<string>house-eng-102</string>
+		<key>german-sound</key>
+		<string>house-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>table spoon</string>
+		<key>german</key>
+		<string>der Esslöffel</string>
+		<key>english-sound</key>
+		<string>house-eng-103</string>
+		<key>german-sound</key>
+		<string>house-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soup spoon</string>
+		<key>german</key>
+		<string>der Suppenlöffel</string>
+		<key>english-sound</key>
+		<string>house-eng-104</string>
+		<key>german-sound</key>
+		<string>house-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plate</string>
+		<key>german</key>
+		<string>der Teller</string>
+		<key>english-sound</key>
+		<string>house-eng-105</string>
+		<key>german-sound</key>
+		<string>house-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bowl</string>
+		<key>german</key>
+		<string>die Schale</string>
+		<key>english-sound</key>
+		<string>house-eng-106</string>
+		<key>german-sound</key>
+		<string>house-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salad bowl</string>
+		<key>german</key>
+		<string>die Salatschüssel</string>
+		<key>english-sound</key>
+		<string>house-eng-107</string>
+		<key>german-sound</key>
+		<string>house-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fruit bowl</string>
+		<key>german</key>
+		<string>die Obstschale</string>
+		<key>english-sound</key>
+		<string>house-eng-108</string>
+		<key>german-sound</key>
+		<string>house-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>milk jug</string>
+		<key>german</key>
+		<string>der Milchkrug / das Milchkännchen</string>
+		<key>english-sound</key>
+		<string>house-eng-109</string>
+		<key>german-sound</key>
+		<string>house-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>glass</string>
+		<key>german</key>
+		<string>das Glas</string>
+		<key>english-sound</key>
+		<string>house-eng-110</string>
+		<key>german-sound</key>
+		<string>house-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>champagne glass</string>
+		<key>german</key>
+		<string>das Sektglas</string>
+		<key>english-sound</key>
+		<string>house-eng-111</string>
+		<key>german-sound</key>
+		<string>house-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sundae glass</string>
+		<key>german</key>
+		<string>der Eisbecher</string>
+		<key>english-sound</key>
+		<string>house-eng-112</string>
+		<key>german-sound</key>
+		<string>house-german-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wine glass</string>
+		<key>german</key>
+		<string>das Weinglas</string>
+		<key>english-sound</key>
+		<string>house-eng-113</string>
+		<key>german-sound</key>
+		<string>house-german-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jug / pitcher</string>
+		<key>german</key>
+		<string>der Krug</string>
+		<key>english-sound</key>
+		<string>house-eng-114</string>
+		<key>german-sound</key>
+		<string>house-german-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jar</string>
+		<key>german</key>
+		<string>das Gefäss</string>
+		<key>english-sound</key>
+		<string>house-eng-115</string>
+		<key>german-sound</key>
+		<string>house-german-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cooker</string>
+		<key>german</key>
+		<string>der Herd</string>
+		<key>english-sound</key>
+		<string>house-eng-116</string>
+		<key>german-sound</key>
+		<string>house-german-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oven</string>
+		<key>german</key>
+		<string>der Ofen</string>
+		<key>english-sound</key>
+		<string>house-eng-117</string>
+		<key>german-sound</key>
+		<string>house-german-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>saucepan</string>
+		<key>german</key>
+		<string>die Pfanne</string>
+		<key>english-sound</key>
+		<string>house-eng-118</string>
+		<key>german-sound</key>
+		<string>house-german-118</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>frying pan</string>
+		<key>german</key>
+		<string>die Bratpfanne</string>
+		<key>english-sound</key>
+		<string>house-eng-119</string>
+		<key>german-sound</key>
+		<string>house-german-119</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>non-stick frying-pan</string>
+		<key>german</key>
+		<string>die Teflonpfanne</string>
+		<key>english-sound</key>
+		<string>house-eng-120</string>
+		<key>german-sound</key>
+		<string>house-german-120</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>steamer</string>
+		<key>german</key>
+		<string>der Dampfgarer</string>
+		<key>english-sound</key>
+		<string>house-eng-121</string>
+		<key>german-sound</key>
+		<string>house-german-121</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pressure cooker</string>
+		<key>german</key>
+		<string>der Schnellkochtopf</string>
+		<key>english-sound</key>
+		<string>house-eng-122</string>
+		<key>german-sound</key>
+		<string>house-german-122</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>microwave oven</string>
+		<key>german</key>
+		<string>die Mikrowelle</string>
+		<key>english-sound</key>
+		<string>house-eng-123</string>
+		<key>german-sound</key>
+		<string>house-german-123</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lid</string>
+		<key>german</key>
+		<string>der Deckel</string>
+		<key>english-sound</key>
+		<string>house-eng-124</string>
+		<key>german-sound</key>
+		<string>house-german-124</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bottle-opener</string>
+		<key>german</key>
+		<string>der Flaschenöffner</string>
+		<key>english-sound</key>
+		<string>house-eng-125</string>
+		<key>german-sound</key>
+		<string>house-german-125</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vegetable-peeler</string>
+		<key>german</key>
+		<string>das Schälmesser</string>
+		<key>english-sound</key>
+		<string>house-eng-126</string>
+		<key>german-sound</key>
+		<string>house-german-126</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>can-opener</string>
+		<key>german</key>
+		<string>der Dosenöffner</string>
+		<key>english-sound</key>
+		<string>house-eng-127</string>
+		<key>german-sound</key>
+		<string>house-german-127</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>knife-sharpener</string>
+		<key>german</key>
+		<string>der Messerschleifer</string>
+		<key>english-sound</key>
+		<string>house-eng-128</string>
+		<key>german-sound</key>
+		<string>house-german-128</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spatula</string>
+		<key>german</key>
+		<string>der Bratenheber</string>
+		<key>english-sound</key>
+		<string>house-eng-129</string>
+		<key>german-sound</key>
+		<string>house-german-129</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>teapot</string>
+		<key>german</key>
+		<string>die Teekanne</string>
+		<key>english-sound</key>
+		<string>house-eng-130</string>
+		<key>german-sound</key>
+		<string>house-german-130</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee pot</string>
+		<key>german</key>
+		<string>die Kaffeekanne</string>
+		<key>english-sound</key>
+		<string>house-eng-131</string>
+		<key>german-sound</key>
+		<string>house-german-131</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee-maker</string>
+		<key>german</key>
+		<string>die Kaffeemaschine</string>
+		<key>english-sound</key>
+		<string>house-eng-132</string>
+		<key>german-sound</key>
+		<string>house-german-132</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>juicer</string>
+		<key>german</key>
+		<string>der Saftpresse</string>
+		<key>english-sound</key>
+		<string>house-eng-133</string>
+		<key>german-sound</key>
+		<string>house-german-133</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toaster</string>
+		<key>german</key>
+		<string>der Toaster</string>
+		<key>english-sound</key>
+		<string>house-eng-134</string>
+		<key>german-sound</key>
+		<string>house-german-134</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>refrigerator</string>
+		<key>german</key>
+		<string>der Eisschrank</string>
+		<key>english-sound</key>
+		<string>house-eng-135</string>
+		<key>german-sound</key>
+		<string>house-german-135</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>freezer</string>
+		<key>german</key>
+		<string>der Gefrierschrank</string>
+		<key>english-sound</key>
+		<string>house-eng-136</string>
+		<key>german-sound</key>
+		<string>house-german-136</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>washing machine</string>
+		<key>german</key>
+		<string>die Waschmaschine</string>
+		<key>english-sound</key>
+		<string>house-eng-137</string>
+		<key>german-sound</key>
+		<string>house-german-137</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mixer</string>
+		<key>german</key>
+		<string>die Rührmaschine</string>
+		<key>english-sound</key>
+		<string>house-eng-138</string>
+		<key>german-sound</key>
+		<string>house-german-138</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kettle</string>
+		<key>german</key>
+		<string>der Wasserkessel</string>
+		<key>english-sound</key>
+		<string>house-eng-139</string>
+		<key>german-sound</key>
+		<string>house-german-139</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sink</string>
+		<key>german</key>
+		<string>die Küchenspüle</string>
+		<key>english-sound</key>
+		<string>house-eng-140</string>
+		<key>german-sound</key>
+		<string>house-german-140</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dishwasher</string>
+		<key>german</key>
+		<string>die Geschirrspülmaschine</string>
+		<key>english-sound</key>
+		<string>house-eng-141</string>
+		<key>german-sound</key>
+		<string>house-german-141</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cleaning products</string>
+		<key>german</key>
+		<string>die Reinigungsmittel</string>
+		<key>english-sound</key>
+		<string>house-eng-142</string>
+		<key>german-sound</key>
+		<string>house-german-142</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>washing powder</string>
+		<key>german</key>
+		<string>das Waschpulver</string>
+		<key>english-sound</key>
+		<string>house-eng-143</string>
+		<key>german-sound</key>
+		<string>house-german-143</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cabinet</string>
+		<key>german</key>
+		<string>der Schrank</string>
+		<key>english-sound</key>
+		<string>house-eng-144</string>
+		<key>german-sound</key>
+		<string>house-german-144</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the housework</string>
+		<key>german</key>
+		<string>die Hausarbeit machen</string>
+		<key>english-sound</key>
+		<string>house-eng-145</string>
+		<key>german-sound</key>
+		<string>house-german-145</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to make the bed</string>
+		<key>german</key>
+		<string>das Bett machen</string>
+		<key>english-sound</key>
+		<string>house-eng-146</string>
+		<key>german-sound</key>
+		<string>house-german-146</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the laundry / to do the washing</string>
+		<key>german</key>
+		<string>die Wäsche waschen</string>
+		<key>english-sound</key>
+		<string>house-eng-147</string>
+		<key>german-sound</key>
+		<string>house-german-147</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the ironing</string>
+		<key>german</key>
+		<string>bügeln</string>
+		<key>english-sound</key>
+		<string>house-eng-148</string>
+		<key>german-sound</key>
+		<string>house-german-148</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the cooking</string>
+		<key>german</key>
+		<string>kochen</string>
+		<key>english-sound</key>
+		<string>house-eng-149</string>
+		<key>german-sound</key>
+		<string>house-german-149</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the dishes</string>
+		<key>german</key>
+		<string>das Geschirr spülen</string>
+		<key>english-sound</key>
+		<string>house-eng-150</string>
+		<key>german-sound</key>
+		<string>house-german-150</string>
+	</dict>
+</array>

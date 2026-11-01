@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>to be</string>
+		<key>german</key>
+		<string>sein</string>
+		<key>german-sound</key>
+		<string>verb-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am</string>
+		<key>german</key>
+		<string>ich bin</string>
+		<key>german-sound</key>
+		<string>verb-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are (informal)</string>
+		<key>german</key>
+		<string>du bist</string>
+		<key>german-sound</key>
+		<string>verb-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are (formal), They are</string>
+		<key>german</key>
+		<string>Sie sind</string>
+		<key>german-sound</key>
+		<string>verb-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>He is</string>
+		<key>german</key>
+		<string>er ist</string>
+		<key>german-sound</key>
+		<string>verb-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>She is</string>
+		<key>german</key>
+		<string>sie ist</string>
+		<key>german-sound</key>
+		<string>verb-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is</string>
+		<key>german</key>
+		<string>es ist</string>
+		<key>german-sound</key>
+		<string>verb-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We are</string>
+		<key>german</key>
+		<string>wir sind</string>
+		<key>german-sound</key>
+		<string>verb-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>All of you are (informal), All of you are (formal)</string>
+		<key>german</key>
+		<string>ihr seid, sie sind</string>
+		<key>german-sound</key>
+		<string>verb-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to help</string>
+		<key>german</key>
+		<string>helfen</string>
+		<key>german-sound</key>
+		<string>verb-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to win</string>
+		<key>german</key>
+		<string>gewinnen</string>
+		<key>german-sound</key>
+		<string>verb-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to close</string>
+		<key>german</key>
+		<string>schließen</string>
+		<key>german-sound</key>
+		<string>verb-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to feel</string>
+		<key>german</key>
+		<string>fühlen</string>
+		<key>german-sound</key>
+		<string>verb-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to offer</string>
+		<key>german</key>
+		<string>bieten</string>
+		<key>german-sound</key>
+		<string>verb-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to interest</string>
+		<key>german</key>
+		<string>interessieren</string>
+		<key>german-sound</key>
+		<string>verb-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to remember</string>
+		<key>german</key>
+		<string>erinnern</string>
+		<key>german-sound</key>
+		<string>verb-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to result in</string>
+		<key>german</key>
+		<string>ergeben</string>
+		<key>german-sound</key>
+		<string>verb-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to offer</string>
+		<key>german</key>
+		<string>anbieten</string>
+		<key>german-sound</key>
+		<string>verb-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to study</string>
+		<key>german</key>
+		<string>studieren</string>
+		<key>german-sound</key>
+		<string>verb-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to connect, link</string>
+		<key>german</key>
+		<string>verbinden</string>
+		<key>german-sound</key>
+		<string>verb-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to look at, watch</string>
+		<key>german</key>
+		<string>ansehen</string>
+		<key>german-sound</key>
+		<string>verb-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lack, be missing, be absent</string>
+		<key>german</key>
+		<string>fehlen</string>
+		<key>german-sound</key>
+		<string>verb-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to mean</string>
+		<key>german</key>
+		<string>bedeuten</string>
+		<key>german-sound</key>
+		<string>verb-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to compare</string>
+		<key>german</key>
+		<string>vergleichen</string>
+		<key>german-sound</key>
+		<string>verb-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to read</string>
+		<key>german</key>
+		<string>lesen</string>
+		<key>german-sound</key>
+		<string>verb-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lose</string>
+		<key>german</key>
+		<string>verlieren</string>
+		<key>german-sound</key>
+		<string>verb-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to depict, portray</string>
+		<key>german</key>
+		<string>darstellen</string>
+		<key>german-sound</key>
+		<string>verb-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to recognize, admit</string>
+		<key>german</key>
+		<string>erkennen</string>
+		<key>german-sound</key>
+		<string>verb-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to develop</string>
+		<key>german</key>
+		<string>entwickeln</string>
+		<key>german-sound</key>
+		<string>verb-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to talk</string>
+		<key>german</key>
+		<string>reden</string>
+		<key>german-sound</key>
+		<string>verb-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to appear, look (a certain way)</string>
+		<key>german</key>
+		<string>aussehen</string>
+		<key>german-sound</key>
+		<string>verb-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to appear</string>
+		<key>german</key>
+		<string>erscheinen</string>
+		<key>german-sound</key>
+		<string>verb-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to form, educate</string>
+		<key>german</key>
+		<string>bilden</string>
+		<key>german-sound</key>
+		<string>verb-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to begin</string>
+		<key>german</key>
+		<string>anfangen</string>
+		<key>german-sound</key>
+		<string>verb-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to expect</string>
+		<key>german</key>
+		<string>erwarten</string>
+		<key>german-sound</key>
+		<string>verb-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to live</string>
+		<key>german</key>
+		<string>wohnen</string>
+		<key>german-sound</key>
+		<string>verb-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to affect, concern</string>
+		<key>german</key>
+		<string>betreffen</string>
+		<key>german-sound</key>
+		<string>verb-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to wait</string>
+		<key>german</key>
+		<string>warten</string>
+		<key>german-sound</key>
+		<string>verb-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to elapse; to decay</string>
+		<key>german</key>
+		<string>vergehen</string>
+		<key>german-sound</key>
+		<string>verb-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to know</string>
+		<key>german</key>
+		<string>kennen</string>
+		<key>german-sound</key>
+		<string>verb-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to be valid</string>
+		<key>german</key>
+		<string>gelten</string>
+		<key>german-sound</key>
+		<string>verb-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to place, set</string>
+		<key>german</key>
+		<string>stellen</string>
+		<key>german-sound</key>
+		<string>verb-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to play</string>
+		<key>german</key>
+		<string>spielen</string>
+		<key>german-sound</key>
+		<string>verb-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to work</string>
+		<key>german</key>
+		<string>arbeiten</string>
+		<key>german-sound</key>
+		<string>verb-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to need</string>
+		<key>german</key>
+		<string>brauchen</string>
+		<key>german-sound</key>
+		<string>verb-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to follow</string>
+		<key>german</key>
+		<string>folgen</string>
+		<key>german-sound</key>
+		<string>verb-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to learn</string>
+		<key>german</key>
+		<string>lernen</string>
+		<key>german-sound</key>
+		<string>verb-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to exist, insist, pass (an exam)</string>
+		<key>german</key>
+		<string>bestehen</string>
+		<key>german-sound</key>
+		<string>verb-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to understand</string>
+		<key>german</key>
+		<string>verstehen</string>
+		<key>german-sound</key>
+		<string>verb-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to set, put, place</string>
+		<key>german</key>
+		<string>setzen</string>
+		<key>german-sound</key>
+		<string>verb-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get, receive</string>
+		<key>german</key>
+		<string>bekommen</string>
+		<key>german-sound</key>
+		<string>verb-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to begin</string>
+		<key>german</key>
+		<string>beginnen</string>
+		<key>german-sound</key>
+		<string>verb-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to narrate, tell</string>
+		<key>german</key>
+		<string>erzählen</string>
+		<key>german-sound</key>
+		<string>verb-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to try, attempt</string>
+		<key>german</key>
+		<string>versuchen</string>
+		<key>german-sound</key>
+		<string>verb-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do</string>
+		<key>german</key>
+		<string>tun</string>
+		<key>german-sound</key>
+		<string>verb-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>may, to be allowed</string>
+		<key>german</key>
+		<string>dürfen</string>
+		<key>german-sound</key>
+		<string>verb-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to believe</string>
+		<key>german</key>
+		<string>glauben</string>
+		<key>german-sound</key>
+		<string>verb-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to stop, hold</string>
+		<key>german</key>
+		<string>halten</string>
+		<key>german-sound</key>
+		<string>verb-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to name, to call (a name)</string>
+		<key>german</key>
+		<string>nennen</string>
+		<key>german-sound</key>
+		<string>verb-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to like</string>
+		<key>german</key>
+		<string>mögen</string>
+		<key>german-sound</key>
+		<string>verb-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to show</string>
+		<key>german</key>
+		<string>zeigen</string>
+		<key>german-sound</key>
+		<string>verb-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lead</string>
+		<key>german</key>
+		<string>führen</string>
+		<key>german-sound</key>
+		<string>verb-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to speak</string>
+		<key>german</key>
+		<string>sprechen</string>
+		<key>german-sound</key>
+		<string>verb-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to bring, take</string>
+		<key>german</key>
+		<string>bringen</string>
+		<key>german-sound</key>
+		<string>verb-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to live</string>
+		<key>german</key>
+		<string>leben</string>
+		<key>german-sound</key>
+		<string>verb-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to drive, ride, go</string>
+		<key>german</key>
+		<string>fahren</string>
+		<key>german-sound</key>
+		<string>verb-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to think, have an opinion</string>
+		<key>german</key>
+		<string>meinen</string>
+		<key>german-sound</key>
+		<string>verb-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to ask</string>
+		<key>german</key>
+		<string>fragen</string>
+		<key>german-sound</key>
+		<string>verb-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to meet</string>
+		<key>german</key>
+		<string>treffen</string>
+		<key>german-sound</key>
+		<string>verb-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to search, look for</string>
+		<key>german</key>
+		<string>suchen</string>
+		<key>german-sound</key>
+		<string>verb-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lay, put</string>
+		<key>german</key>
+		<string>legen</string>
+		<key>german-sound</key>
+		<string>verb-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to introduce, imagine</string>
+		<key>german</key>
+		<string>vorstellen</string>
+		<key>german-sound</key>
+		<string>verb-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to deal, trade</string>
+		<key>german</key>
+		<string>handeln</string>
+		<key>german-sound</key>
+		<string>verb-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to achieve, reach</string>
+		<key>german</key>
+		<string>erreichen</string>
+		<key>german-sound</key>
+		<string>verb-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to carry, wear</string>
+		<key>german</key>
+		<string>tragen</string>
+		<key>german-sound</key>
+		<string>verb-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to manage, create</string>
+		<key>german</key>
+		<string>schaffen</string>
+		<key>german-sound</key>
+		<string>verb-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to stand</string>
+		<key>german</key>
+		<string>stehen</string>
+		<key>german-sound</key>
+		<string>verb-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to find</string>
+		<key>german</key>
+		<string>finden</string>
+		<key>german-sound</key>
+		<string>verb-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to stay, remain</string>
+		<key>german</key>
+		<string>bleiben</string>
+		<key>german-sound</key>
+		<string>verb-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lie, be lying</string>
+		<key>german</key>
+		<string>liegen</string>
+		<key>german-sound</key>
+		<string>verb-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to be called</string>
+		<key>german</key>
+		<string>heißen</string>
+		<key>german-sound</key>
+		<string>verb-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to think</string>
+		<key>german</key>
+		<string>denken</string>
+		<key>german-sound</key>
+		<string>verb-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take</string>
+		<key>german</key>
+		<string>nehmen</string>
+		<key>german-sound</key>
+		<string>verb-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pull, move</string>
+		<key>german</key>
+		<string>ziehen</string>
+		<key>german-sound</key>
+		<string>verb-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to shine, seem, appear</string>
+		<key>german</key>
+		<string>scheinen</string>
+		<key>german-sound</key>
+		<string>verb-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to fall</string>
+		<key>german</key>
+		<string>fallen</string>
+		<key>german-sound</key>
+		<string>verb-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to belong</string>
+		<key>german</key>
+		<string>gehören</string>
+		<key>german-sound</key>
+		<string>verb-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to originate, develop</string>
+		<key>german</key>
+		<string>entstehen</string>
+		<key>german-sound</key>
+		<string>verb-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to receive</string>
+		<key>german</key>
+		<string>erhalten</string>
+		<key>german-sound</key>
+		<string>verb-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>should, ought to</string>
+		<key>german</key>
+		<string>sollen</string>
+		<key>german-sound</key>
+		<string>verb-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to want</string>
+		<key>german</key>
+		<string>wollen</string>
+		<key>german-sound</key>
+		<string>verb-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go</string>
+		<key>german</key>
+		<string>gehen</string>
+		<key>german-sound</key>
+		<string>verb-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to know</string>
+		<key>german</key>
+		<string>wissen</string>
+		<key>german-sound</key>
+		<string>verb-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to see</string>
+		<key>german</key>
+		<string>sehen</string>
+		<key>german-sound</key>
+		<string>verb-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to let, allow, have done</string>
+		<key>german</key>
+		<string>lassen</string>
+		<key>german-sound</key>
+		<string>verb-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to come</string>
+		<key>german</key>
+		<string>kommen</string>
+		<key>german-sound</key>
+		<string>verb-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to give</string>
+		<key>german</key>
+		<string>geben</string>
+		<key>german-sound</key>
+		<string>verb-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do, make</string>
+		<key>german</key>
+		<string>machen</string>
+		<key>german-sound</key>
+		<string>verb-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to say</string>
+		<key>german</key>
+		<string>sagen</string>
+		<key>german-sound</key>
+		<string>verb-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>must, to have to</string>
+		<key>german</key>
+		<string>müssen</string>
+		<key>german-sound</key>
+		<string>verb-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>can, to be able to</string>
+		<key>german</key>
+		<string>können</string>
+		<key>german-sound</key>
+		<string>verb-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to become</string>
+		<key>german</key>
+		<string>werden</string>
+		<key>german-sound</key>
+		<string>verb-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have</string>
+		<key>german</key>
+		<string>haben</string>
+		<key>german-sound</key>
+		<string>verb-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to write</string>
+		<key>german</key>
+		<string>schreiben</string>
+		<key>german-sound</key>
+		<string>verb-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to run</string>
+		<key>german</key>
+		<string>laufen</string>
+		<key>german-sound</key>
+		<string>verb-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to explain</string>
+		<key>german</key>
+		<string>erklären</string>
+		<key>german-sound</key>
+		<string>verb-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to correspond</string>
+		<key>german</key>
+		<string>entsprechen</string>
+		<key>german-sound</key>
+		<string>verb-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to sit</string>
+		<key>german</key>
+		<string>sitzen</string>
+		<key>german-sound</key>
+		<string>verb-108</string>
+	</dict>
+</array>

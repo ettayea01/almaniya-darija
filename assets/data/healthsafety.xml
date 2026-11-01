@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>health</string>
+		<key>german</key>
+		<string>die Gesundheit</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-1</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>safety</string>
+		<key>german</key>
+		<string>die Sicherheit</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-2</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>health and safety</string>
+		<key>german</key>
+		<string>Gesundheit und Sicherheit</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-3</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>patient</string>
+		<key>german</key>
+		<string>der Patient / die Patientin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-4</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>care</string>
+		<key>german</key>
+		<string>die Pflege</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-5</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hospital</string>
+		<key>german</key>
+		<string>das Krankenhaus</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-6</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>temperature</string>
+		<key>german</key>
+		<string>die Temperatur</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-7</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>check-up</string>
+		<key>german</key>
+		<string>die Untersuchung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-8</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>diagnosis</string>
+		<key>german</key>
+		<string>die Diagnose</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-9</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plaster</string>
+		<key>german</key>
+		<string>das Pflaster</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-10</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bandage</string>
+		<key>german</key>
+		<string>der Verband</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-11</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>syringe</string>
+		<key>german</key>
+		<string>die Spritze</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-12</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>test-tube</string>
+		<key>german</key>
+		<string>das Reagenzglas</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-13</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blood</string>
+		<key>german</key>
+		<string>das Blut</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-14</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>germ</string>
+		<key>german</key>
+		<string>der Keim</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-15</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>prescription</string>
+		<key>german</key>
+		<string>das Rezept</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-16</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>aspirine</string>
+		<key>german</key>
+		<string>das Aspirin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-17</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stitches</string>
+		<key>german</key>
+		<string>die Naht</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-18</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vitamin</string>
+		<key>german</key>
+		<string>das Vitamin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-19</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>antibiotic</string>
+		<key>german</key>
+		<string>das Antibiotikum</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-20</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>painkiller</string>
+		<key>german</key>
+		<string>das Schmerzmittel</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-21</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pill</string>
+		<key>german</key>
+		<string>die Tablette</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-22</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drug</string>
+		<key>german</key>
+		<string>das Medikament</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-23</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vaccine</string>
+		<key>german</key>
+		<string>der Impfstoff</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-24</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>medicine</string>
+		<key>german</key>
+		<string>die Medizin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-25</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cramp</string>
+		<key>german</key>
+		<string>der Krampf</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-26</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vomiting</string>
+		<key>german</key>
+		<string>das Erbrechen</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-27</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>faintness</string>
+		<key>german</key>
+		<string>die Schwäche</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-28</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pain</string>
+		<key>german</key>
+		<string>die Schmerzen</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-29</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>headache</string>
+		<key>german</key>
+		<string>die Kopfschmerzen</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-30</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cold</string>
+		<key>german</key>
+		<string>die Erkältung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-31</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cough</string>
+		<key>german</key>
+		<string>der Husten</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-32</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>injury</string>
+		<key>german</key>
+		<string>die Verletzung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-33</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wound</string>
+		<key>german</key>
+		<string>die Wunde</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-34</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>allergy</string>
+		<key>german</key>
+		<string>die Allergie</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-35</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chicken pox</string>
+		<key>german</key>
+		<string>die Windpocken</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-36</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>migraine</string>
+		<key>german</key>
+		<string>die Migräne</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-37</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>asthma</string>
+		<key>german</key>
+		<string>das Asthma</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-38</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>food poisoning</string>
+		<key>german</key>
+		<string>die Nahrungsmittelvergiftung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-39</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>depression</string>
+		<key>german</key>
+		<string>die Depression</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-40</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>diabetes</string>
+		<key>german</key>
+		<string>der Diabetis</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-41</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fever</string>
+		<key>german</key>
+		<string>das Fieber</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-42</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>madness</string>
+		<key>german</key>
+		<string>der Wahnsinn</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-43</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stroke</string>
+		<key>german</key>
+		<string>der Schlaganfall</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-44</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tumour</string>
+		<key>german</key>
+		<string>der Tumor</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-45</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heart attack</string>
+		<key>german</key>
+		<string>der Herzinfarkt</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-46</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cancer</string>
+		<key>german</key>
+		<string>der Krebs</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-47</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>AIDS</string>
+		<key>german</key>
+		<string>das AIDS</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-48</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drug addict</string>
+		<key>german</key>
+		<string>der Drogensüchtige / die Drogensüchtige</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-49</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>surgery</string>
+		<key>german</key>
+		<string>die Operation</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-50</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plastic surgery</string>
+		<key>german</key>
+		<string>die plastische Chirurgie</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-51</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bypass</string>
+		<key>german</key>
+		<string>der Bypass</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-52</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>operation</string>
+		<key>german</key>
+		<string>die Operation</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-53</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>screening</string>
+		<key>german</key>
+		<string>die Untersuchung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-54</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>micro-surgery</string>
+		<key>german</key>
+		<string>die Mikrochirurgie</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-55</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heart transplant</string>
+		<key>german</key>
+		<string>die Herztransplantation</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-56</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>X-ray</string>
+		<key>german</key>
+		<string>das Röntgenbild</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-57</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nurse</string>
+		<key>german</key>
+		<string>die Krankenschwester</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-58</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>doctor</string>
+		<key>german</key>
+		<string>der Arzt / die Ärztin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-59</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pharmacist</string>
+		<key>german</key>
+		<string>der Apotheker / die Apothekerin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-60</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>psychologist</string>
+		<key>german</key>
+		<string>der Psychologe / die Psychologin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-61</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>surgeon</string>
+		<key>german</key>
+		<string>der Chirurg / die Chirurgin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-62</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dentist</string>
+		<key>german</key>
+		<string>der Zahnarzt / die Zahnärztin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-63</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>psychiatrist</string>
+		<key>german</key>
+		<string>der Psychiater / die Psychiaterin</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-64</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>consultant</string>
+		<key>german</key>
+		<string>der beratende Arzt</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-65</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are you feeling?</string>
+		<key>german</key>
+		<string>Wie fühlen Sie sich?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-66</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am not feeling well.</string>
+		<key>german</key>
+		<string>Ich fühle mich nicht gut.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-67</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am feeling sick.</string>
+		<key>german</key>
+		<string>Ich fühle mich krank.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-68</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am feeling good.</string>
+		<key>german</key>
+		<string>Ich fühle mich gut.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-69</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am feeling better.</string>
+		<key>german</key>
+		<string>Ich fühle mich besser.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-70</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Help me!</string>
+		<key>german</key>
+		<string>Helfen Sie mir!</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-71</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It smells like...</string>
+		<key>german</key>
+		<string>Es riecht wie...</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-72</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gas leak</string>
+		<key>german</key>
+		<string>Gas-Leck</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-73</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>danger</string>
+		<key>german</key>
+		<string>die Gefahr</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-74</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is dangerous.</string>
+		<key>german</key>
+		<string>Es ist gefährlich.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-75</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Careful.</string>
+		<key>german</key>
+		<string>Vorsichtig.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-76</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>safety first</string>
+		<key>german</key>
+		<string>Sicherheit zuerst</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-77</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>be careful please</string>
+		<key>german</key>
+		<string>sei bitte vorsichtig</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-78</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What do you feel?</string>
+		<key>german</key>
+		<string>Was fühlst du?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-79</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you want to go home?</string>
+		<key>german</key>
+		<string>Willst du nach Hause gehen?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-80</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you feel pain?</string>
+		<key>german</key>
+		<string>Hast du Schmerzen?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-81</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is it painful?</string>
+		<key>german</key>
+		<string>Ist es schmerzhaft?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-82</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you hurt?</string>
+		<key>german</key>
+		<string>Sind Sie verletzt?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-83</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where does it hurt?</string>
+		<key>german</key>
+		<string>Wo tut es weh?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-84</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Show me.</string>
+		<key>german</key>
+		<string>Zeig es mir.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-85</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have a headache.</string>
+		<key>german</key>
+		<string>Ich habe Kopfschmerzen.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-86</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have a stomach ache.</string>
+		<key>german</key>
+		<string>Ich habe Bauchschmerzen.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-87</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you sick?</string>
+		<key>german</key>
+		<string>Bist du krank?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-88</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I help you?</string>
+		<key>german</key>
+		<string>Kann ich dir helfen?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-89</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pregnant</string>
+		<key>german</key>
+		<string>schwanger</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-90</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>safety glasses</string>
+		<key>german</key>
+		<string>Schutzbrille</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-91</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>protective clothing</string>
+		<key>german</key>
+		<string>Schutzkleidung</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-92</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have you vomited?</string>
+		<key>german</key>
+		<string>Hast du dich Übergeben?</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-93</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>earthquake</string>
+		<key>german</key>
+		<string>das Erdbeben</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-94</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Take me to the hospital.</string>
+		<key>german</key>
+		<string>Bring mich zum Krankenhaus.</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-95</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to suffer</string>
+		<key>german</key>
+		<string>leiden</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-96</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have a temperature</string>
+		<key>german</key>
+		<string>Fieber haben</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-97</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>healthy, unhealthy</string>
+		<key>german</key>
+		<string>gesund, ungesund</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-98</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to bleed</string>
+		<key>german</key>
+		<string>bluten</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-99</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to clot</string>
+		<key>german</key>
+		<string>gerinnen</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-100</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have toothache</string>
+		<key>german</key>
+		<string>Zahnschmerzen haben</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-101</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have stomach ache</string>
+		<key>german</key>
+		<string>Bauchschmerzen haben</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-102</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have a sore throat</string>
+		<key>german</key>
+		<string>Halsschmerzen haben</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-103</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>swollen</string>
+		<key>german</key>
+		<string>geschwollen</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-104</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sick / ill</string>
+		<key>german</key>
+		<string>krank</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-105</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>HIV positive</string>
+		<key>german</key>
+		<string>HIV - positiv</string>
+		<key>english-sound</key>
+		<string>healthsafety-eng-106</string>
+		<key>german-sound</key>
+		<string>healthsafety-german-106</string>
+	</dict>
+</array>

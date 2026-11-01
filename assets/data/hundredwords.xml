@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>with</string>
+		<key>german</key>
+		<string>mit [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>still, yet</string>
+		<key>german</key>
+		<string>noch [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to give</string>
+		<key>german</key>
+		<string>geben [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go</string>
+		<key>german</key>
+		<string>gehen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where</string>
+		<key>german</key>
+		<string>wo [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>me</string>
+		<key>german</key>
+		<string>mir [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>again</string>
+		<key>german</key>
+		<string>wieder [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>good</string>
+		<key>german</key>
+		<string>gut [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>because</string>
+		<key>german</key>
+		<string>weil [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>only</string>
+		<key>german</key>
+		<string>nur [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>we</string>
+		<key>german</key>
+		<string>wir [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I</string>
+		<key>german</key>
+		<string>ich [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>or</string>
+		<key>german</key>
+		<string>oder [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>for</string>
+		<key>german</key>
+		<string>für [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>he</string>
+		<key>german</key>
+		<string>er [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>she</string>
+		<key>german</key>
+		<string>sie [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>after, toward</string>
+		<key>german</key>
+		<string>nach [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do, make</string>
+		<key>german</key>
+		<string>machen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to come</string>
+		<key>german</key>
+		<string>kommen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>should, ought to</string>
+		<key>german</key>
+		<string>sollen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to see</string>
+		<key>german</key>
+		<string>sehen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to stand</string>
+		<key>german</key>
+		<string>stehen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to know</string>
+		<key>german</key>
+		<string>wissen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to want</string>
+		<key>german</key>
+		<string>wollen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>what</string>
+		<key>german</key>
+		<string>was [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>you</string>
+		<key>german</key>
+		<string>du [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>very</string>
+		<key>german</key>
+		<string>sehr [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>here</string>
+		<key>german</key>
+		<string>hier [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>him, it</string>
+		<key>german</key>
+		<string>ihm [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>him</string>
+		<key>german</key>
+		<string>ihn [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>so [thus, this way, such]</string>
+		<key>german</key>
+		<string>so [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>that</string>
+		<key>german</key>
+		<string>dass [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>can, to be able</string>
+		<key>german</key>
+		<string>können [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>this, that</string>
+		<key>german</key>
+		<string>dies [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>long</string>
+		<key>german</key>
+		<string>lang [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>for a long time</string>
+		<key>german</key>
+		<string>lange [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>actually</string>
+		<key>german</key>
+		<string>eigentlich [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>above, up there</string>
+		<key>german</key>
+		<string>oben [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>whole</string>
+		<key>german</key>
+		<string>ganz [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>me</string>
+		<key>german</key>
+		<string>mich [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>always</string>
+		<key>german</key>
+		<string>immer [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>and</string>
+		<key>german</key>
+		<string>und [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to be</string>
+		<key>german</key>
+		<string>sein [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in</string>
+		<key>german</key>
+		<string>in [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to</string>
+		<key>german</key>
+		<string>zu [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have</string>
+		<key>german</key>
+		<string>haben [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to become</string>
+		<key>german</key>
+		<string>werden [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>from, of</string>
+		<key>german</key>
+		<string>von [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>not</string>
+		<key>german</key>
+		<string>nicht [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>it</string>
+		<key>german</key>
+		<string>es [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>also, too</string>
+		<key>german</key>
+		<string>auch [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on</string>
+		<key>german</key>
+		<string>auf [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>how</string>
+		<key>german</key>
+		<string>wie [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>but</string>
+		<key>german</key>
+		<string>aber [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>then</string>
+		<key>german</key>
+		<string>dann [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>if, when</string>
+		<key>german</key>
+		<string>wenn [conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have to</string>
+		<key>german</key>
+		<string>müssen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to say</string>
+		<key>german</key>
+		<string>sagen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>around</string>
+		<key>german</key>
+		<string>um [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>above</string>
+		<key>german</key>
+		<string>über [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>already</string>
+		<key>german</key>
+		<string>schon [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>through</string>
+		<key>german</key>
+		<string>durch [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>more</string>
+		<key>german</key>
+		<string>mehr [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>now</string>
+		<key>german</key>
+		<string>jetzt [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>until</string>
+		<key>german</key>
+		<string>bis [prep/conj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>big, large, great</string>
+		<key>german</key>
+		<string>groß [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>new</string>
+		<key>german</key>
+		<string>neu [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>us</string>
+		<key>german</key>
+		<string>uns [pron]</string>
+		<key>german-sound</key>
+		<string>hundredwords-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to let, allow</string>
+		<key>german</key>
+		<string>lassen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>under</string>
+		<key>german</key>
+		<string>unter [prep]</string>
+		<key>german-sound</key>
+		<string>hundredwords-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>long</string>
+		<key>german</key>
+		<string>lang [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>for a long time</string>
+		<key>german</key>
+		<string>lange [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>with it</string>
+		<key>german</key>
+		<string>damit [adv]</string>
+		<key>german-sound</key>
+		<string>hundredwords-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to drink</string>
+		<key>german</key>
+		<string>trinken [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to eat</string>
+		<key>german</key>
+		<string>essen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to find</string>
+		<key>german</key>
+		<string>finden [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to stay, remain</string>
+		<key>german</key>
+		<string>bleiben [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to lie, be lying</string>
+		<key>german</key>
+		<string>liegen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to be called</string>
+		<key>german</key>
+		<string>heißen [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to think</string>
+		<key>german</key>
+		<string>denken [verb]</string>
+		<key>german-sound</key>
+		<string>hundredwords-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>doll</string>
+		<key>german</key>
+		<string>die Puppe [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toys</string>
+		<key>german</key>
+		<string>das Spielzeug [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>court</string>
+		<key>german</key>
+		<string>das Gericht [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>witness</string>
+		<key>german</key>
+		<string>der Zeuge [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>judge</string>
+		<key>german</key>
+		<string>der Richter [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawyer</string>
+		<key>german</key>
+		<string>der Anwalt [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>theft</string>
+		<key>german</key>
+		<string>der Diebstahl [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>robbery</string>
+		<key>german</key>
+		<string>der Raub [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>accident</string>
+		<key>german</key>
+		<string>der Unfall [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>law</string>
+		<key>german</key>
+		<string>das Gesetz [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>arrest</string>
+		<key>german</key>
+		<string>die Festnahme [noun]</string>
+		<key>german-sound</key>
+		<string>hundredwords-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>high</string>
+		<key>german</key>
+		<string>hoch [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>late</string>
+		<key>german</key>
+		<string>spät [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>important</string>
+		<key>german</key>
+		<string>wichtig [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>early</string>
+		<key>german</key>
+		<string>früh [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bad</string>
+		<key>german</key>
+		<string>schlecht [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wrong</string>
+		<key>german</key>
+		<string>falsch [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>expensive</string>
+		<key>german</key>
+		<string>teuer [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>happy</string>
+		<key>german</key>
+		<string>glücklich [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>healthy</string>
+		<key>german</key>
+		<string>gesund [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ill</string>
+		<key>german</key>
+		<string>krank [adj]</string>
+		<key>german-sound</key>
+		<string>hundredwords-101</string>
+	</dict>
+</array>

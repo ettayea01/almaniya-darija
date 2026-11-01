@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>A German vowel is usually long if it is followed by a single consonant</string>
+		<key>german</key>
+		<string>Bad(bath), Rad(wheel), rot(red), gut(good)</string>
+		<key>german-sound</key>
+		<string>vowel-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>A German vowel is usually long if it is written in a word as a double letter</string>
+		<key>german</key>
+		<string>Meer(sea), Paar(pair), Boot(boat), Saat(seed)</string>
+		<key>german-sound</key>
+		<string>vowel-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>A German vowel is usually long if it is followed by a silent &apos;h&apos;</string>
+		<key>german</key>
+		<string>Lehrer(teacher), Fahrer(driver), roh(raw), Kuh(cow)</string>
+		<key>german-sound</key>
+		<string>vowel-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German letters &apos;ie&apos; usually represent a long German &apos;i&apos; sound</string>
+		<key>german</key>
+		<string>vier(four), Spiel(game), Lied(song), schier(sheer)</string>
+		<key>german-sound</key>
+		<string>vowel-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>An unstressed vowel at the end of a word is generally long, unless this vowel is an &apos;-e&apos; sound</string>
+		<key>german</key>
+		<string>Lotto(lottery), Vati(daddy), Sofa(sofa), Mofa(moped)</string>
+		<key>german-sound</key>
+		<string>vowel-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>A German vowel is usually short if it is followed by two or more consonants</string>
+		<key>german</key>
+		<string>rasch(hasty), Bett(bed), bunt(colourful), Nuss(nut)</string>
+		<key>german-sound</key>
+		<string>vowel-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>A German vowel is usually short if it precedes the consonant combination &apos;ck&apos;</string>
+		<key>german</key>
+		<string>lecker(tasty), Socken(socks), Lücke(hole), Wrack(wreck)</string>
+		<key>german-sound</key>
+		<string>vowel-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long &apos;a&apos; vowels</string>
+		<key>german</key>
+		<string>klar(clear), Glas(glass), Jahr(year)</string>
+		<key>german-sound</key>
+		<string>vowel-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long &apos;a&apos; vowels</string>
+		<key>german</key>
+		<string>Bahn(railway), Haar(hair), Aal(eel)</string>
+		<key>german-sound</key>
+		<string>vowel-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short &apos;a&apos; vowels</string>
+		<key>german</key>
+		<string>Mann(man), Hand(hand)</string>
+		<key>german-sound</key>
+		<string>vowel-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short &apos;a&apos; vowels</string>
+		<key>german</key>
+		<string>Bank(bank), Sack(sack)</string>
+		<key>german-sound</key>
+		<string>vowel-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Distinguishing between long and short &apos;a&apos;</string>
+		<key>german</key>
+		<string>Staat(state) [long], Stadt(city) [short]</string>
+		<key>german-sound</key>
+		<string>vowel-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Distinguishing between long and short &apos;a&apos;</string>
+		<key>german</key>
+		<string>kam(came) [long], Kamm(comb) [short]</string>
+		<key>german-sound</key>
+		<string>vowel-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Distinguishing between long and short &apos;a&apos;</string>
+		<key>german</key>
+		<string>Frage(question) [long], Flagge(flag) [short]</string>
+		<key>german-sound</key>
+		<string>vowel-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Distinguishing between long and short &apos;a&apos;</string>
+		<key>german</key>
+		<string>Kahn(barge) [long], kann(can) [short]</string>
+		<key>german-sound</key>
+		<string>vowel-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;ä&apos; vowel</string>
+		<key>german</key>
+		<string>Männer(men), Hände(hands), Bänke(benches), hätte(would have)</string>
+		<key>german-sound</key>
+		<string>vowel-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;ä&apos; vowel</string>
+		<key>german</key>
+		<string>Mädchen(girl), wählen(to vote), kläglich(pitiful), Währung(currency)</string>
+		<key>german-sound</key>
+		<string>vowel-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;au&apos;</string>
+		<key>german</key>
+		<string>braun(brown), Zaun(fence), auch(also)</string>
+		<key>german-sound</key>
+		<string>vowel-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;au&apos;</string>
+		<key>german</key>
+		<string>Haus(house), laut(loud), Traum(dream)</string>
+		<key>german-sound</key>
+		<string>vowel-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;äu&apos;</string>
+		<key>german</key>
+		<string>Fräulein(Miss), Räuber(robbers), Häuser(houses), Bräuche(customs)</string>
+		<key>german-sound</key>
+		<string>vowel-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;eu&apos;</string>
+		<key>german</key>
+		<string>treu(loyal), Freude(joy), scheu(shy), neu(new)</string>
+		<key>german-sound</key>
+		<string>vowel-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>wenn(if, when), fett(fat), Dreck(dirt)</string>
+		<key>german-sound</key>
+		<string>vowel-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>echt(genuine), Fell(fur), Nest(nest)</string>
+		<key>german-sound</key>
+		<string>vowel-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>sehr(very), mehr(more), Meer(sea)</string>
+		<key>german-sound</key>
+		<string>vowel-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>Teer(tar), Beet(bed), Gel(gel)</string>
+		<key>german-sound</key>
+		<string>vowel-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The unstressed &apos;e&apos; vowel, appearing very frequently in final position in words</string>
+		<key>german</key>
+		<string>Majonäse(mayonnaise), Boje(buoy)</string>
+		<key>german-sound</key>
+		<string>vowel-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>German unstressed &apos;-er&apos;, at the end of German words</string>
+		<key>german</key>
+		<string>Bruder(brother), Schwester(sister), Mutter(mother), Vater(father)</string>
+		<key>german-sound</key>
+		<string>vowel-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short German &apos;i&apos; in initial position</string>
+		<key>german</key>
+		<string>ich(I), Interesse(interest), Irland(Ireland)</string>
+		<key>german-sound</key>
+		<string>vowel-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short German &apos;i&apos; in initial position</string>
+		<key>german</key>
+		<string>Insekt(insect), immer(always), illegal(illegal)</string>
+		<key>german-sound</key>
+		<string>vowel-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short German &apos;i&apos; in medial position</string>
+		<key>german</key>
+		<string>bitte(please), Mitte(middle), Tisch(table)</string>
+		<key>german-sound</key>
+		<string>vowel-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short German &apos;i&apos; in medial position</string>
+		<key>german</key>
+		<string>Fisch(fish), Winter(winter), sitzen(to sit)</string>
+		<key>german-sound</key>
+		<string>vowel-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long German &apos;i&apos; in initial position</string>
+		<key>german</key>
+		<string>ihnen(to them), ihr(her), irisch(Irish), Iris(iris), Igel(hedgehog)</string>
+		<key>german-sound</key>
+		<string>vowel-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long German vowel &apos;i&apos; in medial position</string>
+		<key>german</key>
+		<string>Krise(crisis), politisch(political), Linie(line)</string>
+		<key>german-sound</key>
+		<string>vowel-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>German &apos;ie&apos; as long vowel</string>
+		<key>german</key>
+		<string>Bier(beer), viel(much), Frieden(peace)</string>
+		<key>german-sound</key>
+		<string>vowel-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;o&apos; vowel</string>
+		<key>german</key>
+		<string>Sonne(sun), von(from, of), Gott(god), Dorf(village)</string>
+		<key>german-sound</key>
+		<string>vowel-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;o&apos; vowel</string>
+		<key>german</key>
+		<string>Rose(rose), froh(happy), Boot(boat), groß(big)</string>
+		<key>german-sound</key>
+		<string>vowel-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;ö&apos; vowel</string>
+		<key>german</key>
+		<string>Flöte(flute), blöd(stupid), böse(evil), Kröte(turtle)</string>
+		<key>german-sound</key>
+		<string>vowel-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;ö&apos; vowel</string>
+		<key>german</key>
+		<string>Hölle(hell), Stöcke(sticks), Löffel(spoon), Öffnung(opening)</string>
+		<key>german-sound</key>
+		<string>vowel-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;u&apos; vowel</string>
+		<key>german</key>
+		<string>Hund(dog), Butter(butter), Wunsch(wish), Pult(desk)</string>
+		<key>german-sound</key>
+		<string>vowel-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;u&apos; vowel</string>
+		<key>german</key>
+		<string>Tuch(cloth), Grube(ditch), Stuhl(chair), Uhr(clock)</string>
+		<key>german-sound</key>
+		<string>vowel-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;ü&apos; vowel</string>
+		<key>german</key>
+		<string>früh(early), Tür(door), grün(green), über(above)</string>
+		<key>german-sound</key>
+		<string>vowel-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;ü&apos; vowel</string>
+		<key>german</key>
+		<string>Stück(piece), Münze(coin), Brücke(bridge), Perücke(wig)</string>
+		<key>german-sound</key>
+		<string>vowel-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>More Examples</string>
+		<key>german</key>
+		<string>Mehr Beispiele</string>
+		<key>german-sound</key>
+		<string>vowel-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long vowel before a single consonant</string>
+		<key>german</key>
+		<string>Bad(bath), Rad(wheel), rot(red), gut(good)</string>
+		<key>german-sound</key>
+		<string>vowel-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long German &apos;doubled&apos; vowels</string>
+		<key>german</key>
+		<string>Meer(sea), Paar(pair), Boot(boat), Saat(seed)</string>
+		<key>german-sound</key>
+		<string>vowel-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long vowels before a silent &apos;h&apos;</string>
+		<key>german</key>
+		<string>Lehrer(teacher), Fahrer(driver), roh(raw), Kuh(cow)</string>
+		<key>german-sound</key>
+		<string>vowel-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long &apos;ie&apos; vowel sounds</string>
+		<key>german</key>
+		<string>vier(four), Spiel(game), Lied(song), schier(sheer)</string>
+		<key>german-sound</key>
+		<string>vowel-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long vowel sounds at the end of a word</string>
+		<key>german</key>
+		<string>Lotto(lottery), Vati(daddy), Sofa(sofa), Mofa(moped)</string>
+		<key>german-sound</key>
+		<string>vowel-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short vowels before a double consonant</string>
+		<key>german</key>
+		<string>rasch(hasty), Bett(bed), bunt(colourful), Nuss(nut)</string>
+		<key>german-sound</key>
+		<string>vowel-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Short German vowels before &apos;ck&apos;</string>
+		<key>german</key>
+		<string>lecker(tasty), Socken(socks), Lücke(hole), Wrack(wreck)</string>
+		<key>german-sound</key>
+		<string>vowel-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Long vowels from a long uninflected stem</string>
+		<key>german</key>
+		<string>haben(to have), gehabt(had), groß(big), größte(biggest)</string>
+		<key>german-sound</key>
+		<string>vowel-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long &apos;a&apos; vowel</string>
+		<key>german</key>
+		<string>klar(clear), Glas(glass), Jahr(year), Bahn(railway), Haar(hair), Aal(eel)</string>
+		<key>german-sound</key>
+		<string>vowel-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short &apos;a&apos; vowel</string>
+		<key>german</key>
+		<string>Mann(man), Hand(hand), Bank(bank), Sack(sack)</string>
+		<key>german-sound</key>
+		<string>vowel-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;ä&apos; vowel</string>
+		<key>german</key>
+		<string>Männer(men), Hände(hands), Bänke(benches), hätte(would have)</string>
+		<key>german-sound</key>
+		<string>vowel-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;ä&apos; vowel</string>
+		<key>german</key>
+		<string>Mädchen(girl), wählen(to vote), kläglich(pitiful), Währung(currency)</string>
+		<key>german-sound</key>
+		<string>vowel-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;au&apos;</string>
+		<key>german</key>
+		<string>braun(brown), Zaun(fence), auch(also), Haus(house), laut(loud), Traum(dream)</string>
+		<key>german-sound</key>
+		<string>vowel-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The German diphthong &apos;eu&apos; or &apos;äu&apos;</string>
+		<key>german</key>
+		<string>Fräulein(Miss), Räuber(robbers), Häuser(houses), Bräuche(customs), treu(loyal), Freude(joy), scheu(shy), neu(new)</string>
+		<key>german-sound</key>
+		<string>vowel-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>wenn(if, when), fett(fat), Dreck(dirt), echt(genuine), Fell(fur), Nest(nest)</string>
+		<key>german-sound</key>
+		<string>vowel-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;e&apos; vowel</string>
+		<key>german</key>
+		<string>sehr(very), mehr(more), Meer(sea), Teer(tar), Beet(bed), Gel(gel)</string>
+		<key>german-sound</key>
+		<string>vowel-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The long German &apos;ü&apos; vowel</string>
+		<key>german</key>
+		<string>früh(early), Tür(door), grün(green), über(above), Bühne(stage), Lüge(lie)</string>
+		<key>german-sound</key>
+		<string>vowel-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The short German &apos;ü&apos; vowel</string>
+		<key>german</key>
+		<string>Stück(piece), Münze(coin), Brücke(bridge), Perücke(wig), dünn(thin), glücklich(happy)</string>
+		<key>german-sound</key>
+		<string>vowel-61</string>
+	</dict>
+</array>

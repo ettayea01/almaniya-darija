@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>direction</string>
+		<key>german</key>
+		<string>die Richtung</string>
+		<key>english-sound</key>
+		<string>direction-eng-1</string>
+		<key>german-sound</key>
+		<string>direction-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>left</string>
+		<key>german</key>
+		<string>links</string>
+		<key>english-sound</key>
+		<string>direction-eng-2</string>
+		<key>german-sound</key>
+		<string>direction-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>right</string>
+		<key>german</key>
+		<string>rechts</string>
+		<key>english-sound</key>
+		<string>direction-eng-3</string>
+		<key>german-sound</key>
+		<string>direction-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the left</string>
+		<key>german</key>
+		<string>Nach links</string>
+		<key>english-sound</key>
+		<string>direction-eng-4</string>
+		<key>german-sound</key>
+		<string>direction-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the right</string>
+		<key>german</key>
+		<string>Nach rechts</string>
+		<key>english-sound</key>
+		<string>direction-eng-5</string>
+		<key>german-sound</key>
+		<string>direction-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>In front of</string>
+		<key>german</key>
+		<string>Vor</string>
+		<key>english-sound</key>
+		<string>direction-eng-6</string>
+		<key>german-sound</key>
+		<string>direction-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Next to</string>
+		<key>german</key>
+		<string>Neben</string>
+		<key>english-sound</key>
+		<string>direction-eng-7</string>
+		<key>german-sound</key>
+		<string>direction-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Straight</string>
+		<key>german</key>
+		<string>Geradeaus</string>
+		<key>english-sound</key>
+		<string>direction-eng-8</string>
+		<key>german-sound</key>
+		<string>direction-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>street</string>
+		<key>german</key>
+		<string>Die Straße</string>
+		<key>english-sound</key>
+		<string>direction-eng-9</string>
+		<key>german-sound</key>
+		<string>direction-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>corner</string>
+		<key>german</key>
+		<string>Die Ecke</string>
+		<key>english-sound</key>
+		<string>direction-eng-10</string>
+		<key>german-sound</key>
+		<string>direction-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Around the corner</string>
+		<key>german</key>
+		<string>Um die Ecke</string>
+		<key>english-sound</key>
+		<string>direction-eng-11</string>
+		<key>german-sound</key>
+		<string>direction-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>At the beginning of</string>
+		<key>german</key>
+		<string>Am Anfang von</string>
+		<key>english-sound</key>
+		<string>direction-eng-12</string>
+		<key>german-sound</key>
+		<string>direction-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>At the end of</string>
+		<key>german</key>
+		<string>Am Ende von</string>
+		<key>english-sound</key>
+		<string>direction-eng-13</string>
+		<key>german-sound</key>
+		<string>direction-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>east</string>
+		<key>german</key>
+		<string>der Osten</string>
+		<key>english-sound</key>
+		<string>direction-eng-14</string>
+		<key>german-sound</key>
+		<string>direction-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>south</string>
+		<key>german</key>
+		<string>der Süden</string>
+		<key>english-sound</key>
+		<string>direction-eng-15</string>
+		<key>german-sound</key>
+		<string>direction-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>north</string>
+		<key>german</key>
+		<string>der Norden</string>
+		<key>english-sound</key>
+		<string>direction-eng-16</string>
+		<key>german-sound</key>
+		<string>direction-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>west</string>
+		<key>german</key>
+		<string>der Westen</string>
+		<key>english-sound</key>
+		<string>direction-eng-17</string>
+		<key>german-sound</key>
+		<string>direction-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the east</string>
+		<key>german</key>
+		<string>Nach Osten</string>
+		<key>english-sound</key>
+		<string>direction-eng-18</string>
+		<key>german-sound</key>
+		<string>direction-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the south</string>
+		<key>german</key>
+		<string>Nach Süden</string>
+		<key>english-sound</key>
+		<string>direction-eng-19</string>
+		<key>german-sound</key>
+		<string>direction-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the north</string>
+		<key>german</key>
+		<string>Nach Norden</string>
+		<key>english-sound</key>
+		<string>direction-eng-20</string>
+		<key>german-sound</key>
+		<string>direction-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>To the west</string>
+		<key>german</key>
+		<string>Nach Westen</string>
+		<key>english-sound</key>
+		<string>direction-eng-21</string>
+		<key>german-sound</key>
+		<string>direction-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where [used to indicate a specific place]</string>
+		<key>german</key>
+		<string>Wo</string>
+		<key>english-sound</key>
+		<string>direction-eng-22</string>
+		<key>german-sound</key>
+		<string>direction-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where [used to indicate a direction or motion]</string>
+		<key>german</key>
+		<string>Wohin</string>
+		<key>english-sound</key>
+		<string>direction-eng-23</string>
+		<key>german-sound</key>
+		<string>direction-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are we?</string>
+		<key>german</key>
+		<string>Wo sind wir? [We used &quot;Wo&quot; because it is used to indicate a specific place]</string>
+		<key>english-sound</key>
+		<string>direction-eng-24</string>
+		<key>german-sound</key>
+		<string>direction-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are we going?</string>
+		<key>german</key>
+		<string>Wohin gehen wir? [We used &quot;Wohin&quot; because it is used to indicate a direction or motion.]</string>
+		<key>english-sound</key>
+		<string>direction-eng-25</string>
+		<key>german-sound</key>
+		<string>direction-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>there [used to indicate a specific place]</string>
+		<key>german</key>
+		<string>Dort</string>
+		<key>english-sound</key>
+		<string>direction-eng-26</string>
+		<key>german-sound</key>
+		<string>direction-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>there [used to indicate a direction or motion or movement]</string>
+		<key>german</key>
+		<string>Dorthin</string>
+		<key>english-sound</key>
+		<string>direction-eng-27</string>
+		<key>german-sound</key>
+		<string>direction-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am there.</string>
+		<key>german</key>
+		<string>Dort bin ich. [We used &quot;Dort&quot; because it is used to indicate a specific place]</string>
+		<key>english-sound</key>
+		<string>direction-eng-28</string>
+		<key>german-sound</key>
+		<string>direction-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m going up there.</string>
+		<key>german</key>
+		<string>ch gehe bis dorthin. [We used &quot;dorthin&quot; because it is used to indicate a direction or motion or movement]</string>
+		<key>english-sound</key>
+		<string>direction-eng-29</string>
+		<key>german-sound</key>
+		<string>direction-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where is ...</string>
+		<key>german</key>
+		<string>wo ist ...</string>
+		<key>english-sound</key>
+		<string>direction-eng-30</string>
+		<key>german-sound</key>
+		<string>direction-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>where are ...</string>
+		<key>german</key>
+		<string>wo sind ...</string>
+		<key>english-sound</key>
+		<string>direction-eng-31</string>
+		<key>german-sound</key>
+		<string>direction-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>straight ahead</string>
+		<key>german</key>
+		<string>geradeaus</string>
+		<key>english-sound</key>
+		<string>direction-eng-32</string>
+		<key>german-sound</key>
+		<string>direction-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>On the right side</string>
+		<key>german</key>
+		<string>auf der rechten Seite</string>
+		<key>english-sound</key>
+		<string>direction-eng-33</string>
+		<key>german-sound</key>
+		<string>direction-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>On the left side</string>
+		<key>german</key>
+		<string>auf der linken Seite</string>
+		<key>english-sound</key>
+		<string>direction-eng-34</string>
+		<key>german-sound</key>
+		<string>direction-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>next to</string>
+		<key>german</key>
+		<string>neben</string>
+		<key>english-sound</key>
+		<string>direction-eng-35</string>
+		<key>german-sound</key>
+		<string>direction-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>opposite</string>
+		<key>german</key>
+		<string>gegenüber</string>
+		<key>english-sound</key>
+		<string>direction-eng-36</string>
+		<key>german-sound</key>
+		<string>direction-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on one side</string>
+		<key>german</key>
+		<string>auf der einen Seite</string>
+		<key>english-sound</key>
+		<string>direction-eng-37</string>
+		<key>german-sound</key>
+		<string>direction-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on the other side</string>
+		<key>german</key>
+		<string>auf der anderen Seite</string>
+		<key>english-sound</key>
+		<string>direction-eng-38</string>
+		<key>german-sound</key>
+		<string>direction-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>keep to the left</string>
+		<key>german</key>
+		<string>links bleiben</string>
+		<key>english-sound</key>
+		<string>direction-eng-39</string>
+		<key>german-sound</key>
+		<string>direction-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to ...?</string>
+		<key>german</key>
+		<string>Wie komme ich nach ...?</string>
+		<key>english-sound</key>
+		<string>direction-eng-40</string>
+		<key>german-sound</key>
+		<string>direction-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>behind</string>
+		<key>german</key>
+		<string>hinter</string>
+		<key>english-sound</key>
+		<string>direction-eng-41</string>
+		<key>german-sound</key>
+		<string>direction-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on the left of</string>
+		<key>german</key>
+		<string>links von</string>
+		<key>english-sound</key>
+		<string>direction-eng-42</string>
+		<key>german-sound</key>
+		<string>direction-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>on the right of</string>
+		<key>german</key>
+		<string>rechts von</string>
+		<key>english-sound</key>
+		<string>direction-eng-43</string>
+		<key>german-sound</key>
+		<string>direction-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>between</string>
+		<key>german</key>
+		<string>zwischen</string>
+		<key>english-sound</key>
+		<string>direction-eng-44</string>
+		<key>german-sound</key>
+		<string>direction-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the centre of</string>
+		<key>german</key>
+		<string>im Zentrum</string>
+		<key>english-sound</key>
+		<string>direction-eng-45</string>
+		<key>german-sound</key>
+		<string>direction-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the middle of</string>
+		<key>german</key>
+		<string>in der Mitte</string>
+		<key>english-sound</key>
+		<string>direction-eng-46</string>
+		<key>german-sound</key>
+		<string>direction-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the house of</string>
+		<key>german</key>
+		<string>am Haus von</string>
+		<key>english-sound</key>
+		<string>direction-eng-47</string>
+		<key>german-sound</key>
+		<string>direction-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>here</string>
+		<key>german</key>
+		<string>hier</string>
+		<key>english-sound</key>
+		<string>direction-eng-48</string>
+		<key>german-sound</key>
+		<string>direction-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>over there</string>
+		<key>german</key>
+		<string>da drüben / dort drüben</string>
+		<key>english-sound</key>
+		<string>direction-eng-49</string>
+		<key>german-sound</key>
+		<string>direction-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>inside</string>
+		<key>german</key>
+		<string>drinnen</string>
+		<key>english-sound</key>
+		<string>direction-eng-50</string>
+		<key>german-sound</key>
+		<string>direction-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>outside</string>
+		<key>german</key>
+		<string>draussen</string>
+		<key>english-sound</key>
+		<string>direction-eng-51</string>
+		<key>german-sound</key>
+		<string>direction-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>anywhere / somewhere</string>
+		<key>german</key>
+		<string>irgendwo</string>
+		<key>english-sound</key>
+		<string>direction-eng-52</string>
+		<key>german-sound</key>
+		<string>direction-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>everywhere</string>
+		<key>german</key>
+		<string>überall</string>
+		<key>english-sound</key>
+		<string>direction-eng-53</string>
+		<key>german-sound</key>
+		<string>direction-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>elsewhere</string>
+		<key>german</key>
+		<string>woanders</string>
+		<key>english-sound</key>
+		<string>direction-eng-54</string>
+		<key>german-sound</key>
+		<string>direction-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nowhere</string>
+		<key>german</key>
+		<string>nirgends</string>
+		<key>english-sound</key>
+		<string>direction-eng-55</string>
+		<key>german-sound</key>
+		<string>direction-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>near to</string>
+		<key>german</key>
+		<string>in der Nähe von</string>
+		<key>english-sound</key>
+		<string>direction-eng-56</string>
+		<key>german-sound</key>
+		<string>direction-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>far away from</string>
+		<key>german</key>
+		<string>weit weg von</string>
+		<key>english-sound</key>
+		<string>direction-eng-57</string>
+		<key>german-sound</key>
+		<string>direction-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>far-off</string>
+		<key>german</key>
+		<string>weit weg</string>
+		<key>english-sound</key>
+		<string>direction-eng-58</string>
+		<key>german-sound</key>
+		<string>direction-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beyond</string>
+		<key>german</key>
+		<string>jenseits</string>
+		<key>english-sound</key>
+		<string>direction-eng-59</string>
+		<key>german-sound</key>
+		<string>direction-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the end of</string>
+		<key>german</key>
+		<string>am Ende von</string>
+		<key>english-sound</key>
+		<string>direction-eng-60</string>
+		<key>german-sound</key>
+		<string>direction-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>through</string>
+		<key>german</key>
+		<string>durch</string>
+		<key>english-sound</key>
+		<string>direction-eng-61</string>
+		<key>german-sound</key>
+		<string>direction-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>via</string>
+		<key>german</key>
+		<string>via</string>
+		<key>english-sound</key>
+		<string>direction-eng-62</string>
+		<key>german-sound</key>
+		<string>direction-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>around</string>
+		<key>german</key>
+		<string>um ... herum</string>
+		<key>english-sound</key>
+		<string>direction-eng-63</string>
+		<key>german-sound</key>
+		<string>direction-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>across</string>
+		<key>german</key>
+		<string>quer über / quer durch</string>
+		<key>english-sound</key>
+		<string>direction-eng-64</string>
+		<key>german-sound</key>
+		<string>direction-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>towards</string>
+		<key>german</key>
+		<string>nach ... hin</string>
+		<key>english-sound</key>
+		<string>direction-eng-65</string>
+		<key>german-sound</key>
+		<string>direction-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>below / under</string>
+		<key>german</key>
+		<string>unter</string>
+		<key>english-sound</key>
+		<string>direction-eng-66</string>
+		<key>german-sound</key>
+		<string>direction-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nearby</string>
+		<key>german</key>
+		<string>in der Nähe</string>
+		<key>english-sound</key>
+		<string>direction-eng-67</string>
+		<key>german-sound</key>
+		<string>direction-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>up there</string>
+		<key>german</key>
+		<string>da oben</string>
+		<key>english-sound</key>
+		<string>direction-eng-68</string>
+		<key>german-sound</key>
+		<string>direction-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>down there</string>
+		<key>german</key>
+		<string>dort unten</string>
+		<key>english-sound</key>
+		<string>direction-eng-69</string>
+		<key>german-sound</key>
+		<string>direction-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>upstairs (in the house)</string>
+		<key>german</key>
+		<string>oben (im Haus)</string>
+		<key>english-sound</key>
+		<string>direction-eng-70</string>
+		<key>german-sound</key>
+		<string>direction-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>downstairs (in the house)</string>
+		<key>german</key>
+		<string>unten (im Haus)</string>
+		<key>english-sound</key>
+		<string>direction-eng-71</string>
+		<key>german-sound</key>
+		<string>direction-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forwards</string>
+		<key>german</key>
+		<string>vorwärts</string>
+		<key>english-sound</key>
+		<string>direction-eng-72</string>
+		<key>german-sound</key>
+		<string>direction-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>backwards</string>
+		<key>german</key>
+		<string>rückwärts</string>
+		<key>english-sound</key>
+		<string>direction-eng-73</string>
+		<key>german-sound</key>
+		<string>direction-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>as far as / up to</string>
+		<key>german</key>
+		<string>bis zu</string>
+		<key>english-sound</key>
+		<string>direction-eng-74</string>
+		<key>german-sound</key>
+		<string>direction-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>compass</string>
+		<key>german</key>
+		<string>der Kompass</string>
+		<key>english-sound</key>
+		<string>direction-eng-75</string>
+		<key>german-sound</key>
+		<string>direction-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>north-east</string>
+		<key>german</key>
+		<string>der Nordosten</string>
+		<key>english-sound</key>
+		<string>direction-eng-76</string>
+		<key>german-sound</key>
+		<string>direction-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>south-east</string>
+		<key>german</key>
+		<string>der Südosten</string>
+		<key>english-sound</key>
+		<string>direction-eng-77</string>
+		<key>german-sound</key>
+		<string>direction-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>south-west</string>
+		<key>german</key>
+		<string>der Südwesten</string>
+		<key>english-sound</key>
+		<string>direction-eng-78</string>
+		<key>german-sound</key>
+		<string>direction-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>north-west</string>
+		<key>german</key>
+		<string>der Nordwesten</string>
+		<key>english-sound</key>
+		<string>direction-eng-79</string>
+		<key>german-sound</key>
+		<string>direction-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is it very far?</string>
+		<key>german</key>
+		<string>Ist es sehr weit?</string>
+		<key>english-sound</key>
+		<string>direction-eng-80</string>
+		<key>german-sound</key>
+		<string>direction-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s far.</string>
+		<key>german</key>
+		<string>Es ist weit.</string>
+		<key>english-sound</key>
+		<string>direction-eng-81</string>
+		<key>german-sound</key>
+		<string>direction-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s not far.</string>
+		<key>german</key>
+		<string>Es ist nicht weit.</string>
+		<key>english-sound</key>
+		<string>direction-eng-82</string>
+		<key>german-sound</key>
+		<string>direction-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is it close by?</string>
+		<key>german</key>
+		<string>Ist es in der Nähe?</string>
+		<key>english-sound</key>
+		<string>direction-eng-83</string>
+		<key>german-sound</key>
+		<string>direction-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s close by.</string>
+		<key>german</key>
+		<string>Es ist in der Nähe.</string>
+		<key>english-sound</key>
+		<string>direction-eng-84</string>
+		<key>german-sound</key>
+		<string>direction-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s not close by.</string>
+		<key>german</key>
+		<string>Es ist nicht in der Nähe.</string>
+		<key>english-sound</key>
+		<string>direction-eng-85</string>
+		<key>german-sound</key>
+		<string>direction-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>straight on</string>
+		<key>german</key>
+		<string>gerade aus</string>
+		<key>english-sound</key>
+		<string>direction-eng-86</string>
+		<key>german-sound</key>
+		<string>direction-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Keep on going straight.</string>
+		<key>german</key>
+		<string>Gehen Sie immer gerade aus.</string>
+		<key>english-sound</key>
+		<string>direction-eng-87</string>
+		<key>german-sound</key>
+		<string>direction-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to go over the bridge</string>
+		<key>german</key>
+		<string>über die Brücke gehen</string>
+		<key>english-sound</key>
+		<string>direction-eng-88</string>
+		<key>german-sound</key>
+		<string>direction-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>round the corner</string>
+		<key>german</key>
+		<string>um die Ecke</string>
+		<key>english-sound</key>
+		<string>direction-eng-89</string>
+		<key>german-sound</key>
+		<string>direction-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>opposite from</string>
+		<key>german</key>
+		<string>gegenüber von</string>
+		<key>english-sound</key>
+		<string>direction-eng-90</string>
+		<key>german-sound</key>
+		<string>direction-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go straight ahead.</string>
+		<key>german</key>
+		<string>Gehen Sie geradeaus (formal) / Geh geradeaus (informal)</string>
+		<key>english-sound</key>
+		<string>direction-eng-91</string>
+		<key>german-sound</key>
+		<string>direction-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Go straight on.</string>
+		<key>german</key>
+		<string>Gehen Sie weiter geradeaus (formal) / Geh weiter geradeaus (informal)</string>
+		<key>english-sound</key>
+		<string>direction-eng-92</string>
+		<key>german-sound</key>
+		<string>direction-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Turn right</string>
+		<key>german</key>
+		<string>Biegen Sie nach rechts ab (formal) / Biege nach rechts ab (informal)</string>
+		<key>english-sound</key>
+		<string>direction-eng-93</string>
+		<key>german-sound</key>
+		<string>direction-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Turn left</string>
+		<key>german</key>
+		<string>Biegen Sie nach links ab (formal) / Biege nach links ab (informal)</string>
+		<key>english-sound</key>
+		<string>direction-eng-94</string>
+		<key>german-sound</key>
+		<string>direction-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The street after next.</string>
+		<key>german</key>
+		<string>Die übernächste Straße</string>
+		<key>english-sound</key>
+		<string>direction-eng-95</string>
+		<key>german-sound</key>
+		<string>direction-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The next street to the right.</string>
+		<key>german</key>
+		<string>Die nächste Straße nach rechts.</string>
+		<key>english-sound</key>
+		<string>direction-eng-96</string>
+		<key>german-sound</key>
+		<string>direction-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The next street to the left.</string>
+		<key>german</key>
+		<string>Die nächste Straße nach links.</string>
+		<key>english-sound</key>
+		<string>direction-eng-97</string>
+		<key>german-sound</key>
+		<string>direction-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to the train station?</string>
+		<key>german</key>
+		<string>Wie komme ich zum Bahnhof? [Note: zum = short form of &apos;zu dem&apos; (masculine , Dativ)]</string>
+		<key>english-sound</key>
+		<string>direction-eng-98</string>
+		<key>german-sound</key>
+		<string>direction-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to the bus station?</string>
+		<key>german</key>
+		<string>Wie komme ich zur Bushaltestelle? [Note: zur = short form of &apos;zu der&apos; (feminine, Dativ)]</string>
+		<key>english-sound</key>
+		<string>direction-eng-99</string>
+		<key>german-sound</key>
+		<string>direction-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to the airport?</string>
+		<key>german</key>
+		<string>Wie komme ich zum Flughafen.</string>
+		<key>english-sound</key>
+		<string>direction-eng-100</string>
+		<key>german-sound</key>
+		<string>direction-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to the town centre?</string>
+		<key>german</key>
+		<string>Wie komme ich zur Stadtmitte?</string>
+		<key>english-sound</key>
+		<string>direction-eng-101</string>
+		<key>german-sound</key>
+		<string>direction-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How do I get to the hotel?</string>
+		<key>german</key>
+		<string>Wie komme ich zum Hotel?</string>
+		<key>english-sound</key>
+		<string>direction-eng-102</string>
+		<key>german-sound</key>
+		<string>direction-german-102</string>
+	</dict>
+</array>

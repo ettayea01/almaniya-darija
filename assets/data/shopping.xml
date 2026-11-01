@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>Supermarket</string>
+		<key>german</key>
+		<string>der Supermarkt</string>
+		<key>english-sound</key>
+		<string>shopping-eng-1</string>
+		<key>german-sound</key>
+		<string>shopping-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>department store</string>
+		<key>german</key>
+		<string>das Kaufhaus</string>
+		<key>english-sound</key>
+		<string>shopping-eng-2</string>
+		<key>german-sound</key>
+		<string>shopping-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>newsagent&apos;s</string>
+		<key>german</key>
+		<string>die Nachrictenagentur</string>
+		<key>english-sound</key>
+		<string>shopping-eng-3</string>
+		<key>german-sound</key>
+		<string>shopping-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>market</string>
+		<key>german</key>
+		<string>der Markt</string>
+		<key>english-sound</key>
+		<string>shopping-eng-4</string>
+		<key>german-sound</key>
+		<string>shopping-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Supermarket chain</string>
+		<key>german</key>
+		<string>Supermarktkette</string>
+		<key>english-sound</key>
+		<string>shopping-eng-5</string>
+		<key>german-sound</key>
+		<string>shopping-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like that one.</string>
+		<key>german</key>
+		<string>Das gefällt mir.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-6</string>
+		<key>german-sound</key>
+		<string>shopping-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much?</string>
+		<key>german</key>
+		<string>Wie viel?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-7</string>
+		<key>german-sound</key>
+		<string>shopping-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How many?</string>
+		<key>german</key>
+		<string>Wie viele?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-8</string>
+		<key>german-sound</key>
+		<string>shopping-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>money</string>
+		<key>german</key>
+		<string>das Geld</string>
+		<key>english-sound</key>
+		<string>shopping-eng-9</string>
+		<key>german-sound</key>
+		<string>shopping-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>credit card</string>
+		<key>german</key>
+		<string>die Kreditkarte</string>
+		<key>english-sound</key>
+		<string>shopping-eng-10</string>
+		<key>german-sound</key>
+		<string>shopping-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>price</string>
+		<key>german</key>
+		<string>der Preis</string>
+		<key>english-sound</key>
+		<string>shopping-eng-11</string>
+		<key>german-sound</key>
+		<string>shopping-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>expensive</string>
+		<key>german</key>
+		<string>teuer</string>
+		<key>english-sound</key>
+		<string>shopping-eng-12</string>
+		<key>german-sound</key>
+		<string>shopping-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>big / large</string>
+		<key>german</key>
+		<string>groß</string>
+		<key>english-sound</key>
+		<string>shopping-eng-13</string>
+		<key>german-sound</key>
+		<string>shopping-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>small, short</string>
+		<key>german</key>
+		<string>klein, kurz</string>
+		<key>english-sound</key>
+		<string>shopping-eng-14</string>
+		<key>german-sound</key>
+		<string>shopping-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bag</string>
+		<key>german</key>
+		<string>die Tüte / Tasche</string>
+		<key>english-sound</key>
+		<string>shopping-eng-15</string>
+		<key>german-sound</key>
+		<string>shopping-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salesperson</string>
+		<key>german</key>
+		<string>Verkäufer (m), Verkäuferin (f)</string>
+		<key>english-sound</key>
+		<string>shopping-eng-16</string>
+		<key>german-sound</key>
+		<string>shopping-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>customer</string>
+		<key>german</key>
+		<string>Kunde (m), Kundin (f)</string>
+		<key>english-sound</key>
+		<string>shopping-eng-17</string>
+		<key>german-sound</key>
+		<string>shopping-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cashier / check-out counter</string>
+		<key>german</key>
+		<string>die Kasse</string>
+		<key>english-sound</key>
+		<string>shopping-eng-18</string>
+		<key>german-sound</key>
+		<string>shopping-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sale!</string>
+		<key>german</key>
+		<string>Ausverkauf!</string>
+		<key>english-sound</key>
+		<string>shopping-eng-19</string>
+		<key>german-sound</key>
+		<string>shopping-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Special Offer!</string>
+		<key>german</key>
+		<string>Sonderangebot!</string>
+		<key>english-sound</key>
+		<string>shopping-eng-20</string>
+		<key>german-sound</key>
+		<string>shopping-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Reduced!</string>
+		<key>german</key>
+		<string>Reduziert!</string>
+		<key>english-sound</key>
+		<string>shopping-eng-21</string>
+		<key>german-sound</key>
+		<string>shopping-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I help you?</string>
+		<key>german</key>
+		<string>Darf ich Ihnen helfen?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-22</string>
+		<key>german-sound</key>
+		<string>shopping-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m looking for...</string>
+		<key>german</key>
+		<string>Ich suche...</string>
+		<key>english-sound</key>
+		<string>shopping-eng-23</string>
+		<key>german-sound</key>
+		<string>shopping-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m looking for a dress.</string>
+		<key>german</key>
+		<string>Ich suche ein Kleid.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-24</string>
+		<key>german-sound</key>
+		<string>shopping-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m looking for a shirt.</string>
+		<key>german</key>
+		<string>Ich suche ein Hemd.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-25</string>
+		<key>german-sound</key>
+		<string>shopping-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m just looking.</string>
+		<key>german</key>
+		<string>Ich schaue nur.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-26</string>
+		<key>german-sound</key>
+		<string>shopping-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;d like...</string>
+		<key>german</key>
+		<string>Ich möchte...</string>
+		<key>english-sound</key>
+		<string>shopping-eng-27</string>
+		<key>german-sound</key>
+		<string>shopping-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can you fix / repair this?</string>
+		<key>german</key>
+		<string>Können Sie das reparieren?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-28</string>
+		<key>german-sound</key>
+		<string>shopping-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What size are you?</string>
+		<key>german</key>
+		<string>Welche Größe haben Sie?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-29</string>
+		<key>german-sound</key>
+		<string>shopping-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a glass of beer</string>
+		<key>german</key>
+		<string>ein Glas Bier</string>
+		<key>english-sound</key>
+		<string>shopping-eng-30</string>
+		<key>german-sound</key>
+		<string>shopping-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a portion of chips</string>
+		<key>german</key>
+		<string>eine Portion Pommes</string>
+		<key>english-sound</key>
+		<string>shopping-eng-31</string>
+		<key>german-sound</key>
+		<string>shopping-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>three pieces of cake</string>
+		<key>german</key>
+		<string>drei Stück Kuchen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-32</string>
+		<key>german-sound</key>
+		<string>shopping-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five sacks of potatoes</string>
+		<key>german</key>
+		<string>fünf Sack Kartoffeln</string>
+		<key>english-sound</key>
+		<string>shopping-eng-33</string>
+		<key>german-sound</key>
+		<string>shopping-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>six pairs of shoes</string>
+		<key>german</key>
+		<string>sechs Paar Schuhe</string>
+		<key>english-sound</key>
+		<string>shopping-eng-34</string>
+		<key>german-sound</key>
+		<string>shopping-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seven portions of chips</string>
+		<key>german</key>
+		<string>sieben Portionen Pommes</string>
+		<key>english-sound</key>
+		<string>shopping-eng-35</string>
+		<key>german-sound</key>
+		<string>shopping-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sixteen cups of tea</string>
+		<key>german</key>
+		<string>sechzehn Tassen Tee</string>
+		<key>english-sound</key>
+		<string>shopping-eng-36</string>
+		<key>german-sound</key>
+		<string>shopping-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shopping list</string>
+		<key>german</key>
+		<string>die Einkaufsliste</string>
+		<key>english-sound</key>
+		<string>shopping-eng-37</string>
+		<key>german-sound</key>
+		<string>shopping-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to do the shopping</string>
+		<key>german</key>
+		<string>einkaufen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-38</string>
+		<key>german-sound</key>
+		<string>shopping-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cheap</string>
+		<key>german</key>
+		<string>billig</string>
+		<key>english-sound</key>
+		<string>shopping-eng-39</string>
+		<key>german-sound</key>
+		<string>shopping-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cheaper</string>
+		<key>german</key>
+		<string>billiger</string>
+		<key>english-sound</key>
+		<string>shopping-eng-40</string>
+		<key>german-sound</key>
+		<string>shopping-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pound</string>
+		<key>german</key>
+		<string>das Pfund</string>
+		<key>english-sound</key>
+		<string>shopping-eng-41</string>
+		<key>german-sound</key>
+		<string>shopping-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>half a pound</string>
+		<key>german</key>
+		<string>ein halbes Pfund</string>
+		<key>english-sound</key>
+		<string>shopping-eng-42</string>
+		<key>german-sound</key>
+		<string>shopping-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kilogram</string>
+		<key>german</key>
+		<string>das Kilogramm / das Kilo</string>
+		<key>english-sound</key>
+		<string>shopping-eng-43</string>
+		<key>german-sound</key>
+		<string>shopping-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would you like anything else?</string>
+		<key>german</key>
+		<string>Möchten Sie sonst noch etwas?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-44</string>
+		<key>german-sound</key>
+		<string>shopping-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like</string>
+		<key>german</key>
+		<string>ich hätte gern / Ich möchte bitte</string>
+		<key>english-sound</key>
+		<string>shopping-eng-45</string>
+		<key>german-sound</key>
+		<string>shopping-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>One and a half</string>
+		<key>german</key>
+		<string>eineinhalb</string>
+		<key>english-sound</key>
+		<string>shopping-eng-46</string>
+		<key>german-sound</key>
+		<string>shopping-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>far too expensive / way too expensive</string>
+		<key>german</key>
+		<string>viel zu teuer</string>
+		<key>english-sound</key>
+		<string>shopping-eng-47</string>
+		<key>german-sound</key>
+		<string>shopping-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>that&apos;s all</string>
+		<key>german</key>
+		<string>das wär&apos;s</string>
+		<key>english-sound</key>
+		<string>shopping-eng-48</string>
+		<key>german-sound</key>
+		<string>shopping-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>can you help me?</string>
+		<key>german</key>
+		<string>können Sie mir helfen?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-49</string>
+		<key>german-sound</key>
+		<string>shopping-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where is..?</string>
+		<key>german</key>
+		<string>wo gibt es hier...? </string>
+		<key>english-sound</key>
+		<string>shopping-eng-50</string>
+		<key>german-sound</key>
+		<string>shopping-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where can I find ...</string>
+		<key>german</key>
+		<string>Wo kann ich finden ...</string>
+		<key>english-sound</key>
+		<string>shopping-eng-51</string>
+		<key>german-sound</key>
+		<string>shopping-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the front</string>
+		<key>german</key>
+		<string>vorne</string>
+		<key>english-sound</key>
+		<string>shopping-eng-52</string>
+		<key>german-sound</key>
+		<string>shopping-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the front on the left</string>
+		<key>german</key>
+		<string>vorne links</string>
+		<key>english-sound</key>
+		<string>shopping-eng-53</string>
+		<key>german-sound</key>
+		<string>shopping-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the back</string>
+		<key>german</key>
+		<string>hinten</string>
+		<key>english-sound</key>
+		<string>shopping-eng-54</string>
+		<key>german-sound</key>
+		<string>shopping-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>right at the back</string>
+		<key>german</key>
+		<string>ganz hinten</string>
+		<key>english-sound</key>
+		<string>shopping-eng-55</string>
+		<key>german-sound</key>
+		<string>shopping-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>aisle</string>
+		<key>german</key>
+		<string>der Gang</string>
+		<key>english-sound</key>
+		<string>shopping-eng-56</string>
+		<key>german-sound</key>
+		<string>shopping-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the top</string>
+		<key>german</key>
+		<string>oben</string>
+		<key>english-sound</key>
+		<string>shopping-eng-57</string>
+		<key>german-sound</key>
+		<string>shopping-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the bottom</string>
+		<key>german</key>
+		<string>unten</string>
+		<key>english-sound</key>
+		<string>shopping-eng-58</string>
+		<key>german-sound</key>
+		<string>shopping-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in the middle</string>
+		<key>german</key>
+		<string>in der Mitte</string>
+		<key>english-sound</key>
+		<string>shopping-eng-59</string>
+		<key>german-sound</key>
+		<string>shopping-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>down here</string>
+		<key>german</key>
+		<string>hier unten</string>
+		<key>english-sound</key>
+		<string>shopping-eng-60</string>
+		<key>german-sound</key>
+		<string>shopping-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>at the checkout</string>
+		<key>german</key>
+		<string>an der Kasse</string>
+		<key>english-sound</key>
+		<string>shopping-eng-61</string>
+		<key>german-sound</key>
+		<string>shopping-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What would you like?</string>
+		<key>german</key>
+		<string>Sie wünschen? / Was wünschen Sie?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-62</string>
+		<key>german-sound</key>
+		<string>shopping-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a little</string>
+		<key>german</key>
+		<string>ein bisschen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-63</string>
+		<key>german-sound</key>
+		<string>shopping-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>more</string>
+		<key>german</key>
+		<string>mehr</string>
+		<key>english-sound</key>
+		<string>shopping-eng-64</string>
+		<key>german-sound</key>
+		<string>shopping-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you want anything else?</string>
+		<key>german</key>
+		<string>haben Sie noch einen Wunsch?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-65</string>
+		<key>german-sound</key>
+		<string>shopping-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>please give me...</string>
+		<key>german</key>
+		<string>geben Sie mir bitte...</string>
+		<key>english-sound</key>
+		<string>shopping-eng-66</string>
+		<key>german-sound</key>
+		<string>shopping-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How expensive are they?</string>
+		<key>german</key>
+		<string>wie teuer sind sie?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-67</string>
+		<key>german-sound</key>
+		<string>shopping-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>there is no price on it</string>
+		<key>german</key>
+		<string>hier steht kein Preis darauf</string>
+		<key>english-sound</key>
+		<string>shopping-eng-68</string>
+		<key>german-sound</key>
+		<string>shopping-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would that be all?</string>
+		<key>german</key>
+		<string>wäre das alles?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-69</string>
+		<key>german-sound</key>
+		<string>shopping-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>that will be all</string>
+		<key>german</key>
+		<string>das wäre alles</string>
+		<key>english-sound</key>
+		<string>shopping-eng-70</string>
+		<key>german-sound</key>
+		<string>shopping-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What can you recommend (to me)?</string>
+		<key>german</key>
+		<string>was können Sie mir empfehlen?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-71</string>
+		<key>german-sound</key>
+		<string>shopping-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What a large selection!</string>
+		<key>german</key>
+		<string>so eine große Auswahl!</string>
+		<key>english-sound</key>
+		<string>shopping-eng-72</string>
+		<key>german-sound</key>
+		<string>shopping-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>my size is</string>
+		<key>german</key>
+		<string>meine Grösse ist</string>
+		<key>english-sound</key>
+		<string>shopping-eng-73</string>
+		<key>german-sound</key>
+		<string>shopping-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>my shoe size is</string>
+		<key>german</key>
+		<string>meine Schuhgrösse ist</string>
+		<key>english-sound</key>
+		<string>shopping-eng-74</string>
+		<key>german-sound</key>
+		<string>shopping-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I try it on?</string>
+		<key>german</key>
+		<string>Darf ich das anprobieren?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-75</string>
+		<key>german-sound</key>
+		<string>shopping-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;ll take it.</string>
+		<key>german</key>
+		<string>Ich nehme es.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-76</string>
+		<key>german-sound</key>
+		<string>shopping-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;ll take them.</string>
+		<key>german</key>
+		<string>Ich nehme sie.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-77</string>
+		<key>german-sound</key>
+		<string>shopping-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pay</string>
+		<key>german</key>
+		<string>bezahlen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-78</string>
+		<key>german-sound</key>
+		<string>shopping-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>basket</string>
+		<key>german</key>
+		<string>der Korb</string>
+		<key>english-sound</key>
+		<string>shopping-eng-79</string>
+		<key>german-sound</key>
+		<string>shopping-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trolley</string>
+		<key>german</key>
+		<string>der Einkaufswagen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-80</string>
+		<key>german-sound</key>
+		<string>shopping-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wallet</string>
+		<key>german</key>
+		<string>die Brieftasche</string>
+		<key>english-sound</key>
+		<string>shopping-eng-81</string>
+		<key>german-sound</key>
+		<string>shopping-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>purse</string>
+		<key>german</key>
+		<string>der Geldbeutel</string>
+		<key>english-sound</key>
+		<string>shopping-eng-82</string>
+		<key>german-sound</key>
+		<string>shopping-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>(loose) change</string>
+		<key>german</key>
+		<string>das Kleingeld</string>
+		<key>english-sound</key>
+		<string>shopping-eng-83</string>
+		<key>german-sound</key>
+		<string>shopping-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pay cash</string>
+		<key>german</key>
+		<string>bar bezahlen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-84</string>
+		<key>german-sound</key>
+		<string>shopping-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pay by cheque</string>
+		<key>german</key>
+		<string>mit Scheck bezahlen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-85</string>
+		<key>german-sound</key>
+		<string>shopping-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to sell</string>
+		<key>german</key>
+		<string>verkaufen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-86</string>
+		<key>german-sound</key>
+		<string>shopping-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>men&apos;s department</string>
+		<key>german</key>
+		<string>die Herrenabteilung</string>
+		<key>english-sound</key>
+		<string>shopping-eng-87</string>
+		<key>german-sound</key>
+		<string>shopping-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>women&apos;s department</string>
+		<key>german</key>
+		<string>die Damenabteilung</string>
+		<key>english-sound</key>
+		<string>shopping-eng-88</string>
+		<key>german-sound</key>
+		<string>shopping-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>escalator</string>
+		<key>german</key>
+		<string>die Rolltreppe</string>
+		<key>english-sound</key>
+		<string>shopping-eng-89</string>
+		<key>german-sound</key>
+		<string>shopping-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lift</string>
+		<key>german</key>
+		<string>der Fahrstuhl</string>
+		<key>english-sound</key>
+		<string>shopping-eng-90</string>
+		<key>german-sound</key>
+		<string>shopping-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to exchange</string>
+		<key>german</key>
+		<string>umtauschen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-91</string>
+		<key>german-sound</key>
+		<string>shopping-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>refund</string>
+		<key>german</key>
+		<string>die Rückerstattung</string>
+		<key>english-sound</key>
+		<string>shopping-eng-92</string>
+		<key>german-sound</key>
+		<string>shopping-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to wrap</string>
+		<key>german</key>
+		<string>einpacken</string>
+		<key>english-sound</key>
+		<string>shopping-eng-93</string>
+		<key>german-sound</key>
+		<string>shopping-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to cost</string>
+		<key>german</key>
+		<string>kosten</string>
+		<key>english-sound</key>
+		<string>shopping-eng-94</string>
+		<key>german-sound</key>
+		<string>shopping-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to buy</string>
+		<key>german</key>
+		<string>kaufen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-95</string>
+		<key>german-sound</key>
+		<string>shopping-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>purchase</string>
+		<key>german</key>
+		<string>der Einkauf</string>
+		<key>english-sound</key>
+		<string>shopping-eng-96</string>
+		<key>german-sound</key>
+		<string>shopping-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>half a kilo of</string>
+		<key>german</key>
+		<string>ein halbes Kilo</string>
+		<key>english-sound</key>
+		<string>shopping-eng-97</string>
+		<key>german-sound</key>
+		<string>shopping-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a kilo of</string>
+		<key>german</key>
+		<string>ein Kilo</string>
+		<key>english-sound</key>
+		<string>shopping-eng-98</string>
+		<key>german-sound</key>
+		<string>shopping-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a piece of</string>
+		<key>german</key>
+		<string>ein Stück</string>
+		<key>english-sound</key>
+		<string>shopping-eng-99</string>
+		<key>german-sound</key>
+		<string>shopping-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a slice of</string>
+		<key>german</key>
+		<string>eine Scheibe</string>
+		<key>english-sound</key>
+		<string>shopping-eng-100</string>
+		<key>german-sound</key>
+		<string>shopping-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a bottle of</string>
+		<key>german</key>
+		<string>eine Flasche</string>
+		<key>english-sound</key>
+		<string>shopping-eng-101</string>
+		<key>german-sound</key>
+		<string>shopping-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a can of</string>
+		<key>german</key>
+		<string>eine Dose</string>
+		<key>english-sound</key>
+		<string>shopping-eng-102</string>
+		<key>german-sound</key>
+		<string>shopping-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a packet of</string>
+		<key>german</key>
+		<string>ein Päckchen</string>
+		<key>english-sound</key>
+		<string>shopping-eng-103</string>
+		<key>german-sound</key>
+		<string>shopping-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a carrier bag</string>
+		<key>german</key>
+		<string>einen Tragbeutel</string>
+		<key>english-sound</key>
+		<string>shopping-eng-104</string>
+		<key>german-sound</key>
+		<string>shopping-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m going grocery shopping.</string>
+		<key>german</key>
+		<string>Ich gehe Lebensmittel einkaufen.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-105</string>
+		<key>german-sound</key>
+		<string>shopping-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We need milk, eggs, and bread.</string>
+		<key>german</key>
+		<string>Wir brauchen Milch, Eier, und Brot.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-106</string>
+		<key>german-sound</key>
+		<string>shopping-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are there more?</string>
+		<key>german</key>
+		<string>Gibt es noch mehr?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-107</string>
+		<key>german-sound</key>
+		<string>shopping-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you sell . . .?</string>
+		<key>german</key>
+		<string>Verkaufen Sie . . .?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-108</string>
+		<key>german-sound</key>
+		<string>shopping-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m looking for a red skirt.</string>
+		<key>german</key>
+		<string>Ich suche einen roten Rock.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-109</string>
+		<key>german-sound</key>
+		<string>shopping-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have this in a small size?</string>
+		<key>german</key>
+		<string>Haben Sie dieses in einer kleinen Größe?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-110</string>
+		<key>german-sound</key>
+		<string>shopping-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much does it cost?</string>
+		<key>german</key>
+		<string>Wie viel kostet es?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-111</string>
+		<key>german-sound</key>
+		<string>shopping-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I pay by credit card?</string>
+		<key>german</key>
+		<string>Kann ich mit Kreditkarte bezahlen?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-112</string>
+		<key>german-sound</key>
+		<string>shopping-german-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have it in a different color?</string>
+		<key>german</key>
+		<string>Haben Sie das in einer anderen Farbe?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-113</string>
+		<key>german-sound</key>
+		<string>shopping-german-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s too big / small.</string>
+		<key>german</key>
+		<string>Das ist mir zu groß / klein.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-114</string>
+		<key>german-sound</key>
+		<string>shopping-german-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much does it cost?</string>
+		<key>german</key>
+		<string>Wie viel kostet es?</string>
+		<key>english-sound</key>
+		<string>shopping-eng-115</string>
+		<key>german-sound</key>
+		<string>shopping-german-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>That&apos;s too expensive.</string>
+		<key>german</key>
+		<string>Das ist zu teuer.</string>
+		<key>english-sound</key>
+		<string>shopping-eng-116</string>
+		<key>german-sound</key>
+		<string>shopping-german-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>weight</string>
+		<key>german</key>
+		<string>Gewicht</string>
+		<key>english-sound</key>
+		<string>shopping-eng-117</string>
+		<key>german-sound</key>
+		<string>shopping-german-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gram</string>
+		<key>german</key>
+		<string>Gramm</string>
+		<key>english-sound</key>
+		<string>shopping-eng-118</string>
+		<key>german-sound</key>
+		<string>shopping-german-118</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kilogram</string>
+		<key>german</key>
+		<string>Kilogramm</string>
+		<key>english-sound</key>
+		<string>shopping-eng-119</string>
+		<key>german-sound</key>
+		<string>shopping-german-119</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>milligram</string>
+		<key>german</key>
+		<string>Milligramm</string>
+		<key>english-sound</key>
+		<string>shopping-eng-120</string>
+		<key>german-sound</key>
+		<string>shopping-german-120</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>microgram</string>
+		<key>german</key>
+		<string>Mikrogramm</string>
+		<key>english-sound</key>
+		<string>shopping-eng-121</string>
+		<key>german-sound</key>
+		<string>shopping-german-121</string>
+	</dict>
+</array>

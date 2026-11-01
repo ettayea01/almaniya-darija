@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>climate</string>
+		<key>german</key>
+		<string>das Klima</string>
+		<key>english-sound</key>
+		<string>climate-eng-1</string>
+		<key>german-sound</key>
+		<string>climate-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>weather</string>
+		<key>german</key>
+		<string>das Wetter</string>
+		<key>english-sound</key>
+		<string>climate-eng-2</string>
+		<key>german-sound</key>
+		<string>climate-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>winter</string>
+		<key>german</key>
+		<string>der Winter</string>
+		<key>english-sound</key>
+		<string>climate-eng-3</string>
+		<key>german-sound</key>
+		<string>climate-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spring</string>
+		<key>german</key>
+		<string>der Frühling</string>
+		<key>english-sound</key>
+		<string>climate-eng-4</string>
+		<key>german-sound</key>
+		<string>climate-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>summer</string>
+		<key>german</key>
+		<string>der Sommer</string>
+		<key>english-sound</key>
+		<string>climate-eng-5</string>
+		<key>german-sound</key>
+		<string>climate-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>autumn</string>
+		<key>german</key>
+		<string>der Herbst</string>
+		<key>english-sound</key>
+		<string>climate-eng-6</string>
+		<key>german-sound</key>
+		<string>climate-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>temperature</string>
+		<key>german</key>
+		<string>die Temperatur</string>
+		<key>english-sound</key>
+		<string>climate-eng-7</string>
+		<key>german-sound</key>
+		<string>climate-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heat</string>
+		<key>german</key>
+		<string>die Hitze</string>
+		<key>english-sound</key>
+		<string>climate-eng-8</string>
+		<key>german-sound</key>
+		<string>climate-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>warmth</string>
+		<key>german</key>
+		<string>die Wärme</string>
+		<key>english-sound</key>
+		<string>climate-eng-9</string>
+		<key>german-sound</key>
+		<string>climate-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sun</string>
+		<key>german</key>
+		<string>die Sonne</string>
+		<key>english-sound</key>
+		<string>climate-eng-10</string>
+		<key>german-sound</key>
+		<string>climate-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rain</string>
+		<key>german</key>
+		<string>der Regen</string>
+		<key>english-sound</key>
+		<string>climate-eng-11</string>
+		<key>german-sound</key>
+		<string>climate-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wind</string>
+		<key>german</key>
+		<string>der Wind</string>
+		<key>english-sound</key>
+		<string>climate-eng-12</string>
+		<key>german-sound</key>
+		<string>climate-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cold</string>
+		<key>german</key>
+		<string>die Kälte</string>
+		<key>english-sound</key>
+		<string>climate-eng-13</string>
+		<key>german-sound</key>
+		<string>climate-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>humdity</string>
+		<key>german</key>
+		<string>die Feuchtigkeit</string>
+		<key>english-sound</key>
+		<string>climate-eng-14</string>
+		<key>german-sound</key>
+		<string>climate-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shower</string>
+		<key>german</key>
+		<string>der Schauer</string>
+		<key>english-sound</key>
+		<string>climate-eng-15</string>
+		<key>german-sound</key>
+		<string>climate-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fog</string>
+		<key>german</key>
+		<string>der Nebel</string>
+		<key>english-sound</key>
+		<string>climate-eng-16</string>
+		<key>german-sound</key>
+		<string>climate-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rainy season</string>
+		<key>german</key>
+		<string>die Regenzeit</string>
+		<key>english-sound</key>
+		<string>climate-eng-17</string>
+		<key>german-sound</key>
+		<string>climate-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dry season</string>
+		<key>german</key>
+		<string>die Trockenzeit</string>
+		<key>english-sound</key>
+		<string>climate-eng-18</string>
+		<key>german-sound</key>
+		<string>climate-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thunderstorm</string>
+		<key>german</key>
+		<string>das Unwetter</string>
+		<key>english-sound</key>
+		<string>climate-eng-19</string>
+		<key>german-sound</key>
+		<string>climate-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hail</string>
+		<key>german</key>
+		<string>der Hagel</string>
+		<key>english-sound</key>
+		<string>climate-eng-20</string>
+		<key>german-sound</key>
+		<string>climate-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>storm</string>
+		<key>german</key>
+		<string>der Sturm</string>
+		<key>english-sound</key>
+		<string>climate-eng-21</string>
+		<key>german-sound</key>
+		<string>climate-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s cold.</string>
+		<key>german</key>
+		<string>Es ist kalt.</string>
+		<key>english-sound</key>
+		<string>climate-eng-22</string>
+		<key>german-sound</key>
+		<string>climate-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s warm.</string>
+		<key>german</key>
+		<string>Es ist warm</string>
+		<key>english-sound</key>
+		<string>climate-eng-23</string>
+		<key>german-sound</key>
+		<string>climate-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s windy.</string>
+		<key>german</key>
+		<string>Es ist windig.</string>
+		<key>english-sound</key>
+		<string>climate-eng-24</string>
+		<key>german-sound</key>
+		<string>climate-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s stormy.</string>
+		<key>german</key>
+		<string>Es ist stürmisch.</string>
+		<key>english-sound</key>
+		<string>climate-eng-25</string>
+		<key>german-sound</key>
+		<string>climate-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s sunny.</string>
+		<key>german</key>
+		<string>Es ist sonnig.</string>
+		<key>english-sound</key>
+		<string>climate-eng-26</string>
+		<key>german-sound</key>
+		<string>climate-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s hot.</string>
+		<key>german</key>
+		<string>Es ist heiß.
+
+</string>
+		<key>english-sound</key>
+		<string>climate-eng-27</string>
+		<key>german-sound</key>
+		<string>climate-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s clear.</string>
+		<key>german</key>
+		<string>Es ist klar.</string>
+		<key>english-sound</key>
+		<string>climate-eng-28</string>
+		<key>german-sound</key>
+		<string>climate-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s cloudy.</string>
+		<key>german</key>
+		<string>Es ist bewölkt.</string>
+		<key>english-sound</key>
+		<string>climate-eng-29</string>
+		<key>german-sound</key>
+		<string>climate-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s nice.</string>
+		<key>german</key>
+		<string>Es ist schön</string>
+		<key>english-sound</key>
+		<string>climate-eng-30</string>
+		<key>german-sound</key>
+		<string>climate-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s fresh.</string>
+		<key>german</key>
+		<string>Es ist frisch.</string>
+		<key>english-sound</key>
+		<string>climate-eng-31</string>
+		<key>german-sound</key>
+		<string>climate-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s icy.</string>
+		<key>german</key>
+		<string>Es ist eisig.</string>
+		<key>english-sound</key>
+		<string>climate-eng-32</string>
+		<key>german-sound</key>
+		<string>climate-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s hailing</string>
+		<key>german</key>
+		<string>Es hagelt</string>
+		<key>english-sound</key>
+		<string>climate-eng-33</string>
+		<key>german-sound</key>
+		<string>climate-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s raining.</string>
+		<key>german</key>
+		<string>Es regnet.</string>
+		<key>english-sound</key>
+		<string>climate-eng-34</string>
+		<key>german-sound</key>
+		<string>climate-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s snowing.</string>
+		<key>german</key>
+		<string>Es schneit.</string>
+		<key>english-sound</key>
+		<string>climate-eng-35</string>
+		<key>german-sound</key>
+		<string>climate-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s very hot.</string>
+		<key>german</key>
+		<string>Es ist sehr heiß.</string>
+		<key>english-sound</key>
+		<string>climate-eng-36</string>
+		<key>german-sound</key>
+		<string>climate-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s very cold.</string>
+		<key>german</key>
+		<string>Es ist sehr kalt</string>
+		<key>english-sound</key>
+		<string>climate-eng-37</string>
+		<key>german-sound</key>
+		<string>climate-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s good weather.</string>
+		<key>german</key>
+		<string>Es ist gutes Wetter.</string>
+		<key>english-sound</key>
+		<string>climate-eng-38</string>
+		<key>german-sound</key>
+		<string>climate-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s bad weather.</string>
+		<key>german</key>
+		<string>Es ist schlechtes Wetter.</string>
+		<key>english-sound</key>
+		<string>climate-eng-39</string>
+		<key>german-sound</key>
+		<string>climate-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s terrible weather.</string>
+		<key>german</key>
+		<string>Es ist schreckliches Wetter.</string>
+		<key>english-sound</key>
+		<string>climate-eng-40</string>
+		<key>german-sound</key>
+		<string>climate-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s beautiful weather.</string>
+		<key>german</key>
+		<string>Es ist wunderschönes Wetter.</string>
+		<key>english-sound</key>
+		<string>climate-eng-41</string>
+		<key>german-sound</key>
+		<string>climate-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sunshine</string>
+		<key>german</key>
+		<string>der Sonnenschein</string>
+		<key>english-sound</key>
+		<string>climate-eng-42</string>
+		<key>german-sound</key>
+		<string>climate-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fresh air</string>
+		<key>german</key>
+		<string>die frische Luft</string>
+		<key>english-sound</key>
+		<string>climate-eng-43</string>
+		<key>german-sound</key>
+		<string>climate-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forest</string>
+		<key>german</key>
+		<string>der Wald</string>
+		<key>english-sound</key>
+		<string>climate-eng-44</string>
+		<key>german-sound</key>
+		<string>climate-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lake</string>
+		<key>german</key>
+		<string>der See</string>
+		<key>english-sound</key>
+		<string>climate-eng-45</string>
+		<key>german-sound</key>
+		<string>climate-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mountain</string>
+		<key>german</key>
+		<string>der Berg</string>
+		<key>english-sound</key>
+		<string>climate-eng-46</string>
+		<key>german-sound</key>
+		<string>climate-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>river</string>
+		<key>german</key>
+		<string>der Fluss</string>
+		<key>english-sound</key>
+		<string>climate-eng-47</string>
+		<key>german-sound</key>
+		<string>climate-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sea</string>
+		<key>german</key>
+		<string>das Meer</string>
+		<key>english-sound</key>
+		<string>climate-eng-48</string>
+		<key>german-sound</key>
+		<string>climate-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ocean</string>
+		<key>german</key>
+		<string>der Ozean</string>
+		<key>english-sound</key>
+		<string>climate-eng-49</string>
+		<key>german-sound</key>
+		<string>climate-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>snow</string>
+		<key>german</key>
+		<string>Der Schnee</string>
+		<key>english-sound</key>
+		<string>climate-eng-50</string>
+		<key>german-sound</key>
+		<string>climate-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ice</string>
+		<key>german</key>
+		<string>Das Eis</string>
+		<key>english-sound</key>
+		<string>climate-eng-51</string>
+		<key>german-sound</key>
+		<string>climate-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>snowball fight</string>
+		<key>german</key>
+		<string>Die Schneeballschlacht</string>
+		<key>english-sound</key>
+		<string>climate-eng-52</string>
+		<key>german-sound</key>
+		<string>climate-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sun ray</string>
+		<key>german</key>
+		<string>der Sonnenstrahl</string>
+		<key>english-sound</key>
+		<string>climate-eng-53</string>
+		<key>german-sound</key>
+		<string>climate-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sunny day</string>
+		<key>german</key>
+		<string>ein sonniger Tag</string>
+		<key>english-sound</key>
+		<string>climate-eng-54</string>
+		<key>german-sound</key>
+		<string>climate-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>the sun is shining</string>
+		<key>german</key>
+		<string>die Sonne scheint</string>
+		<key>english-sound</key>
+		<string>climate-eng-55</string>
+		<key>german-sound</key>
+		<string>climate-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beach</string>
+		<key>german</key>
+		<string>der Strand</string>
+		<key>english-sound</key>
+		<string>climate-eng-56</string>
+		<key>german-sound</key>
+		<string>climate-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blue sky</string>
+		<key>german</key>
+		<string>der blaue Himmel</string>
+		<key>english-sound</key>
+		<string>climate-eng-57</string>
+		<key>german-sound</key>
+		<string>climate-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>air</string>
+		<key>german</key>
+		<string>die Luft</string>
+		<key>english-sound</key>
+		<string>climate-eng-58</string>
+		<key>german-sound</key>
+		<string>climate-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Earth</string>
+		<key>german</key>
+		<string>die Erde</string>
+		<key>english-sound</key>
+		<string>climate-eng-59</string>
+		<key>german-sound</key>
+		<string>climate-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Earth Day</string>
+		<key>german</key>
+		<string>der Tag der Erde</string>
+		<key>english-sound</key>
+		<string>climate-eng-60</string>
+		<key>german-sound</key>
+		<string>climate-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>environment</string>
+		<key>german</key>
+		<string>die Umwelt</string>
+		<key>english-sound</key>
+		<string>climate-eng-61</string>
+		<key>german-sound</key>
+		<string>climate-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pollution</string>
+		<key>german</key>
+		<string>die Umweltverschmutzung</string>
+		<key>english-sound</key>
+		<string>climate-eng-62</string>
+		<key>german-sound</key>
+		<string>climate-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>climate change</string>
+		<key>german</key>
+		<string>der Klimawandel</string>
+		<key>english-sound</key>
+		<string>climate-eng-63</string>
+		<key>german-sound</key>
+		<string>climate-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>global warming</string>
+		<key>german</key>
+		<string>die globale Erwärmung</string>
+		<key>english-sound</key>
+		<string>climate-eng-64</string>
+		<key>german-sound</key>
+		<string>climate-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>solar panel</string>
+		<key>german</key>
+		<string>der Sonnenkollektor</string>
+		<key>english-sound</key>
+		<string>climate-eng-65</string>
+		<key>german-sound</key>
+		<string>climate-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>recycling</string>
+		<key>german</key>
+		<string>das Recycling / die Wiederverwertung</string>
+		<key>english-sound</key>
+		<string>climate-eng-66</string>
+		<key>german-sound</key>
+		<string>climate-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to recycle</string>
+		<key>german</key>
+		<string>recyceln / wieder verwerten</string>
+		<key>english-sound</key>
+		<string>climate-eng-67</string>
+		<key>german-sound</key>
+		<string>climate-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>waste</string>
+		<key>german</key>
+		<string>der Abfall / der Müll</string>
+		<key>english-sound</key>
+		<string>climate-eng-68</string>
+		<key>german-sound</key>
+		<string>climate-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to waste</string>
+		<key>german</key>
+		<string>verschwenden</string>
+		<key>english-sound</key>
+		<string>climate-eng-69</string>
+		<key>german-sound</key>
+		<string>climate-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>zero waste</string>
+		<key>german</key>
+		<string>null-Abfall / null-Müll</string>
+		<key>english-sound</key>
+		<string>climate-eng-70</string>
+		<key>german-sound</key>
+		<string>climate-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eco-system</string>
+		<key>german</key>
+		<string>das Ökosystem</string>
+		<key>english-sound</key>
+		<string>climate-eng-71</string>
+		<key>german-sound</key>
+		<string>climate-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plastic</string>
+		<key>german</key>
+		<string>das Plastik / der Kunststoff</string>
+		<key>english-sound</key>
+		<string>climate-eng-72</string>
+		<key>german-sound</key>
+		<string>climate-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plastic bag</string>
+		<key>german</key>
+		<string>die Plastiktüte</string>
+		<key>english-sound</key>
+		<string>climate-eng-73</string>
+		<key>german-sound</key>
+		<string>climate-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>paper bag</string>
+		<key>german</key>
+		<string>die Papiertüte</string>
+		<key>english-sound</key>
+		<string>climate-eng-74</string>
+		<key>german-sound</key>
+		<string>climate-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>volcano</string>
+		<key>german</key>
+		<string>der Vulkan</string>
+		<key>english-sound</key>
+		<string>climate-eng-75</string>
+		<key>german-sound</key>
+		<string>climate-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>iceberg</string>
+		<key>german</key>
+		<string>der Eisberg</string>
+		<key>english-sound</key>
+		<string>climate-eng-76</string>
+		<key>german-sound</key>
+		<string>climate-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>typhoon</string>
+		<key>german</key>
+		<string>der Taifun</string>
+		<key>english-sound</key>
+		<string>climate-eng-77</string>
+		<key>german-sound</key>
+		<string>climate-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s windy outside</string>
+		<key>german</key>
+		<string>Draußen ist es windig</string>
+		<key>english-sound</key>
+		<string>climate-eng-78</string>
+		<key>german-sound</key>
+		<string>climate-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tornado</string>
+		<key>german</key>
+		<string>der Tornado</string>
+		<key>english-sound</key>
+		<string>climate-eng-79</string>
+		<key>german-sound</key>
+		<string>climate-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s cloudy today</string>
+		<key>german</key>
+		<string>Es ist bewölkt heute</string>
+		<key>english-sound</key>
+		<string>climate-eng-80</string>
+		<key>german-sound</key>
+		<string>climate-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flood</string>
+		<key>german</key>
+		<string>die Überschwemmung</string>
+		<key>english-sound</key>
+		<string>climate-eng-81</string>
+		<key>german-sound</key>
+		<string>climate-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>below zero</string>
+		<key>german</key>
+		<string>unter null</string>
+		<key>english-sound</key>
+		<string>climate-eng-82</string>
+		<key>german-sound</key>
+		<string>climate-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>below zero degrees</string>
+		<key>german</key>
+		<string>unter null Grad</string>
+		<key>english-sound</key>
+		<string>climate-eng-83</string>
+		<key>german-sound</key>
+		<string>climate-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heavy rain</string>
+		<key>german</key>
+		<string>starker Regen</string>
+		<key>english-sound</key>
+		<string>climate-eng-84</string>
+		<key>german-sound</key>
+		<string>climate-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>weather report</string>
+		<key>german</key>
+		<string>Wetterbericht</string>
+		<key>english-sound</key>
+		<string>climate-eng-85</string>
+		<key>german-sound</key>
+		<string>climate-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>check the weather report</string>
+		<key>german</key>
+		<string>den Wetterbericht prüfen</string>
+		<key>english-sound</key>
+		<string>climate-eng-86</string>
+		<key>german-sound</key>
+		<string>climate-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rainbow</string>
+		<key>german</key>
+		<string>der Regenbogen</string>
+		<key>english-sound</key>
+		<string>climate-eng-87</string>
+		<key>german-sound</key>
+		<string>climate-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>clear sky</string>
+		<key>german</key>
+		<string>heiter</string>
+		<key>english-sound</key>
+		<string>climate-eng-88</string>
+		<key>german-sound</key>
+		<string>climate-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Today the sky is clear.</string>
+		<key>german</key>
+		<string>Heute ist der Himmel heiter.</string>
+		<key>english-sound</key>
+		<string>climate-eng-89</string>
+		<key>german-sound</key>
+		<string>climate-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>drizzle</string>
+		<key>german</key>
+		<string>der Nieselregen</string>
+		<key>english-sound</key>
+		<string>climate-eng-90</string>
+		<key>german-sound</key>
+		<string>climate-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The temperature is below zero degrees.</string>
+		<key>german</key>
+		<string>Die Temperatur ist unter null Grad.</string>
+		<key>english-sound</key>
+		<string>climate-eng-91</string>
+		<key>german-sound</key>
+		<string>climate-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What&apos;s the weather like today?</string>
+		<key>german</key>
+		<string>Wie ist das Wetter heute?</string>
+		<key>english-sound</key>
+		<string>climate-eng-92</string>
+		<key>german-sound</key>
+		<string>climate-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is it warm / cold / cool?</string>
+		<key>german</key>
+		<string>Ist es warm / kalt / kühl?</string>
+		<key>english-sound</key>
+		<string>climate-eng-93</string>
+		<key>german-sound</key>
+		<string>climate-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What&apos;s the temperature?</string>
+		<key>german</key>
+		<string>Wie viel Grad sind es?</string>
+		<key>english-sound</key>
+		<string>climate-eng-94</string>
+		<key>german-sound</key>
+		<string>climate-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Is the sun shining?</string>
+		<key>german</key>
+		<string>Scheint die Sonne?</string>
+		<key>english-sound</key>
+		<string>climate-eng-95</string>
+		<key>german-sound</key>
+		<string>climate-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where&apos;s my umbrella?</string>
+		<key>german</key>
+		<string>Wo ist mein Regenschirm?</string>
+		<key>english-sound</key>
+		<string>climate-eng-96</string>
+		<key>german-sound</key>
+		<string>climate-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>There&apos;s lightning.</string>
+		<key>german</key>
+		<string>Es blitzt.</string>
+		<key>english-sound</key>
+		<string>climate-eng-97</string>
+		<key>german-sound</key>
+		<string>climate-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s thundering.</string>
+		<key>german</key>
+		<string>Es donnert.</string>
+		<key>english-sound</key>
+		<string>climate-eng-98</string>
+		<key>german-sound</key>
+		<string>climate-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s nice.</string>
+		<key>german</key>
+		<string>Es ist schön.</string>
+		<key>english-sound</key>
+		<string>climate-eng-99</string>
+		<key>german-sound</key>
+		<string>climate-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I feel cold. / I&apos;m cold.</string>
+		<key>german</key>
+		<string>Mir ist kalt.</string>
+		<key>english-sound</key>
+		<string>climate-eng-100</string>
+		<key>german-sound</key>
+		<string>climate-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Summer is here!</string>
+		<key>german</key>
+		<string>Der Sommer, der ist da!</string>
+		<key>english-sound</key>
+		<string>climate-eng-101</string>
+		<key>german-sound</key>
+		<string>climate-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How is the weather?</string>
+		<key>german</key>
+		<string>Wie ist das wetter?</string>
+		<key>english-sound</key>
+		<string>climate-eng-102</string>
+		<key>german-sound</key>
+		<string>climate-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The weather is nice</string>
+		<key>german</key>
+		<string>Das Wetter ist schön</string>
+		<key>english-sound</key>
+		<string>climate-eng-103</string>
+		<key>german-sound</key>
+		<string>climate-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you think it will rain?</string>
+		<key>german</key>
+		<string>Glauben Sie, es gibt Regen?</string>
+		<key>english-sound</key>
+		<string>climate-eng-104</string>
+		<key>german-sound</key>
+		<string>climate-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is the temperature?</string>
+		<key>german</key>
+		<string>Wie viel Grad sind es?</string>
+		<key>english-sound</key>
+		<string>climate-eng-105</string>
+		<key>german-sound</key>
+		<string>climate-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It is 24 degrees.</string>
+		<key>german</key>
+		<string>Es ist vierundzwanzig Grad.</string>
+		<key>english-sound</key>
+		<string>climate-eng-106</string>
+		<key>german-sound</key>
+		<string>climate-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>celsius</string>
+		<key>german</key>
+		<string>Celsius</string>
+		<key>english-sound</key>
+		<string>climate-eng-107</string>
+		<key>german-sound</key>
+		<string>climate-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fahrenheit</string>
+		<key>german</key>
+		<string>der Fahrenheit</string>
+		<key>english-sound</key>
+		<string>climate-eng-108</string>
+		<key>german-sound</key>
+		<string>climate-german-108</string>
+	</dict>
+</array>

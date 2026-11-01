@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>a dog</string>
+		<key>german</key>
+		<string>ein Hund (masculine and singular, that&apos;s why we used ein)</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a cat</string>
+		<key>german</key>
+		<string>eine Katze (feminine and singular, that&apos;s why we used eine)</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a rabbit</string>
+		<key>german</key>
+		<string>ein Kaninchen (neuter and singular, that&apos;s why we used ein)</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a man</string>
+		<key>german</key>
+		<string>ein Mann (masculine and singular, that&apos;s why we used ein)</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a woman</string>
+		<key>german</key>
+		<string>eine Frau (feminine and singular, that&apos;s why we used eine)</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>a girl</string>
+		<key>german</key>
+		<string>ein Mädchen (neuter and singular, that&apos;s why we used ein) [Note: almost all words with the ending -chen are neuter]</string>
+		<key>german-sound</key>
+		<string>indefinitearticle-6</string>
+	</dict>
+</array>

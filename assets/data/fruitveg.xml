@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>fruit</string>
+		<key>german</key>
+		<string>die Frucht / das Obst</string>
+		<key>english-sound</key>
+		<string>fv-eng-1</string>
+		<key>german-sound</key>
+		<string>fv-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vegetable</string>
+		<key>german</key>
+		<string>das Gemüse</string>
+		<key>english-sound</key>
+		<string>fv-eng-2</string>
+		<key>german-sound</key>
+		<string>fv-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>almond</string>
+		<key>german</key>
+		<string>die Mandel</string>
+		<key>english-sound</key>
+		<string>fv-eng-3</string>
+		<key>german-sound</key>
+		<string>fv-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apple</string>
+		<key>german</key>
+		<string>der Apfel</string>
+		<key>english-sound</key>
+		<string>fv-eng-4</string>
+		<key>german-sound</key>
+		<string>fv-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apricot</string>
+		<key>german</key>
+		<string>die Aprikose</string>
+		<key>english-sound</key>
+		<string>fv-eng-5</string>
+		<key>german-sound</key>
+		<string>fv-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>avocado</string>
+		<key>german</key>
+		<string>die Avocado</string>
+		<key>english-sound</key>
+		<string>fv-eng-6</string>
+		<key>german-sound</key>
+		<string>fv-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>banana</string>
+		<key>german</key>
+		<string>die Banane</string>
+		<key>english-sound</key>
+		<string>fv-eng-7</string>
+		<key>german-sound</key>
+		<string>fv-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>berry</string>
+		<key>german</key>
+		<string>die Beere</string>
+		<key>english-sound</key>
+		<string>fv-eng-8</string>
+		<key>german-sound</key>
+		<string>fv-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blackberry</string>
+		<key>german</key>
+		<string>die Brombeere</string>
+		<key>english-sound</key>
+		<string>fv-eng-9</string>
+		<key>german-sound</key>
+		<string>fv-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blueberry</string>
+		<key>german</key>
+		<string>die Blaubeere / die Heidelbeere</string>
+		<key>english-sound</key>
+		<string>fv-eng-10</string>
+		<key>german-sound</key>
+		<string>fv-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cherry</string>
+		<key>german</key>
+		<string>die Kirsche</string>
+		<key>english-sound</key>
+		<string>fv-eng-11</string>
+		<key>german-sound</key>
+		<string>fv-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chestnut</string>
+		<key>german</key>
+		<string>die Kastanie</string>
+		<key>english-sound</key>
+		<string>fv-eng-12</string>
+		<key>german-sound</key>
+		<string>fv-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coconut</string>
+		<key>german</key>
+		<string>die Kokosnuss</string>
+		<key>english-sound</key>
+		<string>fv-eng-13</string>
+		<key>german-sound</key>
+		<string>fv-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>date</string>
+		<key>german</key>
+		<string>die Dattel</string>
+		<key>english-sound</key>
+		<string>fv-eng-14</string>
+		<key>german-sound</key>
+		<string>fv-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fig</string>
+		<key>german</key>
+		<string>die Feige</string>
+		<key>english-sound</key>
+		<string>fv-eng-15</string>
+		<key>german-sound</key>
+		<string>fv-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grapefruit</string>
+		<key>german</key>
+		<string>die Grapefruit</string>
+		<key>english-sound</key>
+		<string>fv-eng-16</string>
+		<key>german-sound</key>
+		<string>fv-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grapes</string>
+		<key>german</key>
+		<string>die Traube</string>
+		<key>english-sound</key>
+		<string>fv-eng-17</string>
+		<key>german-sound</key>
+		<string>fv-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hazelnut</string>
+		<key>german</key>
+		<string>die Haselnuss</string>
+		<key>english-sound</key>
+		<string>fv-eng-18</string>
+		<key>german-sound</key>
+		<string>fv-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>kiwi</string>
+		<key>german</key>
+		<string>die Kiwi</string>
+		<key>english-sound</key>
+		<string>fv-eng-19</string>
+		<key>german-sound</key>
+		<string>fv-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leaf</string>
+		<key>german</key>
+		<string>das Blatt</string>
+		<key>english-sound</key>
+		<string>fv-eng-20</string>
+		<key>german-sound</key>
+		<string>fv-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lemon</string>
+		<key>german</key>
+		<string>die Zitrone</string>
+		<key>english-sound</key>
+		<string>fv-eng-21</string>
+		<key>german-sound</key>
+		<string>fv-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lime</string>
+		<key>german</key>
+		<string>die Limone</string>
+		<key>english-sound</key>
+		<string>fv-eng-22</string>
+		<key>german-sound</key>
+		<string>fv-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mandarin</string>
+		<key>german</key>
+		<string>die Mandarine</string>
+		<key>english-sound</key>
+		<string>fv-eng-23</string>
+		<key>german-sound</key>
+		<string>fv-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>melon</string>
+		<key>german</key>
+		<string>die Melone</string>
+		<key>english-sound</key>
+		<string>fv-eng-24</string>
+		<key>german-sound</key>
+		<string>fv-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>olive</string>
+		<key>german</key>
+		<string>die Olive</string>
+		<key>english-sound</key>
+		<string>fv-eng-25</string>
+		<key>german-sound</key>
+		<string>fv-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>orange</string>
+		<key>german</key>
+		<string>die Orange</string>
+		<key>english-sound</key>
+		<string>fv-eng-26</string>
+		<key>german-sound</key>
+		<string>fv-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>peach</string>
+		<key>german</key>
+		<string>der Pfirsich</string>
+		<key>english-sound</key>
+		<string>fv-eng-27</string>
+		<key>german-sound</key>
+		<string>fv-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pear</string>
+		<key>german</key>
+		<string>die Birne</string>
+		<key>english-sound</key>
+		<string>fv-eng-28</string>
+		<key>german-sound</key>
+		<string>fv-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pineapple</string>
+		<key>german</key>
+		<string>die Ananas</string>
+		<key>english-sound</key>
+		<string>fv-eng-29</string>
+		<key>german-sound</key>
+		<string>fv-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plum</string>
+		<key>german</key>
+		<string>die Pflaume / die Zwetschge</string>
+		<key>english-sound</key>
+		<string>fv-eng-30</string>
+		<key>german-sound</key>
+		<string>fv-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>raspberry</string>
+		<key>german</key>
+		<string>die Himbeere</string>
+		<key>english-sound</key>
+		<string>fv-eng-31</string>
+		<key>german-sound</key>
+		<string>fv-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>root</string>
+		<key>german</key>
+		<string>die Wurzel</string>
+		<key>english-sound</key>
+		<string>fv-eng-32</string>
+		<key>german-sound</key>
+		<string>fv-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>strawberry</string>
+		<key>german</key>
+		<string>die Erdbeere</string>
+		<key>english-sound</key>
+		<string>fv-eng-33</string>
+		<key>german-sound</key>
+		<string>fv-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tree</string>
+		<key>german</key>
+		<string>der Baum</string>
+		<key>english-sound</key>
+		<string>fv-eng-34</string>
+		<key>german-sound</key>
+		<string>fv-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tree trunk</string>
+		<key>german</key>
+		<string>der Stamm</string>
+		<key>english-sound</key>
+		<string>fv-eng-35</string>
+		<key>german-sound</key>
+		<string>fv-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>walnut</string>
+		<key>german</key>
+		<string>die Walnuss</string>
+		<key>english-sound</key>
+		<string>fv-eng-36</string>
+		<key>german-sound</key>
+		<string>fv-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>watermelon</string>
+		<key>german</key>
+		<string>die Wassermelone</string>
+		<key>english-sound</key>
+		<string>fv-eng-37</string>
+		<key>german-sound</key>
+		<string>fv-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cauliflower</string>
+		<key>german</key>
+		<string>der Blumenkohl</string>
+		<key>english-sound</key>
+		<string>fv-eng-38</string>
+		<key>german-sound</key>
+		<string>fv-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bean</string>
+		<key>german</key>
+		<string>die Bohne</string>
+		<key>english-sound</key>
+		<string>fv-eng-39</string>
+		<key>german-sound</key>
+		<string>fv-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pea</string>
+		<key>german</key>
+		<string>die Erbse</string>
+		<key>english-sound</key>
+		<string>fv-eng-40</string>
+		<key>german-sound</key>
+		<string>fv-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cucumber</string>
+		<key>german</key>
+		<string>die Gurke</string>
+		<key>english-sound</key>
+		<string>fv-eng-41</string>
+		<key>german-sound</key>
+		<string>fv-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>carrot</string>
+		<key>german</key>
+		<string>die Karotte</string>
+		<key>english-sound</key>
+		<string>fv-eng-42</string>
+		<key>german-sound</key>
+		<string>fv-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>potato</string>
+		<key>german</key>
+		<string>die Kartoffel</string>
+		<key>english-sound</key>
+		<string>fv-eng-43</string>
+		<key>german-sound</key>
+		<string>fv-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cabbage</string>
+		<key>german</key>
+		<string>der Kohl</string>
+		<key>english-sound</key>
+		<string>fv-eng-44</string>
+		<key>german-sound</key>
+		<string>fv-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pumpkin</string>
+		<key>german</key>
+		<string>der Kürbis</string>
+		<key>english-sound</key>
+		<string>fv-eng-45</string>
+		<key>german-sound</key>
+		<string>fv-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>raddish</string>
+		<key>german</key>
+		<string>der Rettich</string>
+		<key>english-sound</key>
+		<string>fv-eng-46</string>
+		<key>german-sound</key>
+		<string>fv-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lettuce</string>
+		<key>german</key>
+		<string>der Salat</string>
+		<key>english-sound</key>
+		<string>fv-eng-47</string>
+		<key>german-sound</key>
+		<string>fv-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tomato</string>
+		<key>german</key>
+		<string>die Tomate</string>
+		<key>english-sound</key>
+		<string>fv-eng-48</string>
+		<key>german-sound</key>
+		<string>fv-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>onion</string>
+		<key>german</key>
+		<string>die Zwiebel</string>
+		<key>english-sound</key>
+		<string>fv-eng-49</string>
+		<key>german-sound</key>
+		<string>fv-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>green beans</string>
+		<key>german</key>
+		<string>die grünen Bohnen</string>
+		<key>english-sound</key>
+		<string>fv-eng-50</string>
+		<key>german-sound</key>
+		<string>fv-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>corn</string>
+		<key>german</key>
+		<string>der Mais</string>
+		<key>english-sound</key>
+		<string>fv-eng-51</string>
+		<key>german-sound</key>
+		<string>fv-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mango</string>
+		<key>german</key>
+		<string>die Mango</string>
+		<key>english-sound</key>
+		<string>fv-eng-52</string>
+		<key>german-sound</key>
+		<string>fv-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lichee</string>
+		<key>german</key>
+		<string>die Litschi</string>
+		<key>english-sound</key>
+		<string>fv-eng-53</string>
+		<key>german-sound</key>
+		<string>fv-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>passion fruit</string>
+		<key>german</key>
+		<string>die Maracuja</string>
+		<key>english-sound</key>
+		<string>fv-eng-54</string>
+		<key>german-sound</key>
+		<string>fv-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>peanut</string>
+		<key>german</key>
+		<string>die Erdnuss</string>
+		<key>english-sound</key>
+		<string>fv-eng-55</string>
+		<key>german-sound</key>
+		<string>fv-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cashew nut</string>
+		<key>german</key>
+		<string>die Cashew-Kerne</string>
+		<key>english-sound</key>
+		<string>fv-eng-56</string>
+		<key>german-sound</key>
+		<string>fv-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>radish</string>
+		<key>german</key>
+		<string>das Radieschen</string>
+		<key>english-sound</key>
+		<string>fv-eng-57</string>
+		<key>german-sound</key>
+		<string>fv-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lentil</string>
+		<key>german</key>
+		<string>die Linse</string>
+		<key>english-sound</key>
+		<string>fv-eng-58</string>
+		<key>german-sound</key>
+		<string>fv-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>broccoli</string>
+		<key>german</key>
+		<string>der Brokkoli</string>
+		<key>english-sound</key>
+		<string>fv-eng-59</string>
+		<key>german-sound</key>
+		<string>fv-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leek</string>
+		<key>german</key>
+		<string>der Lauch</string>
+		<key>english-sound</key>
+		<string>fv-eng-60</string>
+		<key>german-sound</key>
+		<string>fv-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eggplant</string>
+		<key>german</key>
+		<string>die Aubergine</string>
+		<key>english-sound</key>
+		<string>fv-eng-61</string>
+		<key>german-sound</key>
+		<string>fv-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garlic</string>
+		<key>german</key>
+		<string>der Knoblauch</string>
+		<key>english-sound</key>
+		<string>fv-eng-62</string>
+		<key>german-sound</key>
+		<string>fv-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parsley</string>
+		<key>german</key>
+		<string>die Petersilie</string>
+		<key>english-sound</key>
+		<string>fv-eng-63</string>
+		<key>german-sound</key>
+		<string>fv-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chilli</string>
+		<key>german</key>
+		<string>die Chilli</string>
+		<key>english-sound</key>
+		<string>fv-eng-64</string>
+		<key>german-sound</key>
+		<string>fv-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horseradish</string>
+		<key>german</key>
+		<string>der Meerrettich</string>
+		<key>english-sound</key>
+		<string>fv-eng-65</string>
+		<key>german-sound</key>
+		<string>fv-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>celery</string>
+		<key>german</key>
+		<string>der Sellerie</string>
+		<key>english-sound</key>
+		<string>fv-eng-66</string>
+		<key>german-sound</key>
+		<string>fv-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vegetarian</string>
+		<key>german</key>
+		<string>der Vegetarier</string>
+		<key>english-sound</key>
+		<string>fv-eng-67</string>
+		<key>german-sound</key>
+		<string>fv-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>salad</string>
+		<key>german</key>
+		<string>der Salat</string>
+		<key>english-sound</key>
+		<string>fv-eng-68</string>
+		<key>german-sound</key>
+		<string>fv-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mushroom</string>
+		<key>german</key>
+		<string>der Pilz</string>
+		<key>english-sound</key>
+		<string>fv-eng-69</string>
+		<key>german-sound</key>
+		<string>fv-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pomegranate</string>
+		<key>german</key>
+		<string>der Granatapfel</string>
+		<key>english-sound</key>
+		<string>fv-eng-70</string>
+		<key>german-sound</key>
+		<string>fv-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spinach</string>
+		<key>german</key>
+		<string>der Spinat</string>
+		<key>english-sound</key>
+		<string>fv-eng-71</string>
+		<key>german-sound</key>
+		<string>fv-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pepper</string>
+		<key>german</key>
+		<string>der Pfeffer / der Paprika</string>
+		<key>english-sound</key>
+		<string>fv-eng-72</string>
+		<key>german-sound</key>
+		<string>fv-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>red cabbage</string>
+		<key>german</key>
+		<string>der Rotkohl</string>
+		<key>english-sound</key>
+		<string>fv-eng-73</string>
+		<key>german-sound</key>
+		<string>fv-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>asparagus</string>
+		<key>german</key>
+		<string>der Spargel</string>
+		<key>english-sound</key>
+		<string>fv-eng-74</string>
+		<key>german-sound</key>
+		<string>fv-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beetroot</string>
+		<key>german</key>
+		<string>die Rote Bete</string>
+		<key>english-sound</key>
+		<string>fv-eng-75</string>
+		<key>german-sound</key>
+		<string>fv-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ginger root</string>
+		<key>german</key>
+		<string>die Ingwerwurzel</string>
+		<key>english-sound</key>
+		<string>fv-eng-76</string>
+		<key>german-sound</key>
+		<string>fv-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>turnip</string>
+		<key>german</key>
+		<string>die Rübe</string>
+		<key>english-sound</key>
+		<string>fv-eng-77</string>
+		<key>german-sound</key>
+		<string>fv-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sweet potato</string>
+		<key>german</key>
+		<string>die Süßkartoffel</string>
+		<key>english-sound</key>
+		<string>fv-eng-78</string>
+		<key>german-sound</key>
+		<string>fv-german-78</string>
+	</dict>
+</array>

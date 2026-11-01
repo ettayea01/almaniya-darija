@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>fruit trees</string>
+		<key>german</key>
+		<string>die Obstbäume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-1</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apple tree</string>
+		<key>german</key>
+		<string>der Apfelbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-2</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pear tree</string>
+		<key>german</key>
+		<string>der Birnbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-3</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cherry tree</string>
+		<key>german</key>
+		<string>der Kirschbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-4</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>orange tree</string>
+		<key>german</key>
+		<string>der Orangenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-5</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lemon tree</string>
+		<key>german</key>
+		<string>der Zitronenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-6</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lime tree</string>
+		<key>german</key>
+		<string>der Limonenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-7</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plum tree</string>
+		<key>german</key>
+		<string>der Pflaumenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-8</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mango tree</string>
+		<key>german</key>
+		<string>der Mangobaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-9</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>olive tree</string>
+		<key>german</key>
+		<string>der Olivenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-10</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>almond tree</string>
+		<key>german</key>
+		<string>der Mandelbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-11</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>walnut tree</string>
+		<key>german</key>
+		<string>der Walnussbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-12</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chestnut tree</string>
+		<key>german</key>
+		<string>der Kastanienbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-13</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apricot tree</string>
+		<key>german</key>
+		<string>der Aprikosenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-14</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fig tree</string>
+		<key>german</key>
+		<string>der Feigenbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-15</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>palm tree</string>
+		<key>german</key>
+		<string>die Palme</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-16</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>maple tree</string>
+		<key>german</key>
+		<string>der Ahornbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-17</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coffee tree</string>
+		<key>german</key>
+		<string>der Kaffeebaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-18</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tea tree</string>
+		<key>german</key>
+		<string>der Teebaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-19</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sugar cane</string>
+		<key>german</key>
+		<string>das Zuckerrohr</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-20</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Christmas tree</string>
+		<key>german</key>
+		<string>der Weihnachtsbaum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-21</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>oak tree</string>
+		<key>german</key>
+		<string>die Eiche</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-22</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tree</string>
+		<key>german</key>
+		<string>der Baum</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-23</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wood</string>
+		<key>german</key>
+		<string>das Holz</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-24</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forest / woods</string>
+		<key>german</key>
+		<string>der Wald</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-25</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vegetable plot</string>
+		<key>german</key>
+		<string>das Gemüsebeet</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-26</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden</string>
+		<key>german</key>
+		<string>der Garten</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-27</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flower garden</string>
+		<key>german</key>
+		<string>der Blumengarten</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-28</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>roof garden</string>
+		<key>german</key>
+		<string>der Dachgarten</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-29</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden tools</string>
+		<key>german</key>
+		<string>die Gartengeräte</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-30</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawnmower</string>
+		<key>german</key>
+		<string>der Rasenmäher</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-31</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hoe</string>
+		<key>german</key>
+		<string>die Hacke</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-32</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spade</string>
+		<key>german</key>
+		<string>der Spaten</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-33</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden fork</string>
+		<key>german</key>
+		<string>die Gartengabel</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-34</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wheelbarrow</string>
+		<key>german</key>
+		<string>die Schubkarre</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-35</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sprinkler</string>
+		<key>german</key>
+		<string>der Rasensprenger</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-36</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>watering can</string>
+		<key>german</key>
+		<string>die Giesskanne</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-37</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hose</string>
+		<key>german</key>
+		<string>der Schlauch</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-38</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>strimmer</string>
+		<key>german</key>
+		<string>die Motorsense</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-39</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>barbecue</string>
+		<key>german</key>
+		<string>der Grill</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-40</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>charcoal</string>
+		<key>german</key>
+		<string>die Holzkohle</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-41</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skewer</string>
+		<key>german</key>
+		<string>der Spiess</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-42</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawn turf</string>
+		<key>german</key>
+		<string>der Torfrasen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-43</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>artificial turf</string>
+		<key>german</key>
+		<string>der Kunstrasen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-44</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lawn</string>
+		<key>german</key>
+		<string>der Rasen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-45</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flower bed</string>
+		<key>german</key>
+		<string>das Blumenbeet</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-46</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>earth</string>
+		<key>german</key>
+		<string>die Erde</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-47</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flower</string>
+		<key>german</key>
+		<string>die Blume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-48</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>path</string>
+		<key>german</key>
+		<string>der Pfad</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-49</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shed</string>
+		<key>german</key>
+		<string>der Schuppen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-50</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>decking</string>
+		<key>german</key>
+		<string>der Bohlenbelag</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-51</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden bench</string>
+		<key>german</key>
+		<string>die Garten Bank</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-52</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden furniture</string>
+		<key>german</key>
+		<string>die Gartenmöbel</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-53</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>garden chair</string>
+		<key>german</key>
+		<string>der Gartenstuhl</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-54</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>folding chair</string>
+		<key>german</key>
+		<string>der Klappstuhl</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-55</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>child&apos;s swing</string>
+		<key>german</key>
+		<string>die Kinderschaukel</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-56</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>summer house</string>
+		<key>german</key>
+		<string>das Sommerhaus</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-57</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fish pond</string>
+		<key>german</key>
+		<string>der Fischteich</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-58</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>compost</string>
+		<key>german</key>
+		<string>der Kompost</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-59</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>compost bin</string>
+		<key>german</key>
+		<string>der Komposteimer</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-60</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grass clippings</string>
+		<key>german</key>
+		<string>der Rasenschnitt</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-61</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to plant</string>
+		<key>german</key>
+		<string>pflanzen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-62</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seed</string>
+		<key>german</key>
+		<string>der Samen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-63</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seedling</string>
+		<key>german</key>
+		<string>der Setzling</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-64</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cutting</string>
+		<key>german</key>
+		<string>der Ableger</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-65</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to grow, cultivate</string>
+		<key>german</key>
+		<string>anbauen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-66</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to dig</string>
+		<key>german</key>
+		<string>graben</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-67</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to hoe</string>
+		<key>german</key>
+		<string>hacken</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-68</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to water the plants</string>
+		<key>german</key>
+		<string>die Pflanzen giessen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-69</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to barbecue</string>
+		<key>german</key>
+		<string>grillen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-70</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to light the barbecue</string>
+		<key>german</key>
+		<string>das Grillfeuer anzünden</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-71</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>iris</string>
+		<key>german</key>
+		<string>die Schwertlilie</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-72</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lily</string>
+		<key>german</key>
+		<string>die Lilie</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-73</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>daffodil</string>
+		<key>german</key>
+		<string>die Osterglocke</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-74</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>orchid</string>
+		<key>german</key>
+		<string>die Orchidee</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-75</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sweet pea</string>
+		<key>german</key>
+		<string>die Wicke</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-76</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lavatera</string>
+		<key>german</key>
+		<string>die Bechermalve</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-77</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lavender</string>
+		<key>german</key>
+		<string>der Lavendel</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-78</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lilac</string>
+		<key>german</key>
+		<string>der Flieder</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-79</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>honeysuckle</string>
+		<key>german</key>
+		<string>das Geissblatt</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-80</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jasmine</string>
+		<key>german</key>
+		<string>der Jasmin</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-81</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>daisy</string>
+		<key>german</key>
+		<string>die Gänseblume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-82</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>violet</string>
+		<key>german</key>
+		<string>das Veilchen</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-83</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>marigold</string>
+		<key>german</key>
+		<string>die Ringelblume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-84</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>forget-me-not</string>
+		<key>german</key>
+		<string>das Vergissmeinnicht</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-85</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>poppy</string>
+		<key>german</key>
+		<string>der Mohn</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-86</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rose</string>
+		<key>german</key>
+		<string>die Rose</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-87</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tulip</string>
+		<key>german</key>
+		<string>die Tulpe</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-88</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>clover</string>
+		<key>german</key>
+		<string>der Klee</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-89</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>buttercup</string>
+		<key>german</key>
+		<string>die Butterblume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-90</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>weed</string>
+		<key>german</key>
+		<string>das Unkraut</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-91</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bamboo</string>
+		<key>german</key>
+		<string>der Bambus</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-92</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>water lily</string>
+		<key>german</key>
+		<string>die Seerose</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-93</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sunflower</string>
+		<key>german</key>
+		<string>die Sonnenblume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-94</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stable</string>
+		<key>german</key>
+		<string>der Stall</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-95</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>barn</string>
+		<key>german</key>
+		<string>die Scheune</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-96</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cattle shed</string>
+		<key>german</key>
+		<string>der Viehstall</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-97</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dairy</string>
+		<key>german</key>
+		<string>die Molkerei</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-98</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>orchard</string>
+		<key>german</key>
+		<string>der Obstgarten</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-99</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vineyard</string>
+		<key>german</key>
+		<string>der Wingert</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-100</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>farmyard</string>
+		<key>german</key>
+		<string>der Bauernhof</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-101</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>farmer</string>
+		<key>german</key>
+		<string>der Bauer / die Bäuerin</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-102</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pond</string>
+		<key>german</key>
+		<string>der Teich</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-103</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>field</string>
+		<key>german</key>
+		<string>das Feld</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-104</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fertile land</string>
+		<key>german</key>
+		<string>das fruchtbare Land</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-105</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>organically-grown food</string>
+		<key>german</key>
+		<string>die Bionahrungsmittel</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-106</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fruit or vegetable picking</string>
+		<key>german</key>
+		<string>das Obst oder Gemüsepflücken</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-107</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>soil</string>
+		<key>german</key>
+		<string>der Boden / die Erde</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-108</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fertile soil</string>
+		<key>german</key>
+		<string>der fruchtbare Boden</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-109</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sandy soil</string>
+		<key>german</key>
+		<string>der sandige Boden</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-110</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stony land</string>
+		<key>german</key>
+		<string>der steinige Boden</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-111</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tractor</string>
+		<key>german</key>
+		<string>der Traktor</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-112</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-112</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trailer</string>
+		<key>german</key>
+		<string>der Anhänger</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-113</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-113</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seed-sower</string>
+		<key>german</key>
+		<string>die Sämaschine</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-114</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-114</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>crop spraying</string>
+		<key>german</key>
+		<string>die Schädlingsbekämpfung</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-115</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-115</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grass</string>
+		<key>german</key>
+		<string>das Gras</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-116</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-116</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>river</string>
+		<key>german</key>
+		<string>der Fluss</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-117</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-117</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hedge</string>
+		<key>german</key>
+		<string>die Hecke</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-118</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-118</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wild flower</string>
+		<key>german</key>
+		<string>die Feldblume</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-119</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-119</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>waterfall</string>
+		<key>german</key>
+		<string>der Wasserfall</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-120</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-120</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cave</string>
+		<key>german</key>
+		<string>die Höhle</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-121</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-121</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>crop</string>
+		<key>german</key>
+		<string>die Ernte</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-122</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-122</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plant</string>
+		<key>german</key>
+		<string>die Pflanze</string>
+		<key>english-sound</key>
+		<string>cropsplants-eng-123</string>
+		<key>german-sound</key>
+		<string>cropsplants-german-123</string>
+	</dict>
+</array>

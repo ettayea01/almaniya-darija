@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>animal</string>
+		<key>german</key>
+		<string>das Tier</string>
+		<key>english-sound</key>
+		<string>animals-eng-1</string>
+		<key>german-sound</key>
+		<string>animals-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dog</string>
+		<key>german</key>
+		<string>der Hund</string>
+		<key>english-sound</key>
+		<string>animals-eng-2</string>
+		<key>german-sound</key>
+		<string>animals-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wolf</string>
+		<key>german</key>
+		<string>der Wolf</string>
+		<key>english-sound</key>
+		<string>animals-eng-3</string>
+		<key>german-sound</key>
+		<string>animals-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fox</string>
+		<key>german</key>
+		<string>der Fuchs</string>
+		<key>english-sound</key>
+		<string>animals-eng-4</string>
+		<key>german-sound</key>
+		<string>animals-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>puppy</string>
+		<key>german</key>
+		<string>der Welpe</string>
+		<key>english-sound</key>
+		<string>animals-eng-5</string>
+		<key>german-sound</key>
+		<string>animals-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cat</string>
+		<key>german</key>
+		<string>die Katze</string>
+		<key>english-sound</key>
+		<string>animals-eng-6</string>
+		<key>german-sound</key>
+		<string>animals-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mouse</string>
+		<key>german</key>
+		<string>die Maus</string>
+		<key>english-sound</key>
+		<string>animals-eng-7</string>
+		<key>german-sound</key>
+		<string>animals-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rat</string>
+		<key>german</key>
+		<string>die Ratte</string>
+		<key>english-sound</key>
+		<string>animals-eng-8</string>
+		<key>german-sound</key>
+		<string>animals-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hamster</string>
+		<key>german</key>
+		<string>der Hamster</string>
+		<key>english-sound</key>
+		<string>animals-eng-9</string>
+		<key>german-sound</key>
+		<string>animals-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rabbit</string>
+		<key>german</key>
+		<string>das Kaninchen</string>
+		<key>english-sound</key>
+		<string>animals-eng-10</string>
+		<key>german-sound</key>
+		<string>animals-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>squirrel</string>
+		<key>german</key>
+		<string>das Eichhörnchen</string>
+		<key>english-sound</key>
+		<string>animals-eng-11</string>
+		<key>german-sound</key>
+		<string>animals-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beaver</string>
+		<key>german</key>
+		<string>der Biber</string>
+		<key>english-sound</key>
+		<string>animals-eng-12</string>
+		<key>german-sound</key>
+		<string>animals-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>muskrat</string>
+		<key>german</key>
+		<string>die Bisamratte</string>
+		<key>english-sound</key>
+		<string>animals-eng-13</string>
+		<key>german-sound</key>
+		<string>animals-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bear</string>
+		<key>german</key>
+		<string>der Bär</string>
+		<key>english-sound</key>
+		<string>animals-eng-14</string>
+		<key>german-sound</key>
+		<string>animals-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>deer</string>
+		<key>german</key>
+		<string>der Hirsch</string>
+		<key>english-sound</key>
+		<string>animals-eng-15</string>
+		<key>german-sound</key>
+		<string>animals-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rendeer</string>
+		<key>german</key>
+		<string>das Rentier</string>
+		<key>english-sound</key>
+		<string>animals-eng-16</string>
+		<key>german-sound</key>
+		<string>animals-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bat</string>
+		<key>german</key>
+		<string>die Fledermaus</string>
+		<key>english-sound</key>
+		<string>animals-eng-17</string>
+		<key>german-sound</key>
+		<string>animals-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seal</string>
+		<key>german</key>
+		<string>der Seehund</string>
+		<key>english-sound</key>
+		<string>animals-eng-18</string>
+		<key>german-sound</key>
+		<string>animals-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cow</string>
+		<key>german</key>
+		<string>die Kuh</string>
+		<key>english-sound</key>
+		<string>animals-eng-19</string>
+		<key>german-sound</key>
+		<string>animals-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bull</string>
+		<key>german</key>
+		<string>der Bulle</string>
+		<key>english-sound</key>
+		<string>animals-eng-20</string>
+		<key>german-sound</key>
+		<string>animals-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>goat</string>
+		<key>german</key>
+		<string>die Ziege</string>
+		<key>english-sound</key>
+		<string>animals-eng-21</string>
+		<key>german-sound</key>
+		<string>animals-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horse</string>
+		<key>german</key>
+		<string>das Pferd</string>
+		<key>english-sound</key>
+		<string>animals-eng-22</string>
+		<key>german-sound</key>
+		<string>animals-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sheep</string>
+		<key>german</key>
+		<string>das Schaf</string>
+		<key>english-sound</key>
+		<string>animals-eng-23</string>
+		<key>german-sound</key>
+		<string>animals-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Tuna Fish</string>
+		<key>german</key>
+		<string>der Tunfisch / der Thunfisch</string>
+		<key>english-sound</key>
+		<string>animals-eng-24</string>
+		<key>german-sound</key>
+		<string>animals-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Alligator</string>
+		<key>german</key>
+		<string>der Alligator</string>
+		<key>english-sound</key>
+		<string>animals-eng-25</string>
+		<key>german-sound</key>
+		<string>animals-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Crocodile</string>
+		<key>german</key>
+		<string>das Krokodil</string>
+		<key>english-sound</key>
+		<string>animals-eng-26</string>
+		<key>german-sound</key>
+		<string>animals-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Lobster</string>
+		<key>german</key>
+		<string>der Hummer</string>
+		<key>english-sound</key>
+		<string>animals-eng-27</string>
+		<key>german-sound</key>
+		<string>animals-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Crab</string>
+		<key>german</key>
+		<string>die Krabbe</string>
+		<key>english-sound</key>
+		<string>animals-eng-28</string>
+		<key>german-sound</key>
+		<string>animals-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Dolphin</string>
+		<key>german</key>
+		<string>der Delphin</string>
+		<key>english-sound</key>
+		<string>animals-eng-29</string>
+		<key>german-sound</key>
+		<string>animals-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Fish</string>
+		<key>german</key>
+		<string>der Fisch</string>
+		<key>english-sound</key>
+		<string>animals-eng-30</string>
+		<key>german-sound</key>
+		<string>animals-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Frog</string>
+		<key>german</key>
+		<string>der Frosch</string>
+		<key>english-sound</key>
+		<string>animals-eng-31</string>
+		<key>german-sound</key>
+		<string>animals-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Goldfish</string>
+		<key>german</key>
+		<string>der Schleierschwanz / der Goldfisch</string>
+		<key>english-sound</key>
+		<string>animals-eng-32</string>
+		<key>german-sound</key>
+		<string>animals-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grasshopper</string>
+		<key>german</key>
+		<string>die Heuschrecke</string>
+		<key>english-sound</key>
+		<string>animals-eng-33</string>
+		<key>german-sound</key>
+		<string>animals-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cricket</string>
+		<key>german</key>
+		<string>die Grille</string>
+		<key>english-sound</key>
+		<string>animals-eng-34</string>
+		<key>german-sound</key>
+		<string>animals-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cockroach</string>
+		<key>german</key>
+		<string>die Küchenschabe</string>
+		<key>english-sound</key>
+		<string>animals-eng-35</string>
+		<key>german-sound</key>
+		<string>animals-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fly</string>
+		<key>german</key>
+		<string>die Fliege</string>
+		<key>english-sound</key>
+		<string>animals-eng-36</string>
+		<key>german-sound</key>
+		<string>animals-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mosquito</string>
+		<key>german</key>
+		<string>die Mücke</string>
+		<key>english-sound</key>
+		<string>animals-eng-37</string>
+		<key>german-sound</key>
+		<string>animals-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ladybug</string>
+		<key>german</key>
+		<string>der Marienkäfer</string>
+		<key>english-sound</key>
+		<string>animals-eng-38</string>
+		<key>german-sound</key>
+		<string>animals-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>butterfly</string>
+		<key>german</key>
+		<string>der Schmetterling</string>
+		<key>english-sound</key>
+		<string>animals-eng-39</string>
+		<key>german-sound</key>
+		<string>animals-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ant</string>
+		<key>german</key>
+		<string>die Ameise</string>
+		<key>english-sound</key>
+		<string>animals-eng-40</string>
+		<key>german-sound</key>
+		<string>animals-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bee</string>
+		<key>german</key>
+		<string>die Biene</string>
+		<key>english-sound</key>
+		<string>animals-eng-41</string>
+		<key>german-sound</key>
+		<string>animals-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rhino</string>
+		<key>german</key>
+		<string>das Nashorn</string>
+		<key>english-sound</key>
+		<string>animals-eng-42</string>
+		<key>german-sound</key>
+		<string>animals-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hippo</string>
+		<key>german</key>
+		<string>das Flusspferd</string>
+		<key>english-sound</key>
+		<string>animals-eng-43</string>
+		<key>german-sound</key>
+		<string>animals-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>camel</string>
+		<key>german</key>
+		<string>das Kamel</string>
+		<key>english-sound</key>
+		<string>animals-eng-44</string>
+		<key>german-sound</key>
+		<string>animals-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>chicken</string>
+		<key>german</key>
+		<string>das Hühnchen / das Huhn</string>
+		<key>english-sound</key>
+		<string>animals-eng-45</string>
+		<key>german-sound</key>
+		<string>animals-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pet</string>
+		<key>german</key>
+		<string>das Haustier</string>
+		<key>english-sound</key>
+		<string>animals-eng-46</string>
+		<key>german-sound</key>
+		<string>animals-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>whale</string>
+		<key>german</key>
+		<string>der Wal</string>
+		<key>english-sound</key>
+		<string>animals-eng-47</string>
+		<key>german-sound</key>
+		<string>animals-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bird</string>
+		<key>german</key>
+		<string>der Vogel</string>
+		<key>english-sound</key>
+		<string>animals-eng-48</string>
+		<key>german-sound</key>
+		<string>animals-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tiger</string>
+		<key>german</key>
+		<string>der Tiger</string>
+		<key>english-sound</key>
+		<string>animals-eng-49</string>
+		<key>german-sound</key>
+		<string>animals-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scorpion</string>
+		<key>german</key>
+		<string>der Skorpion</string>
+		<key>english-sound</key>
+		<string>animals-eng-50</string>
+		<key>german-sound</key>
+		<string>animals-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>swan</string>
+		<key>german</key>
+		<string>der Schwan</string>
+		<key>english-sound</key>
+		<string>animals-eng-51</string>
+		<key>german-sound</key>
+		<string>animals-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>penguin</string>
+		<key>german</key>
+		<string>der Pinguin</string>
+		<key>english-sound</key>
+		<string>animals-eng-52</string>
+		<key>german-sound</key>
+		<string>animals-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parrot</string>
+		<key>german</key>
+		<string>der Papagei</string>
+		<key>english-sound</key>
+		<string>animals-eng-53</string>
+		<key>german-sound</key>
+		<string>animals-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lion</string>
+		<key>german</key>
+		<string>der Löwe</string>
+		<key>english-sound</key>
+		<string>animals-eng-54</string>
+		<key>german-sound</key>
+		<string>animals-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beetle</string>
+		<key>german</key>
+		<string>der Käfer</string>
+		<key>english-sound</key>
+		<string>animals-eng-55</string>
+		<key>german-sound</key>
+		<string>animals-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>donkey</string>
+		<key>german</key>
+		<string>der Esel</string>
+		<key>english-sound</key>
+		<string>animals-eng-56</string>
+		<key>german-sound</key>
+		<string>animals-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>elephant</string>
+		<key>german</key>
+		<string>der Elefant</string>
+		<key>english-sound</key>
+		<string>animals-eng-57</string>
+		<key>german-sound</key>
+		<string>animals-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>polar bear</string>
+		<key>german</key>
+		<string>der Eisbär</string>
+		<key>english-sound</key>
+		<string>animals-eng-58</string>
+		<key>german-sound</key>
+		<string>animals-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dolphine</string>
+		<key>german</key>
+		<string>der Delfin</string>
+		<key>english-sound</key>
+		<string>animals-eng-59</string>
+		<key>german-sound</key>
+		<string>animals-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>monkey</string>
+		<key>german</key>
+		<string>der Affe</string>
+		<key>english-sound</key>
+		<string>animals-eng-60</string>
+		<key>german-sound</key>
+		<string>animals-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pigeon</string>
+		<key>german</key>
+		<string>die Taube</string>
+		<key>english-sound</key>
+		<string>animals-eng-61</string>
+		<key>german-sound</key>
+		<string>animals-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spider</string>
+		<key>german</key>
+		<string>die Spinne</string>
+		<key>english-sound</key>
+		<string>animals-eng-62</string>
+		<key>german-sound</key>
+		<string>animals-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>snake</string>
+		<key>german</key>
+		<string>die Schlange</string>
+		<key>english-sound</key>
+		<string>animals-eng-63</string>
+		<key>german-sound</key>
+		<string>animals-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>turtle</string>
+		<key>german</key>
+		<string>die Schildkröte</string>
+		<key>english-sound</key>
+		<string>animals-eng-64</string>
+		<key>german-sound</key>
+		<string>animals-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jellyfish</string>
+		<key>german</key>
+		<string>die Qualle</string>
+		<key>english-sound</key>
+		<string>animals-eng-65</string>
+		<key>german-sound</key>
+		<string>animals-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shrimp</string>
+		<key>german</key>
+		<string>die Krabbe</string>
+		<key>english-sound</key>
+		<string>animals-eng-66</string>
+		<key>german-sound</key>
+		<string>animals-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>giraffe</string>
+		<key>german</key>
+		<string>die Giraffe</string>
+		<key>english-sound</key>
+		<string>animals-eng-67</string>
+		<key>german-sound</key>
+		<string>animals-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>goose</string>
+		<key>german</key>
+		<string>die Gans</string>
+		<key>english-sound</key>
+		<string>animals-eng-68</string>
+		<key>german-sound</key>
+		<string>animals-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>owl</string>
+		<key>german</key>
+		<string>die Eule</string>
+		<key>english-sound</key>
+		<string>animals-eng-69</string>
+		<key>german-sound</key>
+		<string>animals-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>duck</string>
+		<key>german</key>
+		<string>die Ente</string>
+		<key>english-sound</key>
+		<string>animals-eng-70</string>
+		<key>german-sound</key>
+		<string>animals-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>eagle</string>
+		<key>german</key>
+		<string>der Adler</string>
+		<key>english-sound</key>
+		<string>animals-eng-71</string>
+		<key>german-sound</key>
+		<string>animals-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>zebra</string>
+		<key>german</key>
+		<string>das Zebra</string>
+		<key>english-sound</key>
+		<string>animals-eng-72</string>
+		<key>german-sound</key>
+		<string>animals-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pig</string>
+		<key>german</key>
+		<string>das Schwein</string>
+		<key>english-sound</key>
+		<string>animals-eng-73</string>
+		<key>german-sound</key>
+		<string>animals-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lizard</string>
+		<key>german</key>
+		<string>die Eidechse</string>
+		<key>english-sound</key>
+		<string>animals-eng-74</string>
+		<key>german-sound</key>
+		<string>animals-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lamb</string>
+		<key>german</key>
+		<string>das Lamm</string>
+		<key>english-sound</key>
+		<string>animals-eng-75</string>
+		<key>german-sound</key>
+		<string>animals-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hedgehog</string>
+		<key>german</key>
+		<string>der Igel</string>
+		<key>english-sound</key>
+		<string>animals-eng-76</string>
+		<key>german-sound</key>
+		<string>animals-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leopard</string>
+		<key>german</key>
+		<string>der Leopard</string>
+		<key>english-sound</key>
+		<string>animals-eng-77</string>
+		<key>german-sound</key>
+		<string>animals-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>panther</string>
+		<key>german</key>
+		<string>der Panther</string>
+		<key>english-sound</key>
+		<string>animals-eng-78</string>
+		<key>german-sound</key>
+		<string>animals-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cheetah</string>
+		<key>german</key>
+		<string>der Gepard</string>
+		<key>english-sound</key>
+		<string>animals-eng-79</string>
+		<key>german-sound</key>
+		<string>animals-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>baboon</string>
+		<key>german</key>
+		<string>der Pavian</string>
+		<key>english-sound</key>
+		<string>animals-eng-80</string>
+		<key>german-sound</key>
+		<string>animals-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gorilla</string>
+		<key>german</key>
+		<string>der Gorilla</string>
+		<key>english-sound</key>
+		<string>animals-eng-81</string>
+		<key>german-sound</key>
+		<string>animals-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shark</string>
+		<key>german</key>
+		<string>der Hai</string>
+		<key>english-sound</key>
+		<string>animals-eng-82</string>
+		<key>german-sound</key>
+		<string>animals-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>starfish</string>
+		<key>german</key>
+		<string>der Seestern</string>
+		<key>english-sound</key>
+		<string>animals-eng-83</string>
+		<key>german-sound</key>
+		<string>animals-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>squid</string>
+		<key>german</key>
+		<string>der Tintenfisch</string>
+		<key>english-sound</key>
+		<string>animals-eng-84</string>
+		<key>german-sound</key>
+		<string>animals-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>snow leopard</string>
+		<key>german</key>
+		<string>der Schneeleopard</string>
+		<key>english-sound</key>
+		<string>animals-eng-85</string>
+		<key>german-sound</key>
+		<string>animals-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sparrow</string>
+		<key>german</key>
+		<string>der Spatz</string>
+		<key>english-sound</key>
+		<string>animals-eng-86</string>
+		<key>german-sound</key>
+		<string>animals-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>seagull</string>
+		<key>german</key>
+		<string>die Seemöwe</string>
+		<key>english-sound</key>
+		<string>animals-eng-87</string>
+		<key>german-sound</key>
+		<string>animals-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>crow</string>
+		<key>german</key>
+		<string>die Krähe</string>
+		<key>english-sound</key>
+		<string>animals-eng-88</string>
+		<key>german-sound</key>
+		<string>animals-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>vulture</string>
+		<key>german</key>
+		<string>der Geier</string>
+		<key>english-sound</key>
+		<string>animals-eng-89</string>
+		<key>german-sound</key>
+		<string>animals-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>peacock</string>
+		<key>german</key>
+		<string>der Pfau</string>
+		<key>english-sound</key>
+		<string>animals-eng-90</string>
+		<key>german-sound</key>
+		<string>animals-german-90</string>
+	</dict>
+</array>

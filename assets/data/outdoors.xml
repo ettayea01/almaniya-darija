@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>outdoors</string>
+		<key>german</key>
+		<string>draußen (adv) / im Freien (adv)</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-1</string>
+		<key>german-sound</key>
+		<string>outdoors-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>activity</string>
+		<key>german</key>
+		<string>die Aktivität</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-2</string>
+		<key>german-sound</key>
+		<string>outdoors-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>outdoor activity</string>
+		<key>german</key>
+		<string>Außenaktivität</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-3</string>
+		<key>german-sound</key>
+		<string>outdoors-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hiking</string>
+		<key>german</key>
+		<string>wandern</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-4</string>
+		<key>german-sound</key>
+		<string>outdoors-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>walking</string>
+		<key>german</key>
+		<string>laufen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-5</string>
+		<key>german-sound</key>
+		<string>outdoors-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>running</string>
+		<key>german</key>
+		<string>rennen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-6</string>
+		<key>german-sound</key>
+		<string>outdoors-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>backpack</string>
+		<key>german</key>
+		<string>der Rucksack</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-7</string>
+		<key>german-sound</key>
+		<string>outdoors-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boots</string>
+		<key>german</key>
+		<string>die Stiefel</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-8</string>
+		<key>german-sound</key>
+		<string>outdoors-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>socks</string>
+		<key>german</key>
+		<string>die Socken</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-9</string>
+		<key>german-sound</key>
+		<string>outdoors-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hiking map</string>
+		<key>german</key>
+		<string>die Wanderkarte</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-10</string>
+		<key>german-sound</key>
+		<string>outdoors-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hiking path</string>
+		<key>german</key>
+		<string>der Wanderweg</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-11</string>
+		<key>german-sound</key>
+		<string>outdoors-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Road sign</string>
+		<key>german</key>
+		<string>der Wegweiser</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-12</string>
+		<key>german-sound</key>
+		<string>outdoors-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rocks</string>
+		<key>german</key>
+		<string>der Felsen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-13</string>
+		<key>german-sound</key>
+		<string>outdoors-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>beach</string>
+		<key>german</key>
+		<string>der Strand</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-14</string>
+		<key>german-sound</key>
+		<string>outdoors-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to swim</string>
+		<key>german</key>
+		<string>schwimmen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-15</string>
+		<key>german-sound</key>
+		<string>outdoors-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to dive</string>
+		<key>german</key>
+		<string>tauchen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-16</string>
+		<key>german-sound</key>
+		<string>outdoors-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to sail</string>
+		<key>german</key>
+		<string>segeln</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-17</string>
+		<key>german-sound</key>
+		<string>outdoors-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>for hire</string>
+		<key>german</key>
+		<string>zu mieten</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-18</string>
+		<key>german-sound</key>
+		<string>outdoors-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boat</string>
+		<key>german</key>
+		<string>das Boot</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-19</string>
+		<key>german-sound</key>
+		<string>outdoors-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lifeguard</string>
+		<key>german</key>
+		<string>der Retter</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-20</string>
+		<key>german-sound</key>
+		<string>outdoors-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sunbed</string>
+		<key>german</key>
+		<string>die Liege</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-21</string>
+		<key>german-sound</key>
+		<string>outdoors-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>umbrella</string>
+		<key>german</key>
+		<string>der Sonnenschirm</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-22</string>
+		<key>german-sound</key>
+		<string>outdoors-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>safety</string>
+		<key>german</key>
+		<string>die Sicherheit</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-23</string>
+		<key>german-sound</key>
+		<string>outdoors-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>flags</string>
+		<key>german</key>
+		<string>die Fahnen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-24</string>
+		<key>german-sound</key>
+		<string>outdoors-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to row</string>
+		<key>german</key>
+		<string>rudern</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-25</string>
+		<key>german-sound</key>
+		<string>outdoors-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>rowing boat</string>
+		<key>german</key>
+		<string>das Ruderboot</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-26</string>
+		<key>german-sound</key>
+		<string>outdoors-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fishing</string>
+		<key>german</key>
+		<string>angeln</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-27</string>
+		<key>german-sound</key>
+		<string>outdoors-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fishing rod</string>
+		<key>german</key>
+		<string>die Angelrute</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-28</string>
+		<key>german-sound</key>
+		<string>outdoors-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Holidays</string>
+		<key>german</key>
+		<string>die Ferien</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-29</string>
+		<key>german-sound</key>
+		<string>outdoors-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horseback riding</string>
+		<key>german</key>
+		<string>reiten</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-30</string>
+		<key>german-sound</key>
+		<string>outdoors-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>saddle</string>
+		<key>german</key>
+		<string>der Sattel</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-31</string>
+		<key>german-sound</key>
+		<string>outdoors-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>horse hire</string>
+		<key>german</key>
+		<string>die Leihpferde</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-32</string>
+		<key>german-sound</key>
+		<string>outdoors-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>helmet</string>
+		<key>german</key>
+		<string>der Helm</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-33</string>
+		<key>german-sound</key>
+		<string>outdoors-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gloves</string>
+		<key>german</key>
+		<string>die Handschuhe</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-34</string>
+		<key>german-sound</key>
+		<string>outdoors-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>picnic</string>
+		<key>german</key>
+		<string>das Picknick</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-35</string>
+		<key>german-sound</key>
+		<string>outdoors-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>meadow</string>
+		<key>german</key>
+		<string>die Weise</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-36</string>
+		<key>german-sound</key>
+		<string>outdoors-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blanket</string>
+		<key>german</key>
+		<string>die Decke</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-37</string>
+		<key>german-sound</key>
+		<string>outdoors-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>picnic basket</string>
+		<key>german</key>
+		<string>der Picknickkorb</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-38</string>
+		<key>german-sound</key>
+		<string>outdoors-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>insects</string>
+		<key>german</key>
+		<string>die Insekten</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-39</string>
+		<key>german-sound</key>
+		<string>outdoors-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>camping</string>
+		<key>german</key>
+		<string>das Camping</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-40</string>
+		<key>german-sound</key>
+		<string>outdoors-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tent</string>
+		<key>german</key>
+		<string>das Zelt</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-41</string>
+		<key>german-sound</key>
+		<string>outdoors-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sleeping bag</string>
+		<key>german</key>
+		<string>der Schlafsack</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-42</string>
+		<key>german-sound</key>
+		<string>outdoors-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>torch</string>
+		<key>german</key>
+		<string>die Taschenlampe</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-43</string>
+		<key>german-sound</key>
+		<string>outdoors-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>campsite</string>
+		<key>german</key>
+		<string>der Campingplatz</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-44</string>
+		<key>german-sound</key>
+		<string>outdoors-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>gas stove</string>
+		<key>german</key>
+		<string>der Gaskocher</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-45</string>
+		<key>german-sound</key>
+		<string>outdoors-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tennis-court</string>
+		<key>german</key>
+		<string>der Tennisplatz</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-46</string>
+		<key>german-sound</key>
+		<string>outdoors-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>racquet</string>
+		<key>german</key>
+		<string>der Tennisschlaeger</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-47</string>
+		<key>german-sound</key>
+		<string>outdoors-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>net</string>
+		<key>german</key>
+		<string>das Netz</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-48</string>
+		<key>german-sound</key>
+		<string>outdoors-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skiing</string>
+		<key>german</key>
+		<string>skilaufen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-49</string>
+		<key>german-sound</key>
+		<string>outdoors-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ski</string>
+		<key>german</key>
+		<string>die Schier</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-50</string>
+		<key>german-sound</key>
+		<string>outdoors-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ice skates</string>
+		<key>german</key>
+		<string>die Schlittschuhe</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-51</string>
+		<key>german-sound</key>
+		<string>outdoors-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sky</string>
+		<key>german</key>
+		<string>der Himmel</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-52</string>
+		<key>german-sound</key>
+		<string>outdoors-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thunderstorm</string>
+		<key>german</key>
+		<string>das Gewitter</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-53</string>
+		<key>german-sound</key>
+		<string>outdoors-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>thunder</string>
+		<key>german</key>
+		<string>der Donner</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-54</string>
+		<key>german-sound</key>
+		<string>outdoors-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>lightening</string>
+		<key>german</key>
+		<string>der Blitz</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-55</string>
+		<key>german-sound</key>
+		<string>outdoors-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cloud</string>
+		<key>german</key>
+		<string>die Wolke</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-56</string>
+		<key>german-sound</key>
+		<string>outdoors-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cloudy</string>
+		<key>german</key>
+		<string>bewoelkt</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-57</string>
+		<key>german-sound</key>
+		<string>outdoors-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>island</string>
+		<key>german</key>
+		<string>die Insel</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-58</string>
+		<key>german-sound</key>
+		<string>outdoors-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>air</string>
+		<key>german</key>
+		<string>die Luft</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-59</string>
+		<key>german-sound</key>
+		<string>outdoors-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>desert</string>
+		<key>german</key>
+		<string>die Wüste</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-60</string>
+		<key>german-sound</key>
+		<string>outdoors-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>valley</string>
+		<key>german</key>
+		<string>das Tal</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-61</string>
+		<key>german-sound</key>
+		<string>outdoors-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coast</string>
+		<key>german</key>
+		<string>die Küste</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-62</string>
+		<key>german-sound</key>
+		<string>outdoors-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jungle</string>
+		<key>german</key>
+		<string>der Dschungel</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-63</string>
+		<key>german-sound</key>
+		<string>outdoors-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>barn</string>
+		<key>german</key>
+		<string>die Scheune</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-64</string>
+		<key>german-sound</key>
+		<string>outdoors-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mountain range</string>
+		<key>german</key>
+		<string>das Gebirge</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-65</string>
+		<key>german-sound</key>
+		<string>outdoors-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to take a vacation / to go on vacation</string>
+		<key>german</key>
+		<string>Urlaub machen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-66</string>
+		<key>german-sound</key>
+		<string>outdoors-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to camp</string>
+		<key>german</key>
+		<string>zelten / campen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-67</string>
+		<key>german-sound</key>
+		<string>outdoors-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to tan</string>
+		<key>german</key>
+		<string>bräunen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-68</string>
+		<key>german-sound</key>
+		<string>outdoors-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to grill</string>
+		<key>german</key>
+		<string>grillen</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-69</string>
+		<key>german-sound</key>
+		<string>outdoors-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to fish</string>
+		<key>german</key>
+		<string>angeln</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-70</string>
+		<key>german-sound</key>
+		<string>outdoors-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to rock climb</string>
+		<key>german</key>
+		<string>felsklettern</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-71</string>
+		<key>german-sound</key>
+		<string>outdoors-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to ride a bicycle</string>
+		<key>german</key>
+		<string>Fahrrad fahren</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-72</string>
+		<key>german-sound</key>
+		<string>outdoors-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to skateboard</string>
+		<key>german</key>
+		<string>skateboard fahren</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-73</string>
+		<key>german-sound</key>
+		<string>outdoors-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to work in the garden</string>
+		<key>german</key>
+		<string>im Garten arbeiten</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-74</string>
+		<key>german-sound</key>
+		<string>outdoors-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sunscreen</string>
+		<key>german</key>
+		<string>die Sonnencreme</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-75</string>
+		<key>german-sound</key>
+		<string>outdoors-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sunburn</string>
+		<key>german</key>
+		<string>der Sonnenbrand</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-76</string>
+		<key>german-sound</key>
+		<string>outdoors-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sunglasses</string>
+		<key>german</key>
+		<string>die Sonnebrille</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-77</string>
+		<key>german-sound</key>
+		<string>outdoors-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heatstroke</string>
+		<key>german</key>
+		<string>der Hitzschlag</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-78</string>
+		<key>german-sound</key>
+		<string>outdoors-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>campfire</string>
+		<key>german</key>
+		<string>das Lagerfeuer</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-79</string>
+		<key>german-sound</key>
+		<string>outdoors-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>barbecue party</string>
+		<key>german</key>
+		<string>die Grillparty</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-80</string>
+		<key>german-sound</key>
+		<string>outdoors-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>reservation</string>
+		<key>german</key>
+		<string>die Reservierung</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-81</string>
+		<key>german-sound</key>
+		<string>outdoors-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have a reservation.</string>
+		<key>german</key>
+		<string>Ich habe eine Reservierung.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-82</string>
+		<key>german-sound</key>
+		<string>outdoors-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We have a reservation.</string>
+		<key>german</key>
+		<string>Wir haben eine Reservierung.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-83</string>
+		<key>german-sound</key>
+		<string>outdoors-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>booking</string>
+		<key>german</key>
+		<string>die Buchung</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-84</string>
+		<key>german-sound</key>
+		<string>outdoors-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plane ticket</string>
+		<key>german</key>
+		<string>das Flugticket</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-85</string>
+		<key>german-sound</key>
+		<string>outdoors-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>May I see your passport please?</string>
+		<key>german</key>
+		<string>Darf ich bitte Ihren Reisepass sehen?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-86</string>
+		<key>german-sound</key>
+		<string>outdoors-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have a reservation for a double room for (the name) ...</string>
+		<key>german</key>
+		<string>Ich habe eine Reservierung für ein Doppelzimmer auf den Namen... </string>
+		<key>english-sound</key>
+		<string>outdoors-eng-87</string>
+		<key>german-sound</key>
+		<string>outdoors-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My luggage has gone missing.</string>
+		<key>german</key>
+		<string>Mein Gepäck ist verloren gegangen.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-88</string>
+		<key>german-sound</key>
+		<string>outdoors-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are all checked in now.</string>
+		<key>german</key>
+		<string>Sie sind nun eingecheckt.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-89</string>
+		<key>german-sound</key>
+		<string>outdoors-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you from? [Informal]</string>
+		<key>german</key>
+		<string>Woher kommst du?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-90</string>
+		<key>german-sound</key>
+		<string>outdoors-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where are you from? [Formal]</string>
+		<key>german</key>
+		<string>Woher kommen Sie?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-91</string>
+		<key>german-sound</key>
+		<string>outdoors-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What city are you from?</string>
+		<key>german</key>
+		<string>Aus welcher Stadt kommst du?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-92</string>
+		<key>german-sound</key>
+		<string>outdoors-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where do you live?</string>
+		<key>german</key>
+		<string>Wo wohnst du?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-93</string>
+		<key>german-sound</key>
+		<string>outdoors-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like to exchange this for Euros.</string>
+		<key>german</key>
+		<string>Ich möchte dies in Euro wechseln.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-94</string>
+		<key>german-sound</key>
+		<string>outdoors-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Here’s my identification.</string>
+		<key>german</key>
+		<string>Hier ist mein Ausweis.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-95</string>
+		<key>german-sound</key>
+		<string>outdoors-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>One ticket to …, please!</string>
+		<key>german</key>
+		<string>Eine Fahrkarte nach …, bitte!</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-96</string>
+		<key>german-sound</key>
+		<string>outdoors-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much is a ticket to …?</string>
+		<key>german</key>
+		<string>Was kostet eine Fahrkarte nach …?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-97</string>
+		<key>german-sound</key>
+		<string>outdoors-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When does next bus/train leave to …?</string>
+		<key>german</key>
+		<string>Wann fährt der nächste Bus/Zug nach …?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-98</string>
+		<key>german-sound</key>
+		<string>outdoors-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where does this bus/train go?</string>
+		<key>german</key>
+		<string>Wohin fährt dieser Bus/Zug?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-99</string>
+		<key>german-sound</key>
+		<string>outdoors-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When does this bus/train arrive?</string>
+		<key>german</key>
+		<string>Wann kommt dieser Bus/Zug an?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-100</string>
+		<key>german-sound</key>
+		<string>outdoors-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do you have any rooms available?</string>
+		<key>german</key>
+		<string>Sind noch Zimmer frei?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-101</string>
+		<key>german-sound</key>
+		<string>outdoors-german-101</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much is a single room?</string>
+		<key>german</key>
+		<string>Wie viel kostet ein Einzelzimmer?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-102</string>
+		<key>german-sound</key>
+		<string>outdoors-german-102</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much is a double room?</string>
+		<key>german</key>
+		<string>Wie viel kostet ein Doppelzimmer?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-103</string>
+		<key>german-sound</key>
+		<string>outdoors-german-103</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Does the room come with …? [air conditioning, balcony, TV]</string>
+		<key>german</key>
+		<string>Hat das Zimmer …? [eine Klimaanlage,einen Balkon,einen Fernseher]</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-104</string>
+		<key>german-sound</key>
+		<string>outdoors-german-104</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’ll stay for … night. [one night, two nights, three nights]</string>
+		<key>german</key>
+		<string>Ich bleibe für … Nacht. [eine Nacht, zwei Nächte, drei Nächte]</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-105</string>
+		<key>german-sound</key>
+		<string>outdoors-german-105</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>When is breakfast/dinner?</string>
+		<key>german</key>
+		<string>Wann gibt es Frühstück/Abendessen?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-106</string>
+		<key>german-sound</key>
+		<string>outdoors-german-106</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’d like to check out.</string>
+		<key>german</key>
+		<string>Ich möchte auschecken.</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-107</string>
+		<key>german-sound</key>
+		<string>outdoors-german-107</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Stop! A thief!</string>
+		<key>german</key>
+		<string>Halt! Ein Dieb!</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-108</string>
+		<key>german-sound</key>
+		<string>outdoors-german-108</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Call the police! (formal)</string>
+		<key>german</key>
+		<string>Rufen Sie die Polizei!</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-109</string>
+		<key>german-sound</key>
+		<string>outdoors-german-109</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Call the police! (informal)</string>
+		<key>german</key>
+		<string>Ruf die Polizei!</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-110</string>
+		<key>german-sound</key>
+		<string>outdoors-german-110</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can I use your phone? (informal)</string>
+		<key>german</key>
+		<string>Kann ich dein Telefon benutzen?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-111</string>
+		<key>german-sound</key>
+		<string>outdoors-german-111</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can I use your phone? (formal)</string>
+		<key>german</key>
+		<string>Kann ich Ihr Telefon benutzen?</string>
+		<key>english-sound</key>
+		<string>outdoors-eng-112</string>
+		<key>german-sound</key>
+		<string>outdoors-german-112</string>
+	</dict>
+</array>

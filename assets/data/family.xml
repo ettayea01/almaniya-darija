@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>family</string>
+		<key>german</key>
+		<string>die Familie (singular), die Familien (plural)</string>
+		<key>german-sound</key>
+		<string>family-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>parent</string>
+		<key>german</key>
+		<string>das Elternteil (singular), die Eltern (plural)</string>
+		<key>german-sound</key>
+		<string>family-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>father</string>
+		<key>german</key>
+		<string>der Vater (singular), die Väter (plural)</string>
+		<key>german-sound</key>
+		<string>family-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dad, daddy</string>
+		<key>german</key>
+		<string>der Papa, Papi, Vati (singular), die Papas (plural)</string>
+		<key>german-sound</key>
+		<string>family-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mother</string>
+		<key>german</key>
+		<string>die Mutter (singular), die Mütter (plural)</string>
+		<key>german-sound</key>
+		<string>family-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mum, mummy</string>
+		<key>german</key>
+		<string>die Mama, Mami, Mutti (singular), die Mamas (plural)</string>
+		<key>german-sound</key>
+		<string>family-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>daughter</string>
+		<key>german</key>
+		<string>die Tochter (singular), die Töchter (plural)</string>
+		<key>german-sound</key>
+		<string>family-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>son</string>
+		<key>german</key>
+		<string>der Sohn (singular), die Söhne (plural)</string>
+		<key>german-sound</key>
+		<string>family-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sibling</string>
+		<key>german</key>
+		<string>die Geschwister (plural)</string>
+		<key>german-sound</key>
+		<string>family-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brother</string>
+		<key>german</key>
+		<string>der Bruder (singular), die Brüder (plural)</string>
+		<key>german-sound</key>
+		<string>family-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>little brother</string>
+		<key>german</key>
+		<string>das Brüderchen (singular), die Brüderchen (plural)</string>
+		<key>german-sound</key>
+		<string>family-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sister</string>
+		<key>german</key>
+		<string>die Schwester (singular), die Schwestern (plural)</string>
+		<key>german-sound</key>
+		<string>family-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grandparents</string>
+		<key>german</key>
+		<string>die Großeltern (plural)</string>
+		<key>german-sound</key>
+		<string>family-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grandmother</string>
+		<key>german</key>
+		<string>die Großmutter (singular), die Großmütter (plural)</string>
+		<key>german-sound</key>
+		<string>family-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>granny</string>
+		<key>german</key>
+		<string>die Oma (singular), die Omas (plural)</string>
+		<key>german-sound</key>
+		<string>family-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grandfather</string>
+		<key>german</key>
+		<string>der Großvater (singular), die Großväter (plural)</string>
+		<key>german-sound</key>
+		<string>family-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grandpa</string>
+		<key>german</key>
+		<string>der Opa (singular), die Opas (plural)</string>
+		<key>german-sound</key>
+		<string>family-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>grandson</string>
+		<key>german</key>
+		<string>der Enkel (singular), die Enkel (plural)</string>
+		<key>german-sound</key>
+		<string>family-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>granddaughter</string>
+		<key>german</key>
+		<string>die Enkelin (singular), die Enkelinnen (plural)</string>
+		<key>german-sound</key>
+		<string>family-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>aunt</string>
+		<key>german</key>
+		<string>die Tante (singular), die Tanten (plural)</string>
+		<key>german-sound</key>
+		<string>family-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-aunt</string>
+		<key>german</key>
+		<string>die Großtante (singular), die Großtanten (plural)</string>
+		<key>german-sound</key>
+		<string>family-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>uncle</string>
+		<key>german</key>
+		<string>der Onkel (singular), die Onkel (plural)</string>
+		<key>german-sound</key>
+		<string>family-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-uncle</string>
+		<key>german</key>
+		<string>der Großonkel (singular), die Großonkel (plural)</string>
+		<key>german-sound</key>
+		<string>family-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cousin (feminine)</string>
+		<key>german</key>
+		<string>die Cousine (singular), die Cousinen (plural)</string>
+		<key>german-sound</key>
+		<string>family-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cousin (masculine)</string>
+		<key>german</key>
+		<string>der Cousin (singular), die Cousins (plural)</string>
+		<key>german-sound</key>
+		<string>family-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>second cousin</string>
+		<key>german</key>
+		<string>der Großcousin / die Großcousine (singular), die Großcousins / die Großcousinen (plural)</string>
+		<key>german-sound</key>
+		<string>family-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>niece</string>
+		<key>german</key>
+		<string>die Nichte (singular), die Nichten (plural)</string>
+		<key>german-sound</key>
+		<string>family-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>nephew</string>
+		<key>german</key>
+		<string>der Neffe (singular), die Neffen (plural)</string>
+		<key>german-sound</key>
+		<string>family-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stepmother</string>
+		<key>german</key>
+		<string>die Stiefmutter (singular), die Stiefmütter (plural)</string>
+		<key>german-sound</key>
+		<string>family-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stepfather</string>
+		<key>german</key>
+		<string>der Stiefvater (singular), die Stiefväter (plural)</string>
+		<key>german-sound</key>
+		<string>family-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stepbrother</string>
+		<key>german</key>
+		<string>der Stiefbruder (singular), die Stiefbrüder (plural)</string>
+		<key>german-sound</key>
+		<string>family-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stepsister</string>
+		<key>german</key>
+		<string>die Stiefschwester (singular), die Stiefschwestern (plural)</string>
+		<key>german-sound</key>
+		<string>family-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mother-in-law</string>
+		<key>german</key>
+		<string>die Schwiegermutter (singular), die Schwiegermütter (plural)</string>
+		<key>german-sound</key>
+		<string>family-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>father-in-law</string>
+		<key>german</key>
+		<string>der Schwiegervater (singular), die Schwiegerväter (plural)</string>
+		<key>german-sound</key>
+		<string>family-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>daughter-in-law</string>
+		<key>german</key>
+		<string>die Schwiegertochter (singular), die Schwiegertöchter (plural)</string>
+		<key>german-sound</key>
+		<string>family-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>son-in-law</string>
+		<key>german</key>
+		<string>der Schwiegersohn (singular), die Schwiegersöhne (plural)</string>
+		<key>german-sound</key>
+		<string>family-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brother-in-law</string>
+		<key>german</key>
+		<string>der Schwager (singular), die Schwäger (plural)</string>
+		<key>german-sound</key>
+		<string>family-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sister-in-law</string>
+		<key>german</key>
+		<string>die Schwägerin (singular), die Schwägerinnen (plural)</string>
+		<key>german-sound</key>
+		<string>family-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-grandfather</string>
+		<key>german</key>
+		<string>der Urgroßvater (singular), die Urgroßväter (plural)</string>
+		<key>german-sound</key>
+		<string>family-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-grandmother</string>
+		<key>german</key>
+		<string>die Urgroßmutter (singular), die Urgroßmütter (plural)</string>
+		<key>german-sound</key>
+		<string>family-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-grandson</string>
+		<key>german</key>
+		<string>der Urenkel (singular), die Urenkel (plural)</string>
+		<key>german-sound</key>
+		<string>family-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>great-granddaughter</string>
+		<key>german</key>
+		<string>die Urenkelin (singular), die Urenkelinnen (plural)</string>
+		<key>german-sound</key>
+		<string>family-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>adopted child</string>
+		<key>german</key>
+		<string>das Adoptivkind (singular), die Adoptivkinder (plural)</string>
+		<key>german-sound</key>
+		<string>family-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>funeral</string>
+		<key>german</key>
+		<string>die Beerdingung (singular), die Beerdingungen (plural)</string>
+		<key>german-sound</key>
+		<string>family-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>relationship</string>
+		<key>german</key>
+		<string>die Beziehung (singular), die Beziehungen (plural)</string>
+		<key>german-sound</key>
+		<string>family-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>marriage</string>
+		<key>german</key>
+		<string>die Ehe (singular), die Ehen (plural)</string>
+		<key>german-sound</key>
+		<string>family-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wife</string>
+		<key>german</key>
+		<string>die Ehefrau (singular), die Ehefrauen (plural)</string>
+		<key>german-sound</key>
+		<string>family-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>husband</string>
+		<key>german</key>
+		<string>der Ehemann (singular), die Ehemänner (plural)</string>
+		<key>german-sound</key>
+		<string>family-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Divorce</string>
+		<key>german</key>
+		<string>die Scheidung (singular), die Scheidungen (plural)</string>
+		<key>german-sound</key>
+		<string>family-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>birth</string>
+		<key>german</key>
+		<string>die Geburt (singular), die Geburten (plural)</string>
+		<key>german-sound</key>
+		<string>family-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wedding</string>
+		<key>german</key>
+		<string>die Hochzeit (singular), die Hochzeiten (plural)</string>
+		<key>german-sound</key>
+		<string>family-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>couple</string>
+		<key>german</key>
+		<string>das Paar (singular), die Paare (plural)</string>
+		<key>german-sound</key>
+		<string>family-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>maternity ward</string>
+		<key>german</key>
+		<string>die Entbindungsstation (singular), die Entbindungsstationen (plural)</string>
+		<key>german-sound</key>
+		<string>family-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spouse male</string>
+		<key>german</key>
+		<string>der Gatte (singular), die Gatten (plural)</string>
+		<key>german-sound</key>
+		<string>family-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>spouse female</string>
+		<key>german</key>
+		<string>die Gattin (singular), die Gattinnen (plural)</string>
+		<key>german-sound</key>
+		<string>family-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>feeling</string>
+		<key>german</key>
+		<string>das Gefühl (singular), die Gefühle (plural)</string>
+		<key>german-sound</key>
+		<string>family-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wedding ring</string>
+		<key>german</key>
+		<string>der Hochzeitsring (singular), die Hochzeitsringe (plural)</string>
+		<key>german-sound</key>
+		<string>family-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>anniversary</string>
+		<key>german</key>
+		<string>der Jahrestag (singular), die Jahrestage (plural)</string>
+		<key>german-sound</key>
+		<string>family-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>offspring</string>
+		<key>german</key>
+		<string>der Nachwuchs (singular)</string>
+		<key>german-sound</key>
+		<string>family-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>partner male</string>
+		<key>german</key>
+		<string>der Partner (singular), die Partner (plural)</string>
+		<key>german-sound</key>
+		<string>family-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>partner female</string>
+		<key>german</key>
+		<string>die Partnerin (singular), die Partnerinnen (plural)</string>
+		<key>german-sound</key>
+		<string>family-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>affair</string>
+		<key>german</key>
+		<string>die Verhältnis (singular), die Verhältnisse (plural)</string>
+		<key>german-sound</key>
+		<string>family-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fiancé / fiancée</string>
+		<key>german</key>
+		<string>der/die Verlobte (singular), die Verlobten (plural)</string>
+		<key>german-sound</key>
+		<string>family-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ceremony</string>
+		<key>german</key>
+		<string>die Zeremonie (singular), die Zeremonien (plural)</string>
+		<key>german-sound</key>
+		<string>family-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to adopt</string>
+		<key>german</key>
+		<string>adoptieren (verb)</string>
+		<key>german-sound</key>
+		<string>family-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to grow up</string>
+		<key>german</key>
+		<string>aufwachsen (verb)</string>
+		<key>german-sound</key>
+		<string>family-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to raise a family</string>
+		<key>german</key>
+		<string>Kinder großziehen (verb)</string>
+		<key>german-sound</key>
+		<string>family-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to marry</string>
+		<key>german</key>
+		<string>heiraten (verb)</string>
+		<key>german-sound</key>
+		<string>family-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to divorce</string>
+		<key>german</key>
+		<string>scheiden (verb)</string>
+		<key>german-sound</key>
+		<string>family-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to kiss</string>
+		<key>german</key>
+		<string>küssen (verb)</string>
+		<key>german-sound</key>
+		<string>family-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to respect</string>
+		<key>german</key>
+		<string>anerkennen (verb)</string>
+		<key>german-sound</key>
+		<string>family-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to have an affair</string>
+		<key>german</key>
+		<string>fremdgehen (verb)</string>
+		<key>german-sound</key>
+		<string>family-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to hug</string>
+		<key>german</key>
+		<string>umarmen (verb)</string>
+		<key>german-sound</key>
+		<string>family-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to fall in love</string>
+		<key>german</key>
+		<string>sich verlieben (verb)</string>
+		<key>german-sound</key>
+		<string>family-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to get engaged</string>
+		<key>german</key>
+		<string>sich verloben (verb)</string>
+		<key>german-sound</key>
+		<string>family-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to celebrate</string>
+		<key>german</key>
+		<string>feiern (verb)</string>
+		<key>german-sound</key>
+		<string>family-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to commit</string>
+		<key>german</key>
+		<string>begehen (verb)</string>
+		<key>german-sound</key>
+		<string>family-77</string>
+	</dict>
+</array>

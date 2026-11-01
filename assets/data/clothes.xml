@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>suit</string>
+		<key>german</key>
+		<string>der Anzug</string>
+		<key>german-sound</key>
+		<string>clothes-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>skirt</string>
+		<key>german</key>
+		<string>der Rock</string>
+		<key>german-sound</key>
+		<string>clothes-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scarf</string>
+		<key>german</key>
+		<string>der Schal</string>
+		<key>german-sound</key>
+		<string>clothes-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tracksuit</string>
+		<key>german</key>
+		<string>der Trainingsanzug</string>
+		<key>german-sound</key>
+		<string>clothes-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>handbag</string>
+		<key>german</key>
+		<string>die Handtasche</string>
+		<key>german-sound</key>
+		<string>clothes-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jacket</string>
+		<key>german</key>
+		<string>die Jacke / das Jackett</string>
+		<key>german-sound</key>
+		<string>clothes-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bag / pocket</string>
+		<key>german</key>
+		<string>die Tasche</string>
+		<key>german-sound</key>
+		<string>clothes-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>underwear</string>
+		<key>german</key>
+		<string>die Unterwäsche</string>
+		<key>german-sound</key>
+		<string>clothes-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shirt</string>
+		<key>german</key>
+		<string>das Hemd</string>
+		<key>german-sound</key>
+		<string>clothes-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>T-shirt</string>
+		<key>german</key>
+		<string>das T-shirt</string>
+		<key>german-sound</key>
+		<string>clothes-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dress</string>
+		<key>german</key>
+		<string>das Kleid</string>
+		<key>german-sound</key>
+		<string>clothes-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>black jacket</string>
+		<key>german</key>
+		<string>schwarze Jacke</string>
+		<key>german-sound</key>
+		<string>clothes-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cardigan</string>
+		<key>german</key>
+		<string>die Strickjacke</string>
+		<key>german-sound</key>
+		<string>clothes-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jeans</string>
+		<key>german</key>
+		<string>die Jeans</string>
+		<key>german-sound</key>
+		<string>clothes-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stocking</string>
+		<key>german</key>
+		<string>der Strumpf</string>
+		<key>german-sound</key>
+		<string>clothes-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pyjamas</string>
+		<key>german</key>
+		<string>der Pyjama / der Schlafanzug</string>
+		<key>german-sound</key>
+		<string>clothes-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coat</string>
+		<key>german</key>
+		<string>der Mantel</string>
+		<key>german-sound</key>
+		<string>clothes-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>slipper</string>
+		<key>german</key>
+		<string>der Hausschuh</string>
+		<key>german-sound</key>
+		<string>clothes-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>apron</string>
+		<key>german</key>
+		<string>die Schürze</string>
+		<key>german-sound</key>
+		<string>clothes-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sleeve</string>
+		<key>german</key>
+		<string>der Ärmel</string>
+		<key>german-sound</key>
+		<string>clothes-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>swimsuit / swimming costume</string>
+		<key>german</key>
+		<string>der Badeanzug</string>
+		<key>german-sound</key>
+		<string>clothes-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bikini</string>
+		<key>german</key>
+		<string>der Bikini</string>
+		<key>german-sound</key>
+		<string>clothes-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>belt</string>
+		<key>german</key>
+		<string>der Gürtel</string>
+		<key>german-sound</key>
+		<string>clothes-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>glove</string>
+		<key>german</key>
+		<string>der Handschuh</string>
+		<key>german-sound</key>
+		<string>clothes-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trouser suit</string>
+		<key>german</key>
+		<string>der Hosenanzug</string>
+		<key>german-sound</key>
+		<string>clothes-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>braces</string>
+		<key>german</key>
+		<string>der Hosenträger</string>
+		<key>german-sound</key>
+		<string>clothes-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hat</string>
+		<key>german</key>
+		<string>der Hut</string>
+		<key>german-sound</key>
+		<string>clothes-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jogging suit</string>
+		<key>german</key>
+		<string>der Jogginganzug</string>
+		<key>german-sound</key>
+		<string>clothes-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>button</string>
+		<key>german</key>
+		<string>der Knopf</string>
+		<key>german-sound</key>
+		<string>clothes-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>collar</string>
+		<key>german</key>
+		<string>der Kragen</string>
+		<key>german-sound</key>
+		<string>clothes-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dressing gown</string>
+		<key>german</key>
+		<string>der Morgenmantel</string>
+		<key>german-sound</key>
+		<string>clothes-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>overall</string>
+		<key>german</key>
+		<string>der Overall</string>
+		<key>german-sound</key>
+		<string>clothes-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pullover</string>
+		<key>german</key>
+		<string>der Pulli</string>
+		<key>german-sound</key>
+		<string>clothes-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>raincoat</string>
+		<key>german</key>
+		<string>der Regenmantel</string>
+		<key>german-sound</key>
+		<string>clothes-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>zip</string>
+		<key>german</key>
+		<string>der Reißverschluss</string>
+		<key>german-sound</key>
+		<string>clothes-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>polo neck</string>
+		<key>german</key>
+		<string>der Rollkragen</string>
+		<key>german-sound</key>
+		<string>clothes-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>veil</string>
+		<key>german</key>
+		<string>der Schleier</string>
+		<key>german-sound</key>
+		<string>clothes-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tie</string>
+		<key>german</key>
+		<string>der Schlips / die Krawatte</string>
+		<key>german-sound</key>
+		<string>clothes-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shoelace</string>
+		<key>german</key>
+		<string>der Schnürsenkel</string>
+		<key>german-sound</key>
+		<string>clothes-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dinner jacket</string>
+		<key>german</key>
+		<string>der Smoking</string>
+		<key>german-sound</key>
+		<string>clothes-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>turban</string>
+		<key>german</key>
+		<string>der Turban</string>
+		<key>german-sound</key>
+		<string>clothes-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>swimming trunk</string>
+		<key>german</key>
+		<string>die Badehose</string>
+		<key>german-sound</key>
+		<string>clothes-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blouse</string>
+		<key>german</key>
+		<string>die Bluse</string>
+		<key>german-sound</key>
+		<string>clothes-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pleat</string>
+		<key>german</key>
+		<string>die Falte</string>
+		<key>german-sound</key>
+		<string>clothes-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bow tie</string>
+		<key>german</key>
+		<string>die Fliege</string>
+		<key>german-sound</key>
+		<string>clothes-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>casual clothes</string>
+		<key>german</key>
+		<string>die Freizeitkleidung</string>
+		<key>german-sound</key>
+		<string>clothes-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>size</string>
+		<key>german</key>
+		<string>die Größe</string>
+		<key>german-sound</key>
+		<string>clothes-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trousers</string>
+		<key>german</key>
+		<string>die Hose</string>
+		<key>german-sound</key>
+		<string>clothes-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cap</string>
+		<key>german</key>
+		<string>die Kappe / die Mütze</string>
+		<key>german-sound</key>
+		<string>clothes-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>clothing</string>
+		<key>german</key>
+		<string>die Kleidung</string>
+		<key>german-sound</key>
+		<string>clothes-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leather trousers</string>
+		<key>german</key>
+		<string>die Lederhose</string>
+		<key>german-sound</key>
+		<string>clothes-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fashion</string>
+		<key>german</key>
+		<string>die Mode</string>
+		<key>german-sound</key>
+		<string>clothes-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fashion show</string>
+		<key>german</key>
+		<string>die Modenshau</string>
+		<key>german-sound</key>
+		<string>clothes-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sock</string>
+		<key>german</key>
+		<string>die Socke</string>
+		<key>german-sound</key>
+		<string>clothes-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tights</string>
+		<key>german</key>
+		<string>die Strumpfhose</string>
+		<key>german-sound</key>
+		<string>clothes-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>uniform</string>
+		<key>german</key>
+		<string>die Uniform</string>
+		<key>german-sound</key>
+		<string>clothes-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>under pants</string>
+		<key>german</key>
+		<string>die Unterhose</string>
+		<key>german-sound</key>
+		<string>clothes-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>evening dress</string>
+		<key>german</key>
+		<string>das Abendkleid</string>
+		<key>german-sound</key>
+		<string>clothes-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>wedding dress</string>
+		<key>german</key>
+		<string>das Hochzeitskleid</string>
+		<key>german-sound</key>
+		<string>clothes-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>headscarf</string>
+		<key>german</key>
+		<string>das Kopftuch</string>
+		<key>german-sound</key>
+		<string>clothes-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sweatshirt</string>
+		<key>german</key>
+		<string>das Sweatshirt</string>
+		<key>german-sound</key>
+		<string>clothes-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>accessories</string>
+		<key>german</key>
+		<string>das Zubehör</string>
+		<key>german-sound</key>
+		<string>clothes-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bra</string>
+		<key>german</key>
+		<string>der BH / der Büstenhalter</string>
+		<key>german-sound</key>
+		<string>clothes-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shoe</string>
+		<key>german</key>
+		<string>der Schuh (singular), die Schuhe (plural)</string>
+		<key>german-sound</key>
+		<string>clothes-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>boot</string>
+		<key>german</key>
+		<string>der Stiefel (singular), die Stiefel (plural)</string>
+		<key>german-sound</key>
+		<string>clothes-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>trainers</string>
+		<key>german</key>
+		<string>der Turnschuh (singular), die Turnschuhe (plural)</string>
+		<key>german-sound</key>
+		<string>clothes-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sandal</string>
+		<key>german</key>
+		<string>die Sandale (singular), die Sandalen (plural)</string>
+		<key>german-sound</key>
+		<string>clothes-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>jumper</string>
+		<key>german</key>
+		<string>der Jumper</string>
+		<key>german-sound</key>
+		<string>clothes-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sweater</string>
+		<key>german</key>
+		<string>der Pullover</string>
+		<key>german-sound</key>
+		<string>clothes-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>purse</string>
+		<key>german</key>
+		<string>die Geldbörse</string>
+		<key>german-sound</key>
+		<string>clothes-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ring</string>
+		<key>german</key>
+		<string>der Ring</string>
+		<key>german-sound</key>
+		<string>clothes-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>necklace</string>
+		<key>german</key>
+		<string>die Halskette</string>
+		<key>german-sound</key>
+		<string>clothes-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bracelet</string>
+		<key>german</key>
+		<string>das Armband</string>
+		<key>german-sound</key>
+		<string>clothes-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>earring</string>
+		<key>german</key>
+		<string>der Ohrring</string>
+		<key>german-sound</key>
+		<string>clothes-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>watch</string>
+		<key>german</key>
+		<string>die Armbanduhr</string>
+		<key>german-sound</key>
+		<string>clothes-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>glasses</string>
+		<key>german</key>
+		<string>die Brille</string>
+		<key>german-sound</key>
+		<string>clothes-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sports jacket</string>
+		<key>german</key>
+		<string>das Sakko</string>
+		<key>german-sound</key>
+		<string>clothes-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>leggings</string>
+		<key>german</key>
+		<string>die Leggings</string>
+		<key>german-sound</key>
+		<string>clothes-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hoodie</string>
+		<key>german</key>
+		<string>der Kapuzenpulli</string>
+		<key>german-sound</key>
+		<string>clothes-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>blazer</string>
+		<key>german</key>
+		<string>der Blazer</string>
+		<key>german-sound</key>
+		<string>clothes-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tennis shoe</string>
+		<key>german</key>
+		<string>der Tenisschuh</string>
+		<key>german-sound</key>
+		<string>clothes-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>heels</string>
+		<key>german</key>
+		<string>die Absätze</string>
+		<key>german-sound</key>
+		<string>clothes-82</string>
+	</dict>
+</array>

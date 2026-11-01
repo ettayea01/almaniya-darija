@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>money</string>
+		<key>german</key>
+		<string>das Geld</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-1</string>
+		<key>german-sound</key>
+		<string>moneyf-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>change</string>
+		<key>german</key>
+		<string>das Wechselgeld</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-2</string>
+		<key>german-sound</key>
+		<string>moneyf-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bank note</string>
+		<key>german</key>
+		<string>der Geldschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-3</string>
+		<key>german-sound</key>
+		<string>moneyf-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>coin</string>
+		<key>german</key>
+		<string>die Münze</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-4</string>
+		<key>german-sound</key>
+		<string>moneyf-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>currency</string>
+		<key>german</key>
+		<string>die Währung</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-5</string>
+		<key>german-sound</key>
+		<string>moneyf-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>check</string>
+		<key>german</key>
+		<string>der Scheck</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-6</string>
+		<key>german-sound</key>
+		<string>moneyf-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bank</string>
+		<key>german</key>
+		<string>die Bank</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-7</string>
+		<key>german-sound</key>
+		<string>moneyf-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>account</string>
+		<key>german</key>
+		<string>das Konto</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-8</string>
+		<key>german-sound</key>
+		<string>moneyf-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>savings account</string>
+		<key>german</key>
+		<string>das Sparkonto</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-9</string>
+		<key>german-sound</key>
+		<string>moneyf-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>credit card</string>
+		<key>german</key>
+		<string>die Kreditkarte</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-10</string>
+		<key>german-sound</key>
+		<string>moneyf-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ATM</string>
+		<key>german</key>
+		<string>der Geldautomat</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-11</string>
+		<key>german-sound</key>
+		<string>moneyf-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>counter</string>
+		<key>german</key>
+		<string>der Schalter</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-12</string>
+		<key>german-sound</key>
+		<string>moneyf-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bank manager</string>
+		<key>german</key>
+		<string>der Filialleiter, die Filialleiterin</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-13</string>
+		<key>german-sound</key>
+		<string>moneyf-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>pound sterling</string>
+		<key>german</key>
+		<string>ein Pfund Sterling</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-14</string>
+		<key>german-sound</key>
+		<string>moneyf-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>euro</string>
+		<key>german</key>
+		<string>der Euro</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-15</string>
+		<key>german-sound</key>
+		<string>moneyf-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Swiss franc</string>
+		<key>german</key>
+		<string>der Franken</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-16</string>
+		<key>german-sound</key>
+		<string>moneyf-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Japanese yen</string>
+		<key>german</key>
+		<string>der Yen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-17</string>
+		<key>german-sound</key>
+		<string>moneyf-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>German mark</string>
+		<key>german</key>
+		<string>die deutsche Mark</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-18</string>
+		<key>german-sound</key>
+		<string>moneyf-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cent</string>
+		<key>german</key>
+		<string>der Cent</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-19</string>
+		<key>german-sound</key>
+		<string>moneyf-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>dollar</string>
+		<key>german</key>
+		<string>der Dollar</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-20</string>
+		<key>german-sound</key>
+		<string>moneyf-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Swiss centime</string>
+		<key>german</key>
+		<string>der Rappen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-21</string>
+		<key>german-sound</key>
+		<string>moneyf-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Russian rouble</string>
+		<key>german</key>
+		<string>der Rubel</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-22</string>
+		<key>german-sound</key>
+		<string>moneyf-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>note</string>
+		<key>german</key>
+		<string>der Schein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-23</string>
+		<key>german-sound</key>
+		<string>moneyf-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one euro coin</string>
+		<key>german</key>
+		<string>das Eurostück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-24</string>
+		<key>german-sound</key>
+		<string>moneyf-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two euro coin</string>
+		<key>german</key>
+		<string>das Zweieurostück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-25</string>
+		<key>german-sound</key>
+		<string>moneyf-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five euro note</string>
+		<key>german</key>
+		<string>der Fünfeuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-26</string>
+		<key>german-sound</key>
+		<string>moneyf-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ten euro note</string>
+		<key>german</key>
+		<string>der Zehneuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-27</string>
+		<key>german-sound</key>
+		<string>moneyf-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty euro note</string>
+		<key>german</key>
+		<string>der Zwanzigeuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-28</string>
+		<key>german-sound</key>
+		<string>moneyf-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty euro note</string>
+		<key>german</key>
+		<string>der Fünfzigeuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-29</string>
+		<key>german-sound</key>
+		<string>moneyf-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hundred euro note</string>
+		<key>german</key>
+		<string>der Hunderteuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-30</string>
+		<key>german-sound</key>
+		<string>moneyf-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two hundred euro note</string>
+		<key>german</key>
+		<string>der Zweihunderteuroschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-31</string>
+		<key>german-sound</key>
+		<string>moneyf-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>one cent coin</string>
+		<key>german</key>
+		<string>das Centstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-32</string>
+		<key>german-sound</key>
+		<string>moneyf-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>two cent coin</string>
+		<key>german</key>
+		<string>das Zweicentstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-33</string>
+		<key>german-sound</key>
+		<string>moneyf-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>five cent coin</string>
+		<key>german</key>
+		<string>das Fünfcentstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-34</string>
+		<key>german-sound</key>
+		<string>moneyf-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ten cent coin</string>
+		<key>german</key>
+		<string>das Zehncentstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-35</string>
+		<key>german-sound</key>
+		<string>moneyf-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twenty cent coin</string>
+		<key>german</key>
+		<string>das Zwanzigcentstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-36</string>
+		<key>german-sound</key>
+		<string>moneyf-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>fifty cent coin</string>
+		<key>german</key>
+		<string>das Fünfzigcentstück</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-37</string>
+		<key>german-sound</key>
+		<string>moneyf-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>twelve euros and ten cents</string>
+		<key>german</key>
+		<string>zwölf Euro und zehn Cent [Note: In German, the currency is always in the singular in prices regardless of the amount]</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-38</string>
+		<key>german-sound</key>
+		<string>moneyf-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>26 Euros and 56 cents.</string>
+		<key>german</key>
+		<string>Sechsundzwanzig Euro und sechsundfünfzig Cent. [Note: You don’t use the plural form no matter how many Euros or cents you have.]</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-39</string>
+		<key>german-sound</key>
+		<string>moneyf-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>34 Euros and 60 cents.</string>
+		<key>german</key>
+		<string>Vierunddreißig Euro und sechzig Cent.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-40</string>
+		<key>german-sound</key>
+		<string>moneyf-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank account</string>
+		<key>german</key>
+		<string>das Bankkonto</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-41</string>
+		<key>german-sound</key>
+		<string>moneyf-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank balance</string>
+		<key>german</key>
+		<string>der Kontostand</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-42</string>
+		<key>german-sound</key>
+		<string>moneyf-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank charges</string>
+		<key>german</key>
+		<string>die Bankgebühren</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-43</string>
+		<key>german-sound</key>
+		<string>moneyf-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank draft</string>
+		<key>german</key>
+		<string>die Bankratte</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-44</string>
+		<key>german-sound</key>
+		<string>moneyf-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank loan</string>
+		<key>german</key>
+		<string>das Bankdarlehen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-45</string>
+		<key>german-sound</key>
+		<string>moneyf-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank rate</string>
+		<key>german</key>
+		<string>der Diskontsatz</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-46</string>
+		<key>german-sound</key>
+		<string>moneyf-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank statement</string>
+		<key>german</key>
+		<string>der Bankauszug</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-47</string>
+		<key>german-sound</key>
+		<string>moneyf-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bank transfer</string>
+		<key>german</key>
+		<string>die Banküberweisung</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-48</string>
+		<key>german-sound</key>
+		<string>moneyf-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Credit balance</string>
+		<key>german</key>
+		<string>das Guthaben</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-49</string>
+		<key>german-sound</key>
+		<string>moneyf-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Debit</string>
+		<key>german</key>
+		<string>das Soll</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-50</string>
+		<key>german-sound</key>
+		<string>moneyf-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Deposit</string>
+		<key>german</key>
+		<string>die Einzahlung</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-51</string>
+		<key>german-sound</key>
+		<string>moneyf-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Direct debit</string>
+		<key>german</key>
+		<string>die Abbuchung</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-52</string>
+		<key>german-sound</key>
+		<string>moneyf-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Exchange Bureau</string>
+		<key>german</key>
+		<string>die Wechselstube</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-53</string>
+		<key>german-sound</key>
+		<string>moneyf-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Exchange rate</string>
+		<key>german</key>
+		<string>der Wechselkurs</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-54</string>
+		<key>german-sound</key>
+		<string>moneyf-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Fixed rate</string>
+		<key>german</key>
+		<string>die feste Rate</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-55</string>
+		<key>german-sound</key>
+		<string>moneyf-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Interest rate</string>
+		<key>german</key>
+		<string>der Zinssatz</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-56</string>
+		<key>german-sound</key>
+		<string>moneyf-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Joint account</string>
+		<key>german</key>
+		<string>das gemeinsames Konto</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-57</string>
+		<key>german-sound</key>
+		<string>moneyf-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Overdraft</string>
+		<key>german</key>
+		<string>die Kontoüberziehung</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-58</string>
+		<key>german-sound</key>
+		<string>moneyf-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Payment slip</string>
+		<key>german</key>
+		<string>der Einzahlungsschein</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-59</string>
+		<key>german-sound</key>
+		<string>moneyf-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Share</string>
+		<key>german</key>
+		<string>die Aktie</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-60</string>
+		<key>german-sound</key>
+		<string>moneyf-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Shareholder</string>
+		<key>german</key>
+		<string>der Aktieninhaber</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-61</string>
+		<key>german-sound</key>
+		<string>moneyf-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Standing order</string>
+		<key>german</key>
+		<string>der Dauerauftrag</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-62</string>
+		<key>german-sound</key>
+		<string>moneyf-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Take out a mortgage</string>
+		<key>german</key>
+		<string>eine Hypothek aufnehmen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-63</string>
+		<key>german-sound</key>
+		<string>moneyf-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>stock exchange</string>
+		<key>german</key>
+		<string>die Börse / die Effektenbörse</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-64</string>
+		<key>german-sound</key>
+		<string>moneyf-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to cash (a cheque)</string>
+		<key>german</key>
+		<string>einlösen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-65</string>
+		<key>german-sound</key>
+		<string>moneyf-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to exchange</string>
+		<key>german</key>
+		<string>umtauschen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-66</string>
+		<key>german-sound</key>
+		<string>moneyf-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to sign</string>
+		<key>german</key>
+		<string>unterschreiben</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-67</string>
+		<key>german-sound</key>
+		<string>moneyf-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to pay in / deposit</string>
+		<key>german</key>
+		<string>einzahlen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-68</string>
+		<key>german-sound</key>
+		<string>moneyf-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to open (an account)</string>
+		<key>german</key>
+		<string>eröffnen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-69</string>
+		<key>german-sound</key>
+		<string>moneyf-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like to open an account.</string>
+		<key>german</key>
+		<string>Ich möchte ein Konto eröffnen.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-70</string>
+		<key>german-sound</key>
+		<string>moneyf-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Please fill out this form.</string>
+		<key>german</key>
+		<string>Bitte füllen Sie dieses Formular aus.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-71</string>
+		<key>german-sound</key>
+		<string>moneyf-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Where is the ATM, please?</string>
+		<key>german</key>
+		<string>Wo ist das Geldautomat, bitte?</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-72</string>
+		<key>german-sound</key>
+		<string>moneyf-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Please insert your card.</string>
+		<key>german</key>
+		<string>Bitte geben Sie Ihre Karte ein.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-73</string>
+		<key>german-sound</key>
+		<string>moneyf-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Please enter your PIN.</string>
+		<key>german</key>
+		<string>Bitte geben Sie Ihre Geheimzahl ein.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-74</string>
+		<key>german-sound</key>
+		<string>moneyf-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Withdraw money</string>
+		<key>german</key>
+		<string>Geld abheben</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-75</string>
+		<key>german-sound</key>
+		<string>moneyf-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Deposit money</string>
+		<key>german</key>
+		<string>Geld einzahlen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-76</string>
+		<key>german-sound</key>
+		<string>moneyf-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Transfer money</string>
+		<key>german</key>
+		<string>Geld überweisen</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-77</string>
+		<key>german-sound</key>
+		<string>moneyf-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Print out the bank statement</string>
+		<key>german</key>
+		<string>Kontoauszug ausdrucken</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-78</string>
+		<key>german-sound</key>
+		<string>moneyf-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Please sign here.</string>
+		<key>german</key>
+		<string>Bitte unterschreiben Sie hier.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-79</string>
+		<key>german-sound</key>
+		<string>moneyf-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would you pay by cash or card?</string>
+		<key>german</key>
+		<string>Bezahlen Sie Bar oder mit Karte?</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-80</string>
+		<key>german-sound</key>
+		<string>moneyf-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am paying with cash.</string>
+		<key>german</key>
+		<string>Ich bezahle Bar.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-81</string>
+		<key>german-sound</key>
+		<string>moneyf-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am paying by debit card.</string>
+		<key>german</key>
+		<string>Ich bezahle mit der EC Karte.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-82</string>
+		<key>german-sound</key>
+		<string>moneyf-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am paying by credit card.</string>
+		<key>german</key>
+		<string>Ich bezahle mit der Kreditkarte.</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-83</string>
+		<key>german-sound</key>
+		<string>moneyf-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What is the bank code number?</string>
+		<key>german</key>
+		<string>Wie lautet die Bankleitzahl?</string>
+		<key>english-sound</key>
+		<string>moneyf-eng-84</string>
+		<key>german-sound</key>
+		<string>moneyf-german-84</string>
+	</dict>
+</array>

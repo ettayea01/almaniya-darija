@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>Hello!</string>
+		<key>german</key>
+		<string>Hallo!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-1</string>
+		<key>german-sound</key>
+		<string>greetings-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Hello! [used in northern Germany]</string>
+		<key>german</key>
+		<string>Moin Moin!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-2</string>
+		<key>german-sound</key>
+		<string>greetings-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are you? [informal]</string>
+		<key>german</key>
+		<string>Wie geht es dir?</string>
+		<key>english-sound</key>
+		<string>greetings-eng-3</string>
+		<key>german-sound</key>
+		<string>greetings-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How are you? [formal]</string>
+		<key>german</key>
+		<string>Wie geht es Ihnen?</string>
+		<key>english-sound</key>
+		<string>greetings-eng-4</string>
+		<key>german-sound</key>
+		<string>greetings-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am fine, thank you.</string>
+		<key>german</key>
+		<string>Mir geht es gut, Danke.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-5</string>
+		<key>german-sound</key>
+		<string>greetings-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good thank you.</string>
+		<key>german</key>
+		<string>Gut danke.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-6</string>
+		<key>german-sound</key>
+		<string>greetings-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>And you? [informal]</string>
+		<key>german</key>
+		<string>Und dir?</string>
+		<key>english-sound</key>
+		<string>greetings-eng-7</string>
+		<key>german-sound</key>
+		<string>greetings-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>And you? [formal]</string>
+		<key>german</key>
+		<string>Und Ihnen?</string>
+		<key>english-sound</key>
+		<string>greetings-eng-8</string>
+		<key>german-sound</key>
+		<string>greetings-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Goodbye! [formal]</string>
+		<key>german</key>
+		<string>Auf Wiedersehen!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-9</string>
+		<key>german-sound</key>
+		<string>greetings-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Goodbye! [informal]</string>
+		<key>german</key>
+		<string>Tschüss!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-10</string>
+		<key>german-sound</key>
+		<string>greetings-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Goodbye [on the telephone]</string>
+		<key>german</key>
+		<string>Auf Wiederhören</string>
+		<key>english-sound</key>
+		<string>greetings-eng-11</string>
+		<key>german-sound</key>
+		<string>greetings-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good morning</string>
+		<key>german</key>
+		<string>Guten Morgen</string>
+		<key>english-sound</key>
+		<string>greetings-eng-12</string>
+		<key>german-sound</key>
+		<string>greetings-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good day, Good afternoon</string>
+		<key>german</key>
+		<string>Guten Tag [Note: Germans don&apos;t normally say Good Afternoon]</string>
+		<key>english-sound</key>
+		<string>greetings-eng-13</string>
+		<key>german-sound</key>
+		<string>greetings-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good evening</string>
+		<key>german</key>
+		<string>Guten Abend</string>
+		<key>english-sound</key>
+		<string>greetings-eng-14</string>
+		<key>german-sound</key>
+		<string>greetings-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good night</string>
+		<key>german</key>
+		<string>Gute Nacht [only say if you&apos;re going to bed! Use &apos;Guten Abend&apos; until bedtime. Regardless of the hour]</string>
+		<key>english-sound</key>
+		<string>greetings-eng-15</string>
+		<key>german-sound</key>
+		<string>greetings-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>My name is...</string>
+		<key>german</key>
+		<string>Ich heiße... [Literally: I am called...]</string>
+		<key>english-sound</key>
+		<string>greetings-eng-16</string>
+		<key>german-sound</key>
+		<string>greetings-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What&apos;s up?</string>
+		<key>german</key>
+		<string>Was gibt&apos;s? [Literally: What gives it? / What does it give?]</string>
+		<key>english-sound</key>
+		<string>greetings-eng-17</string>
+		<key>german-sound</key>
+		<string>greetings-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>enjoy your meal!</string>
+		<key>german</key>
+		<string>Mahlzeit! / guten Appetit [A general purpose greeting, used around mealtimes]</string>
+		<key>english-sound</key>
+		<string>greetings-eng-18</string>
+		<key>german-sound</key>
+		<string>greetings-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Alright!</string>
+		<key>german</key>
+		<string>In Ordnung / Schon gut</string>
+		<key>english-sound</key>
+		<string>greetings-eng-19</string>
+		<key>german-sound</key>
+		<string>greetings-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have a nice evening!</string>
+		<key>german</key>
+		<string>schönen Feierabend!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-20</string>
+		<key>german-sound</key>
+		<string>greetings-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have a good weekend!</string>
+		<key>german</key>
+		<string>schönes Wochenende!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-21</string>
+		<key>german-sound</key>
+		<string>greetings-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>See you later</string>
+		<key>german</key>
+		<string>Bis spatter</string>
+		<key>english-sound</key>
+		<string>greetings-eng-22</string>
+		<key>german-sound</key>
+		<string>greetings-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>See you soon</string>
+		<key>german</key>
+		<string>Bis bald</string>
+		<key>english-sound</key>
+		<string>greetings-eng-23</string>
+		<key>german-sound</key>
+		<string>greetings-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>See you tomorrow</string>
+		<key>german</key>
+		<string>Bis morgen</string>
+		<key>english-sound</key>
+		<string>greetings-eng-24</string>
+		<key>german-sound</key>
+		<string>greetings-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How’s it going?</string>
+		<key>german</key>
+		<string>Wie geht’s?</string>
+		<key>english-sound</key>
+		<string>greetings-eng-25</string>
+		<key>german-sound</key>
+		<string>greetings-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m very well.</string>
+		<key>german</key>
+		<string>Es geht mir sehr gut.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-26</string>
+		<key>german-sound</key>
+		<string>greetings-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m rather well.</string>
+		<key>german</key>
+		<string>Ziemlich gut.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-27</string>
+		<key>german-sound</key>
+		<string>greetings-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Not bad.</string>
+		<key>german</key>
+		<string>Nicht schlecht.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-28</string>
+		<key>german-sound</key>
+		<string>greetings-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Much better.</string>
+		<key>german</key>
+		<string>Viel besser.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-29</string>
+		<key>german-sound</key>
+		<string>greetings-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Not well.</string>
+		<key>german</key>
+		<string>Nicht gut.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-30</string>
+		<key>german-sound</key>
+		<string>greetings-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Take care</string>
+		<key>german</key>
+		<string>Mach&apos;s gut</string>
+		<key>english-sound</key>
+		<string>greetings-eng-31</string>
+		<key>german-sound</key>
+		<string>greetings-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Have a great day</string>
+		<key>german</key>
+		<string>Schönen Tag</string>
+		<key>english-sound</key>
+		<string>greetings-eng-32</string>
+		<key>german-sound</key>
+		<string>greetings-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>be greeted [addressing one person]</string>
+		<key>german</key>
+		<string>Sei gegrüßt</string>
+		<key>english-sound</key>
+		<string>greetings-eng-33</string>
+		<key>german-sound</key>
+		<string>greetings-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>be greeted [addressing more than one person]</string>
+		<key>german</key>
+		<string>Seid gegrüßt</string>
+		<key>english-sound</key>
+		<string>greetings-eng-34</string>
+		<key>german-sound</key>
+		<string>greetings-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m fine.</string>
+		<key>german</key>
+		<string>Es geht mir gut.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-35</string>
+		<key>german-sound</key>
+		<string>greetings-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m so-so.</string>
+		<key>german</key>
+		<string>Es geht.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-36</string>
+		<key>german-sound</key>
+		<string>greetings-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m not doing well.</string>
+		<key>german</key>
+		<string>Es geht mir schlecht.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-37</string>
+		<key>german-sound</key>
+		<string>greetings-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I&apos;m doing better.</string>
+		<key>german</key>
+		<string>Es geht mir besser.</string>
+		<key>english-sound</key>
+		<string>greetings-eng-38</string>
+		<key>german-sound</key>
+		<string>greetings-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Hello! / Good day! [Literally:God&apos;s greetings, used predominantly in the South of Germany such as Bavaria and also in Austria]</string>
+		<key>german</key>
+		<string>Grüss Gott</string>
+		<key>english-sound</key>
+		<string>greetings-eng-39</string>
+		<key>german-sound</key>
+		<string>greetings-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Hello! [used in German speaking Switzerland]</string>
+		<key>german</key>
+		<string>Grützi!</string>
+		<key>english-sound</key>
+		<string>greetings-eng-40</string>
+		<key>german-sound</key>
+		<string>greetings-german-40</string>
+	</dict>
+</array>

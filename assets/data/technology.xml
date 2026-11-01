@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>technology</string>
+		<key>german</key>
+		<string>die Technologie</string>
+		<key>english-sound</key>
+		<string>technology-eng-1</string>
+		<key>german-sound</key>
+		<string>technology-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mobile phone</string>
+		<key>german</key>
+		<string>das Handy</string>
+		<key>english-sound</key>
+		<string>technology-eng-2</string>
+		<key>german-sound</key>
+		<string>technology-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>phone</string>
+		<key>german</key>
+		<string>das Telefon</string>
+		<key>english-sound</key>
+		<string>technology-eng-3</string>
+		<key>german-sound</key>
+		<string>technology-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>laptop</string>
+		<key>german</key>
+		<string>der Laptop</string>
+		<key>english-sound</key>
+		<string>technology-eng-4</string>
+		<key>german-sound</key>
+		<string>technology-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>computer</string>
+		<key>german</key>
+		<string>der Computer</string>
+		<key>english-sound</key>
+		<string>technology-eng-5</string>
+		<key>german-sound</key>
+		<string>technology-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>screen</string>
+		<key>german</key>
+		<string>der Bildschirm</string>
+		<key>english-sound</key>
+		<string>technology-eng-6</string>
+		<key>german-sound</key>
+		<string>technology-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>keyboard</string>
+		<key>german</key>
+		<string>die Tastatur</string>
+		<key>english-sound</key>
+		<string>technology-eng-7</string>
+		<key>german-sound</key>
+		<string>technology-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>mouse</string>
+		<key>german</key>
+		<string>die Maus</string>
+		<key>english-sound</key>
+		<string>technology-eng-8</string>
+		<key>german-sound</key>
+		<string>technology-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sound.</string>
+		<key>german</key>
+		<string>der Ton.</string>
+		<key>english-sound</key>
+		<string>technology-eng-9</string>
+		<key>german-sound</key>
+		<string>technology-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>network</string>
+		<key>german</key>
+		<string>das Netz</string>
+		<key>english-sound</key>
+		<string>technology-eng-10</string>
+		<key>german-sound</key>
+		<string>technology-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wifi</string>
+		<key>german</key>
+		<string>das WLAN</string>
+		<key>english-sound</key>
+		<string>technology-eng-11</string>
+		<key>german-sound</key>
+		<string>technology-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>internet</string>
+		<key>german</key>
+		<string>das Internet</string>
+		<key>english-sound</key>
+		<string>technology-eng-12</string>
+		<key>german-sound</key>
+		<string>technology-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>monitor</string>
+		<key>german</key>
+		<string>der Monitor</string>
+		<key>english-sound</key>
+		<string>technology-eng-13</string>
+		<key>german-sound</key>
+		<string>technology-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>hard drive</string>
+		<key>german</key>
+		<string>die Festplatte</string>
+		<key>english-sound</key>
+		<string>technology-eng-14</string>
+		<key>german-sound</key>
+		<string>technology-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>processor</string>
+		<key>german</key>
+		<string>der Prozessor</string>
+		<key>english-sound</key>
+		<string>technology-eng-15</string>
+		<key>german-sound</key>
+		<string>technology-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>printer</string>
+		<key>german</key>
+		<string>der Drucker</string>
+		<key>english-sound</key>
+		<string>technology-eng-16</string>
+		<key>german-sound</key>
+		<string>technology-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>scanner</string>
+		<key>german</key>
+		<string>der Scanner</string>
+		<key>english-sound</key>
+		<string>technology-eng-17</string>
+		<key>german-sound</key>
+		<string>technology-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>ink cartridge</string>
+		<key>german</key>
+		<string>die Tintenpatrone</string>
+		<key>english-sound</key>
+		<string>technology-eng-18</string>
+		<key>german-sound</key>
+		<string>technology-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>USB cable</string>
+		<key>german</key>
+		<string>das USB-Kabel</string>
+		<key>english-sound</key>
+		<string>technology-eng-19</string>
+		<key>german-sound</key>
+		<string>technology-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>USB stick</string>
+		<key>german</key>
+		<string>der USB-Stick</string>
+		<key>english-sound</key>
+		<string>technology-eng-20</string>
+		<key>german-sound</key>
+		<string>technology-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>router</string>
+		<key>german</key>
+		<string>der Router</string>
+		<key>english-sound</key>
+		<string>technology-eng-21</string>
+		<key>german-sound</key>
+		<string>technology-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>joystick</string>
+		<key>german</key>
+		<string>der Joystick</string>
+		<key>english-sound</key>
+		<string>technology-eng-22</string>
+		<key>german-sound</key>
+		<string>technology-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>webcam</string>
+		<key>german</key>
+		<string>die Webcam</string>
+		<key>english-sound</key>
+		<string>technology-eng-23</string>
+		<key>german-sound</key>
+		<string>technology-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>CD</string>
+		<key>german</key>
+		<string>die CD</string>
+		<key>english-sound</key>
+		<string>technology-eng-24</string>
+		<key>german-sound</key>
+		<string>technology-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>e-mail</string>
+		<key>german</key>
+		<string>die E-Mail</string>
+		<key>english-sound</key>
+		<string>technology-eng-25</string>
+		<key>german-sound</key>
+		<string>technology-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>server</string>
+		<key>german</key>
+		<string>der Server</string>
+		<key>english-sound</key>
+		<string>technology-eng-26</string>
+		<key>german-sound</key>
+		<string>technology-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>microprocessor</string>
+		<key>german</key>
+		<string>der Mikroprozessor</string>
+		<key>english-sound</key>
+		<string>technology-eng-27</string>
+		<key>german-sound</key>
+		<string>technology-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>motherboard</string>
+		<key>german</key>
+		<string>die Hauptplatine</string>
+		<key>english-sound</key>
+		<string>technology-eng-28</string>
+		<key>german-sound</key>
+		<string>technology-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>RAM</string>
+		<key>german</key>
+		<string>der Arbeitsspeicher</string>
+		<key>english-sound</key>
+		<string>technology-eng-29</string>
+		<key>german-sound</key>
+		<string>technology-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>laptop battery</string>
+		<key>german</key>
+		<string>der Akku</string>
+		<key>english-sound</key>
+		<string>technology-eng-30</string>
+		<key>german-sound</key>
+		<string>technology-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>power supply</string>
+		<key>german</key>
+		<string>das Netzteil</string>
+		<key>english-sound</key>
+		<string>technology-eng-31</string>
+		<key>german-sound</key>
+		<string>technology-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>graphics card</string>
+		<key>german</key>
+		<string>die Grafikkarte</string>
+		<key>english-sound</key>
+		<string>technology-eng-32</string>
+		<key>german-sound</key>
+		<string>technology-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>sound card</string>
+		<key>german</key>
+		<string>die Soundkarte</string>
+		<key>english-sound</key>
+		<string>technology-eng-33</string>
+		<key>german-sound</key>
+		<string>technology-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>plug-in card</string>
+		<key>german</key>
+		<string>die Steckkarte</string>
+		<key>english-sound</key>
+		<string>technology-eng-34</string>
+		<key>german-sound</key>
+		<string>technology-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>network card</string>
+		<key>german</key>
+		<string>die Netzwerkkarte</string>
+		<key>english-sound</key>
+		<string>technology-eng-35</string>
+		<key>german-sound</key>
+		<string>technology-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>key</string>
+		<key>german</key>
+		<string>die Taste</string>
+		<key>english-sound</key>
+		<string>technology-eng-36</string>
+		<key>german-sound</key>
+		<string>technology-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>speaker</string>
+		<key>german</key>
+		<string>der Lautsprecher</string>
+		<key>english-sound</key>
+		<string>technology-eng-37</string>
+		<key>german-sound</key>
+		<string>technology-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>cursor</string>
+		<key>german</key>
+		<string>der Cursor / der Mauszeiger</string>
+		<key>english-sound</key>
+		<string>technology-eng-38</string>
+		<key>german-sound</key>
+		<string>technology-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>arrow</string>
+		<key>german</key>
+		<string>der Pfeil</string>
+		<key>english-sound</key>
+		<string>technology-eng-39</string>
+		<key>german-sound</key>
+		<string>technology-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>left mouse button</string>
+		<key>german</key>
+		<string>die linke Maustaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-40</string>
+		<key>german-sound</key>
+		<string>technology-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>right mouse button</string>
+		<key>german</key>
+		<string>die rechte Maustaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-41</string>
+		<key>german-sound</key>
+		<string>technology-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>file</string>
+		<key>german</key>
+		<string>die Datei</string>
+		<key>english-sound</key>
+		<string>technology-eng-42</string>
+		<key>german-sound</key>
+		<string>technology-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>directory</string>
+		<key>german</key>
+		<string>das Verzeichnis</string>
+		<key>english-sound</key>
+		<string>technology-eng-43</string>
+		<key>german-sound</key>
+		<string>technology-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>folder</string>
+		<key>german</key>
+		<string>der Ordner</string>
+		<key>english-sound</key>
+		<string>technology-eng-44</string>
+		<key>german-sound</key>
+		<string>technology-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>button</string>
+		<key>german</key>
+		<string>der Knopf</string>
+		<key>english-sound</key>
+		<string>technology-eng-45</string>
+		<key>german-sound</key>
+		<string>technology-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>browser</string>
+		<key>german</key>
+		<string>der Browser</string>
+		<key>english-sound</key>
+		<string>technology-eng-46</string>
+		<key>german-sound</key>
+		<string>technology-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>double-click</string>
+		<key>german</key>
+		<string>der Doppelklick</string>
+		<key>english-sound</key>
+		<string>technology-eng-47</string>
+		<key>german-sound</key>
+		<string>technology-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>back-up copy</string>
+		<key>german</key>
+		<string>die Sicherheitskopie</string>
+		<key>english-sound</key>
+		<string>technology-eng-48</string>
+		<key>german-sound</key>
+		<string>technology-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>connection</string>
+		<key>german</key>
+		<string>der Anschluss</string>
+		<key>english-sound</key>
+		<string>technology-eng-49</string>
+		<key>german-sound</key>
+		<string>technology-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>bandwidth</string>
+		<key>german</key>
+		<string>die Bandbreite</string>
+		<key>english-sound</key>
+		<string>technology-eng-50</string>
+		<key>german-sound</key>
+		<string>technology-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>shift (key)</string>
+		<key>german</key>
+		<string>die Umschalttaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-51</string>
+		<key>german-sound</key>
+		<string>technology-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Windows button</string>
+		<key>german</key>
+		<string>die Windowstaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-52</string>
+		<key>german-sound</key>
+		<string>technology-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>control key</string>
+		<key>german</key>
+		<string>die Steuerung-Taste</string>
+		<key>english-sound</key>
+		<string>technology-eng-53</string>
+		<key>german-sound</key>
+		<string>technology-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Caps Lock Key</string>
+		<key>german</key>
+		<string>die Feststelltaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-54</string>
+		<key>german-sound</key>
+		<string>technology-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>delete key</string>
+		<key>german</key>
+		<string>die Entfernen-Taste</string>
+		<key>english-sound</key>
+		<string>technology-eng-55</string>
+		<key>german-sound</key>
+		<string>technology-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>escape button</string>
+		<key>german</key>
+		<string>die Escape-Taste</string>
+		<key>english-sound</key>
+		<string>technology-eng-56</string>
+		<key>german-sound</key>
+		<string>technology-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>backspace</string>
+		<key>german</key>
+		<string>die Löschtaste</string>
+		<key>english-sound</key>
+		<string>technology-eng-57</string>
+		<key>german-sound</key>
+		<string>technology-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>tab</string>
+		<key>german</key>
+		<string>der Tabulator</string>
+		<key>english-sound</key>
+		<string>technology-eng-58</string>
+		<key>german-sound</key>
+		<string>technology-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>device</string>
+		<key>german</key>
+		<string>das Gerät</string>
+		<key>english-sound</key>
+		<string>technology-eng-59</string>
+		<key>german-sound</key>
+		<string>technology-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>user</string>
+		<key>german</key>
+		<string>der Benutzer / der Anwender</string>
+		<key>english-sound</key>
+		<string>technology-eng-60</string>
+		<key>german-sound</key>
+		<string>technology-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>password</string>
+		<key>german</key>
+		<string>das Passwort / das Kennwort</string>
+		<key>english-sound</key>
+		<string>technology-eng-61</string>
+		<key>german-sound</key>
+		<string>technology-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>manual</string>
+		<key>german</key>
+		<string>die Anleitung</string>
+		<key>english-sound</key>
+		<string>technology-eng-62</string>
+		<key>german-sound</key>
+		<string>technology-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>brightness</string>
+		<key>german</key>
+		<string>die Helligkeit</string>
+		<key>english-sound</key>
+		<string>technology-eng-63</string>
+		<key>german-sound</key>
+		<string>technology-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>website</string>
+		<key>german</key>
+		<string>die Webseite</string>
+		<key>english-sound</key>
+		<string>technology-eng-64</string>
+		<key>german-sound</key>
+		<string>technology-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>virus</string>
+		<key>german</key>
+		<string>der Virus</string>
+		<key>english-sound</key>
+		<string>technology-eng-65</string>
+		<key>german-sound</key>
+		<string>technology-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>toolbar</string>
+		<key>german</key>
+		<string>die Toolleiste</string>
+		<key>english-sound</key>
+		<string>technology-eng-66</string>
+		<key>german-sound</key>
+		<string>technology-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>operating system</string>
+		<key>german</key>
+		<string>das Betriebssystem</string>
+		<key>english-sound</key>
+		<string>technology-eng-67</string>
+		<key>german-sound</key>
+		<string>technology-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>programmer</string>
+		<key>german</key>
+		<string>der Entwickler</string>
+		<key>english-sound</key>
+		<string>technology-eng-68</string>
+		<key>german-sound</key>
+		<string>technology-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>computer code</string>
+		<key>german</key>
+		<string>die Maschinensprache</string>
+		<key>english-sound</key>
+		<string>technology-eng-69</string>
+		<key>german-sound</key>
+		<string>technology-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>source code</string>
+		<key>german</key>
+		<string>der Quellkode</string>
+		<key>english-sound</key>
+		<string>technology-eng-70</string>
+		<key>german-sound</key>
+		<string>technology-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to click on</string>
+		<key>german</key>
+		<string>anklicken auf</string>
+		<key>english-sound</key>
+		<string>technology-eng-71</string>
+		<key>german-sound</key>
+		<string>technology-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to cancel</string>
+		<key>german</key>
+		<string>abbrechen</string>
+		<key>english-sound</key>
+		<string>technology-eng-72</string>
+		<key>german-sound</key>
+		<string>technology-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to refresh / to update</string>
+		<key>german</key>
+		<string>aktualisieren</string>
+		<key>english-sound</key>
+		<string>technology-eng-73</string>
+		<key>german-sound</key>
+		<string>technology-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to connect</string>
+		<key>german</key>
+		<string>anschließen</string>
+		<key>english-sound</key>
+		<string>technology-eng-74</string>
+		<key>german-sound</key>
+		<string>technology-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to select</string>
+		<key>german</key>
+		<string>auswählen</string>
+		<key>english-sound</key>
+		<string>technology-eng-75</string>
+		<key>german-sound</key>
+		<string>technology-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to browse</string>
+		<key>german</key>
+		<string>durchsuchen</string>
+		<key>english-sound</key>
+		<string>technology-eng-76</string>
+		<key>german-sound</key>
+		<string>technology-german-76</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to download</string>
+		<key>german</key>
+		<string>herunterladen</string>
+		<key>english-sound</key>
+		<string>technology-eng-77</string>
+		<key>german-sound</key>
+		<string>technology-german-77</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to delete</string>
+		<key>german</key>
+		<string>löschen</string>
+		<key>english-sound</key>
+		<string>technology-eng-78</string>
+		<key>german-sound</key>
+		<string>technology-german-78</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to open</string>
+		<key>german</key>
+		<string>öffen</string>
+		<key>english-sound</key>
+		<string>technology-eng-79</string>
+		<key>german-sound</key>
+		<string>technology-german-79</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to close</string>
+		<key>german</key>
+		<string>schließen</string>
+		<key>english-sound</key>
+		<string>technology-eng-80</string>
+		<key>german-sound</key>
+		<string>technology-german-80</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to surf</string>
+		<key>german</key>
+		<string>surfen</string>
+		<key>english-sound</key>
+		<string>technology-eng-81</string>
+		<key>german-sound</key>
+		<string>technology-german-81</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>world wide Internet</string>
+		<key>german</key>
+		<string>weltweites Internet</string>
+		<key>english-sound</key>
+		<string>technology-eng-82</string>
+		<key>german-sound</key>
+		<string>technology-german-82</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>search for an ant</string>
+		<key>german</key>
+		<string>nach einer Ameise suchen</string>
+		<key>english-sound</key>
+		<string>technology-eng-83</string>
+		<key>german-sound</key>
+		<string>technology-german-83</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>social media</string>
+		<key>german</key>
+		<string>die soziale Medien</string>
+		<key>english-sound</key>
+		<string>technology-eng-84</string>
+		<key>german-sound</key>
+		<string>technology-german-84</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Twitter</string>
+		<key>german</key>
+		<string>twittern</string>
+		<key>english-sound</key>
+		<string>technology-eng-85</string>
+		<key>german-sound</key>
+		<string>technology-german-85</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Instagram</string>
+		<key>german</key>
+		<string>Instagram</string>
+		<key>english-sound</key>
+		<string>technology-eng-86</string>
+		<key>german-sound</key>
+		<string>technology-german-86</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Google</string>
+		<key>german</key>
+		<string>Google</string>
+		<key>english-sound</key>
+		<string>technology-eng-87</string>
+		<key>german-sound</key>
+		<string>technology-german-87</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What&apos;s your favorite website?</string>
+		<key>german</key>
+		<string>Was ist deine Lieblings-Webseite?</string>
+		<key>english-sound</key>
+		<string>technology-eng-88</string>
+		<key>german-sound</key>
+		<string>technology-german-88</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Are you on Facebook?</string>
+		<key>german</key>
+		<string>Bist du bei Facebook?</string>
+		<key>english-sound</key>
+		<string>technology-eng-89</string>
+		<key>german-sound</key>
+		<string>technology-german-89</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can you download this file?</string>
+		<key>german</key>
+		<string>Können Sie diese Datei herunterladen?</string>
+		<key>english-sound</key>
+		<string>technology-eng-90</string>
+		<key>german-sound</key>
+		<string>technology-german-90</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The hard drive is broken.</string>
+		<key>german</key>
+		<string>Die Festplatte ist kaputt.</string>
+		<key>english-sound</key>
+		<string>technology-eng-91</string>
+		<key>german-sound</key>
+		<string>technology-german-91</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The USB cable is too short.</string>
+		<key>german</key>
+		<string>Das USB-Kabel ist zu kurz.</string>
+		<key>english-sound</key>
+		<string>technology-eng-92</string>
+		<key>german-sound</key>
+		<string>technology-german-92</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to repair</string>
+		<key>german</key>
+		<string>Reparieren</string>
+		<key>english-sound</key>
+		<string>technology-eng-93</string>
+		<key>german-sound</key>
+		<string>technology-german-93</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to turn on</string>
+		<key>german</key>
+		<string>Anschalten</string>
+		<key>english-sound</key>
+		<string>technology-eng-94</string>
+		<key>german-sound</key>
+		<string>technology-german-94</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>to turn off</string>
+		<key>german</key>
+		<string>Ausschalten</string>
+		<key>english-sound</key>
+		<string>technology-eng-95</string>
+		<key>german-sound</key>
+		<string>technology-german-95</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>my laptop is broken</string>
+		<key>german</key>
+		<string>Mein Laptop ist kaputt</string>
+		<key>english-sound</key>
+		<string>technology-eng-96</string>
+		<key>german-sound</key>
+		<string>technology-german-96</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Can one repair it?</string>
+		<key>german</key>
+		<string>Kann man es reparieren?</string>
+		<key>english-sound</key>
+		<string>technology-eng-97</string>
+		<key>german-sound</key>
+		<string>technology-german-97</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How long will it take?</string>
+		<key>german</key>
+		<string>Wie lange dauert es?</string>
+		<key>english-sound</key>
+		<string>technology-eng-98</string>
+		<key>german-sound</key>
+		<string>technology-german-98</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How much does it cost?</string>
+		<key>german</key>
+		<string>Wie viel kostet es?</string>
+		<key>english-sound</key>
+		<string>technology-eng-99</string>
+		<key>german-sound</key>
+		<string>technology-german-99</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>send me an email.</string>
+		<key>german</key>
+		<string>Schick mir eine E-mail.</string>
+		<key>english-sound</key>
+		<string>technology-eng-100</string>
+		<key>german-sound</key>
+		<string>technology-german-100</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Check your inbox.</string>
+		<key>german</key>
+		<string>Überprüfe deinen Posteingang.</string>
+		<key>english-sound</key>
+		<string>technology-eng-101</string>
+		<key>german-sound</key>
+		<string>technology-german-101</string>
+	</dict>
+</array>

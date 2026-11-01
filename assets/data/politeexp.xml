@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>Thank you</string>
+		<key>german</key>
+		<string>danke</string>
+		<key>english-sound</key>
+		<string>pe-eng-1</string>
+		<key>german-sound</key>
+		<string>pe-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You’re welcome</string>
+		<key>german</key>
+		<string>Bitte! / Bitte schön</string>
+		<key>english-sound</key>
+		<string>pe-eng-2</string>
+		<key>german-sound</key>
+		<string>pe-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>No problem</string>
+		<key>german</key>
+		<string>Kein problem</string>
+		<key>english-sound</key>
+		<string>pe-eng-3</string>
+		<key>german-sound</key>
+		<string>pe-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>yes</string>
+		<key>german</key>
+		<string>ja</string>
+		<key>english-sound</key>
+		<string>pe-eng-4</string>
+		<key>german-sound</key>
+		<string>pe-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>no</string>
+		<key>german</key>
+		<string>nein</string>
+		<key>english-sound</key>
+		<string>pe-eng-5</string>
+		<key>german-sound</key>
+		<string>pe-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>please</string>
+		<key>german</key>
+		<string>bitte</string>
+		<key>english-sound</key>
+		<string>pe-eng-6</string>
+		<key>german-sound</key>
+		<string>pe-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I’m sorry</string>
+		<key>german</key>
+		<string>Es tut mir leid</string>
+		<key>english-sound</key>
+		<string>pe-eng-7</string>
+		<key>german-sound</key>
+		<string>pe-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Forgive me</string>
+		<key>german</key>
+		<string>Verzeihen Sie</string>
+		<key>english-sound</key>
+		<string>pe-eng-8</string>
+		<key>german-sound</key>
+		<string>pe-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Excuse me!</string>
+		<key>german</key>
+		<string>Entschuldigen Sie</string>
+		<key>english-sound</key>
+		<string>pe-eng-9</string>
+		<key>german-sound</key>
+		<string>pe-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>of course</string>
+		<key>german</key>
+		<string>natürlich</string>
+		<key>english-sound</key>
+		<string>pe-eng-10</string>
+		<key>german-sound</key>
+		<string>pe-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>correct</string>
+		<key>german</key>
+		<string>richtig</string>
+		<key>english-sound</key>
+		<string>pe-eng-11</string>
+		<key>german-sound</key>
+		<string>pe-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thank you very much. / Many thanks!</string>
+		<key>german</key>
+		<string>Vielen Dank.</string>
+		<key>english-sound</key>
+		<string>pe-eng-12</string>
+		<key>german-sound</key>
+		<string>pe-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>No, thank you.</string>
+		<key>german</key>
+		<string>Nein, danke.</string>
+		<key>english-sound</key>
+		<string>pe-eng-13</string>
+		<key>german-sound</key>
+		<string>pe-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Please excuse me.</string>
+		<key>german</key>
+		<string>Bitte entschuldigen Sie mich.</string>
+		<key>english-sound</key>
+		<string>pe-eng-14</string>
+		<key>german-sound</key>
+		<string>pe-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>For what?</string>
+		<key>german</key>
+		<string>Wofür?</string>
+		<key>english-sound</key>
+		<string>pe-eng-15</string>
+		<key>german-sound</key>
+		<string>pe-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Perhaps.</string>
+		<key>german</key>
+		<string>Vielleicht.</string>
+		<key>english-sound</key>
+		<string>pe-eng-16</string>
+		<key>german-sound</key>
+		<string>pe-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would you mind?</string>
+		<key>german</key>
+		<string>Würden Sie bitte?</string>
+		<key>english-sound</key>
+		<string>pe-eng-17</string>
+		<key>german-sound</key>
+		<string>pe-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>No, of course not.</string>
+		<key>german</key>
+		<string>Nein, natürlich nicht</string>
+		<key>english-sound</key>
+		<string>pe-eng-18</string>
+		<key>german-sound</key>
+		<string>pe-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>After you</string>
+		<key>german</key>
+		<string>Nach dir</string>
+		<key>english-sound</key>
+		<string>pe-eng-19</string>
+		<key>german-sound</key>
+		<string>pe-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>After you, sir.</string>
+		<key>german</key>
+		<string>Nach dir, Herr.</string>
+		<key>english-sound</key>
+		<string>pe-eng-20</string>
+		<key>german-sound</key>
+		<string>pe-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yes, I will.</string>
+		<key>german</key>
+		<string>Ja, ich will.</string>
+		<key>english-sound</key>
+		<string>pe-eng-21</string>
+		<key>german-sound</key>
+		<string>pe-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I need some help.</string>
+		<key>german</key>
+		<string>Ich brauche Hilfe.</string>
+		<key>english-sound</key>
+		<string>pe-eng-22</string>
+		<key>german-sound</key>
+		<string>pe-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What can I do for you?</string>
+		<key>german</key>
+		<string>Was kann ich für dich tun?</string>
+		<key>english-sound</key>
+		<string>pe-eng-23</string>
+		<key>german-sound</key>
+		<string>pe-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thank you for the coffee.</string>
+		<key>german</key>
+		<string>Danke für den Kaffee.</string>
+		<key>english-sound</key>
+		<string>pe-eng-24</string>
+		<key>german-sound</key>
+		<string>pe-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Oh yes, correct!</string>
+		<key>german</key>
+		<string>ach ja, richtig!</string>
+		<key>english-sound</key>
+		<string>pe-eng-25</string>
+		<key>german-sound</key>
+		<string>pe-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I come from…</string>
+		<key>german</key>
+		<string>Ich komme aus…</string>
+		<key>english-sound</key>
+		<string>pe-eng-26</string>
+		<key>german-sound</key>
+		<string>pe-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I don’t understand.</string>
+		<key>german</key>
+		<string>Ich verstehe nicht</string>
+		<key>english-sound</key>
+		<string>pe-eng-27</string>
+		<key>german-sound</key>
+		<string>pe-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I would like to have…</string>
+		<key>german</key>
+		<string>Ich hatte gern…</string>
+		<key>english-sound</key>
+		<string>pe-eng-28</string>
+		<key>german-sound</key>
+		<string>pe-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Would you have…?</string>
+		<key>german</key>
+		<string>Hättest du…?</string>
+		<key>english-sound</key>
+		<string>pe-eng-29</string>
+		<key>german-sound</key>
+		<string>pe-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Could you please…?</string>
+		<key>german</key>
+		<string>Könnten Sie bitte…?</string>
+		<key>english-sound</key>
+		<string>pe-eng-30</string>
+		<key>german-sound</key>
+		<string>pe-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yes, of course!</string>
+		<key>german</key>
+		<string>Ja gerne!</string>
+		<key>english-sound</key>
+		<string>pe-eng-31</string>
+		<key>german-sound</key>
+		<string>pe-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yes, please</string>
+		<key>german</key>
+		<string>Ja, bitte</string>
+		<key>english-sound</key>
+		<string>pe-eng-32</string>
+		<key>german-sound</key>
+		<string>pe-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Here is</string>
+		<key>german</key>
+		<string>Hier ist</string>
+		<key>english-sound</key>
+		<string>pe-eng-33</string>
+		<key>german-sound</key>
+		<string>pe-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Here are</string>
+		<key>german</key>
+		<string>Hier sind</string>
+		<key>english-sound</key>
+		<string>pe-eng-34</string>
+		<key>german-sound</key>
+		<string>pe-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Very well, thanks</string>
+		<key>german</key>
+		<string>Danke, gut</string>
+		<key>english-sound</key>
+		<string>pe-eng-35</string>
+		<key>german-sound</key>
+		<string>pe-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Pardon me!</string>
+		<key>german</key>
+		<string>Entschuldigung!</string>
+		<key>english-sound</key>
+		<string>pe-eng-36</string>
+		<key>german-sound</key>
+		<string>pe-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like it</string>
+		<key>german</key>
+		<string>ich mag das</string>
+		<key>english-sound</key>
+		<string>pe-eng-37</string>
+		<key>german-sound</key>
+		<string>pe-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I don&apos;t like it</string>
+		<key>german</key>
+		<string>Ich mag es nicht</string>
+		<key>english-sound</key>
+		<string>pe-eng-38</string>
+		<key>german-sound</key>
+		<string>pe-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>OK</string>
+		<key>german</key>
+		<string>In Ordnung</string>
+		<key>english-sound</key>
+		<string>pe-eng-39</string>
+		<key>german-sound</key>
+		<string>pe-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Agreed</string>
+		<key>german</key>
+		<string>Einverstanden</string>
+		<key>english-sound</key>
+		<string>pe-eng-40</string>
+		<key>german-sound</key>
+		<string>pe-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>That&apos;s fine</string>
+		<key>german</key>
+		<string>Das ist gut</string>
+		<key>english-sound</key>
+		<string>pe-eng-41</string>
+		<key>german-sound</key>
+		<string>pe-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I want...</string>
+		<key>german</key>
+		<string>Ich möchte...</string>
+		<key>english-sound</key>
+		<string>pe-eng-42</string>
+		<key>german-sound</key>
+		<string>pe-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We want...</string>
+		<key>german</key>
+		<string>Wir wollen...</string>
+		<key>english-sound</key>
+		<string>pe-eng-43</string>
+		<key>german-sound</key>
+		<string>pe-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am...</string>
+		<key>german</key>
+		<string>Ich bin...</string>
+		<key>english-sound</key>
+		<string>pe-eng-44</string>
+		<key>german-sound</key>
+		<string>pe-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We are...</string>
+		<key>german</key>
+		<string>Wir sind...</string>
+		<key>english-sound</key>
+		<string>pe-eng-45</string>
+		<key>german-sound</key>
+		<string>pe-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I have...</string>
+		<key>german</key>
+		<string>Ich habe...</string>
+		<key>english-sound</key>
+		<string>pe-eng-46</string>
+		<key>german-sound</key>
+		<string>pe-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>We have...</string>
+		<key>german</key>
+		<string>Wir haben...</string>
+		<key>english-sound</key>
+		<string>pe-eng-47</string>
+		<key>german-sound</key>
+		<string>pe-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good luck</string>
+		<key>german</key>
+		<string>Viel Glück</string>
+		<key>english-sound</key>
+		<string>pe-eng-48</string>
+		<key>german-sound</key>
+		<string>pe-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thanks a million.</string>
+		<key>german</key>
+		<string>Tausend Dank.</string>
+		<key>english-sound</key>
+		<string>pe-eng-49</string>
+		<key>german-sound</key>
+		<string>pe-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Come on!</string>
+		<key>german</key>
+		<string>Los!</string>
+		<key>english-sound</key>
+		<string>pe-eng-50</string>
+		<key>german-sound</key>
+		<string>pe-german-50</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Come in</string>
+		<key>german</key>
+		<string>Herein</string>
+		<key>english-sound</key>
+		<string>pe-eng-51</string>
+		<key>german-sound</key>
+		<string>pe-german-51</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Maybe</string>
+		<key>german</key>
+		<string>Könnte sein</string>
+		<key>english-sound</key>
+		<string>pe-eng-52</string>
+		<key>german-sound</key>
+		<string>pe-german-52</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I hope so.</string>
+		<key>german</key>
+		<string>Hoffentlich.</string>
+		<key>english-sound</key>
+		<string>pe-eng-53</string>
+		<key>german-sound</key>
+		<string>pe-german-53</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Who knows.</string>
+		<key>german</key>
+		<string>Wer weiß.</string>
+		<key>english-sound</key>
+		<string>pe-eng-54</string>
+		<key>german-sound</key>
+		<string>pe-german-54</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Why not?</string>
+		<key>german</key>
+		<string>Warum nicht?</string>
+		<key>english-sound</key>
+		<string>pe-eng-55</string>
+		<key>german-sound</key>
+		<string>pe-german-55</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It&apos;s true.</string>
+		<key>german</key>
+		<string>Das ist wahr.</string>
+		<key>english-sound</key>
+		<string>pe-eng-56</string>
+		<key>german-sound</key>
+		<string>pe-german-56</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Definitely</string>
+		<key>german</key>
+		<string>Bestimmt</string>
+		<key>english-sound</key>
+		<string>pe-eng-57</string>
+		<key>german-sound</key>
+		<string>pe-german-57</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good Idea</string>
+		<key>german</key>
+		<string>Gute Idee</string>
+		<key>english-sound</key>
+		<string>pe-eng-58</string>
+		<key>german-sound</key>
+		<string>pe-german-58</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Let me introduce you to ...</string>
+		<key>german</key>
+		<string>Lass mich dich vorstellen ...</string>
+		<key>english-sound</key>
+		<string>pe-eng-59</string>
+		<key>german-sound</key>
+		<string>pe-german-59</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Enjoy your meal</string>
+		<key>german</key>
+		<string>Guten Appetit</string>
+		<key>english-sound</key>
+		<string>pe-eng-60</string>
+		<key>german-sound</key>
+		<string>pe-german-60</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Delicious</string>
+		<key>german</key>
+		<string>Köstlich</string>
+		<key>english-sound</key>
+		<string>pe-eng-61</string>
+		<key>german-sound</key>
+		<string>pe-german-61</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yummy!</string>
+		<key>german</key>
+		<string>Lecker!</string>
+		<key>english-sound</key>
+		<string>pe-eng-62</string>
+		<key>german-sound</key>
+		<string>pe-german-62</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Well!</string>
+		<key>german</key>
+		<string>Nun!</string>
+		<key>english-sound</key>
+		<string>pe-eng-63</string>
+		<key>german-sound</key>
+		<string>pe-german-63</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>so-so</string>
+		<key>german</key>
+		<string>soso / so la la</string>
+		<key>english-sound</key>
+		<string>pe-eng-64</string>
+		<key>german-sound</key>
+		<string>pe-german-64</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>it&apos;s alright</string>
+		<key>german</key>
+		<string>es ist in Ordnung</string>
+		<key>english-sound</key>
+		<string>pe-eng-65</string>
+		<key>german-sound</key>
+		<string>pe-german-65</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Repeat please.</string>
+		<key>german</key>
+		<string>Bitte wiederholen.</string>
+		<key>english-sound</key>
+		<string>pe-eng-66</string>
+		<key>german-sound</key>
+		<string>pe-german-66</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thank you for your patience.</string>
+		<key>german</key>
+		<string>Vielen Dank für Ihre Geduld.</string>
+		<key>english-sound</key>
+		<string>pe-eng-67</string>
+		<key>german-sound</key>
+		<string>pe-german-67</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thank you for your understanding.</string>
+		<key>german</key>
+		<string>Vielen Dank für Ihr Verständnis.</string>
+		<key>english-sound</key>
+		<string>pe-eng-68</string>
+		<key>german-sound</key>
+		<string>pe-german-68</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thanks for your call.</string>
+		<key>german</key>
+		<string>Vielen Dank für Ihren Anruf.</string>
+		<key>english-sound</key>
+		<string>pe-eng-69</string>
+		<key>german-sound</key>
+		<string>pe-german-69</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Dear Mrs.</string>
+		<key>german</key>
+		<string>Sehr geehrte Frau.</string>
+		<key>english-sound</key>
+		<string>pe-eng-70</string>
+		<key>german-sound</key>
+		<string>pe-german-70</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Dear Mr.</string>
+		<key>german</key>
+		<string>Sehr geehrter Herr.</string>
+		<key>english-sound</key>
+		<string>pe-eng-71</string>
+		<key>german-sound</key>
+		<string>pe-german-71</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Dear Sir and/or Madam,</string>
+		<key>german</key>
+		<string>Sehr geehrte Damen und Herren,</string>
+		<key>english-sound</key>
+		<string>pe-eng-72</string>
+		<key>german-sound</key>
+		<string>pe-german-72</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Thank you in advance.</string>
+		<key>german</key>
+		<string>Vielen Dank im Voraus</string>
+		<key>english-sound</key>
+		<string>pe-eng-73</string>
+		<key>german-sound</key>
+		<string>pe-german-73</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Sincere regards.</string>
+		<key>german</key>
+		<string>Mit freundlichen Grüßen.</string>
+		<key>english-sound</key>
+		<string>pe-eng-74</string>
+		<key>german-sound</key>
+		<string>pe-german-74</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yours sincerely.</string>
+		<key>german</key>
+		<string>Mit freundlichem Gruß.</string>
+		<key>english-sound</key>
+		<string>pe-eng-75</string>
+		<key>german-sound</key>
+		<string>pe-german-75</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Could you repeat that please?</string>
+		<key>german</key>
+		<string>Könnten Sie das bitte wiederholen?</string>
+		<key>english-sound</key>
+		<string>pe-eng-76</string>
+		<key>german-sound</key>
+		<string>pe-german-76</string>
+	</dict>
+</array>

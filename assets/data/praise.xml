@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+	<dict>
+		<key>english</key>
+		<string>praise</string>
+		<key>german</key>
+		<string>das Lob</string>
+		<key>english-sound</key>
+		<string>praise-eng-1</string>
+		<key>german-sound</key>
+		<string>praise-german-1</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Bravo!</string>
+		<key>german</key>
+		<string>Bravo!</string>
+		<key>english-sound</key>
+		<string>praise-eng-2</string>
+		<key>german-sound</key>
+		<string>praise-german-2</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Excellent!</string>
+		<key>german</key>
+		<string>Ausgezeichnet!</string>
+		<key>english-sound</key>
+		<string>praise-eng-3</string>
+		<key>german-sound</key>
+		<string>praise-german-3</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Outstanding</string>
+		<key>german</key>
+		<string>Hervorragend</string>
+		<key>english-sound</key>
+		<string>praise-eng-4</string>
+		<key>german-sound</key>
+		<string>praise-german-4</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Fantastic!</string>
+		<key>german</key>
+		<string>Fantastisch!</string>
+		<key>english-sound</key>
+		<string>praise-eng-5</string>
+		<key>german-sound</key>
+		<string>praise-german-5</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Congratulations!</string>
+		<key>german</key>
+		<string>Herzliche Glückwünsche!</string>
+		<key>english-sound</key>
+		<string>praise-eng-6</string>
+		<key>german-sound</key>
+		<string>praise-german-6</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good job! / Well done!</string>
+		<key>german</key>
+		<string>Gut gemacht!</string>
+		<key>english-sound</key>
+		<string>praise-eng-7</string>
+		<key>german-sound</key>
+		<string>praise-german-7</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Well done team</string>
+		<key>german</key>
+		<string>Gut gemacht Team</string>
+		<key>english-sound</key>
+		<string>praise-eng-8</string>
+		<key>german-sound</key>
+		<string>praise-german-8</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Wonderful</string>
+		<key>german</key>
+		<string>Wunderbar</string>
+		<key>english-sound</key>
+		<string>praise-eng-9</string>
+		<key>german-sound</key>
+		<string>praise-german-9</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>How beautiful!</string>
+		<key>german</key>
+		<string>Wie hübsch!</string>
+		<key>english-sound</key>
+		<string>praise-eng-10</string>
+		<key>german-sound</key>
+		<string>praise-german-10</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You look beautiful</string>
+		<key>german</key>
+		<string>Du siehst wunderschön aus</string>
+		<key>english-sound</key>
+		<string>praise-eng-11</string>
+		<key>german-sound</key>
+		<string>praise-german-11</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are a good person</string>
+		<key>german</key>
+		<string>Du bist ein guter Mensch</string>
+		<key>english-sound</key>
+		<string>praise-eng-12</string>
+		<key>german-sound</key>
+		<string>praise-german-12</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You&apos;re hot</string>
+		<key>german</key>
+		<string>Du bist heiß</string>
+		<key>english-sound</key>
+		<string>praise-eng-13</string>
+		<key>german-sound</key>
+		<string>praise-german-13</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You&apos;re smart.</string>
+		<key>german</key>
+		<string>Du bist schlau.</string>
+		<key>english-sound</key>
+		<string>praise-eng-14</string>
+		<key>german-sound</key>
+		<string>praise-german-14</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Try it again</string>
+		<key>german</key>
+		<string>Versuche es noch einmal</string>
+		<key>english-sound</key>
+		<string>praise-eng-15</string>
+		<key>german-sound</key>
+		<string>praise-german-15</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Do not give up</string>
+		<key>german</key>
+		<string>Gib nicht auf</string>
+		<key>english-sound</key>
+		<string>praise-eng-16</string>
+		<key>german-sound</key>
+		<string>praise-german-16</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You look gorgeous</string>
+		<key>german</key>
+		<string>Du siehst wunderschön aus</string>
+		<key>english-sound</key>
+		<string>praise-eng-17</string>
+		<key>german-sound</key>
+		<string>praise-german-17</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are my friend</string>
+		<key>german</key>
+		<string>Du bist mein Freund</string>
+		<key>english-sound</key>
+		<string>praise-eng-18</string>
+		<key>german-sound</key>
+		<string>praise-german-18</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are a good friend</string>
+		<key>german</key>
+		<string>Du bist ein guter Freund</string>
+		<key>english-sound</key>
+		<string>praise-eng-19</string>
+		<key>german-sound</key>
+		<string>praise-german-19</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like your style</string>
+		<key>german</key>
+		<string>Ich mag deine Art</string>
+		<key>english-sound</key>
+		<string>praise-eng-20</string>
+		<key>german-sound</key>
+		<string>praise-german-20</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You&apos;re funny</string>
+		<key>german</key>
+		<string>Du bist lustig</string>
+		<key>english-sound</key>
+		<string>praise-eng-21</string>
+		<key>german-sound</key>
+		<string>praise-german-21</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I believe in you</string>
+		<key>german</key>
+		<string>ich glaube an dich</string>
+		<key>english-sound</key>
+		<string>praise-eng-22</string>
+		<key>german-sound</key>
+		<string>praise-german-22</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I am proud of you</string>
+		<key>german</key>
+		<string>ich bin stolz auf dich</string>
+		<key>english-sound</key>
+		<string>praise-eng-23</string>
+		<key>german-sound</key>
+		<string>praise-german-23</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like your smile</string>
+		<key>german</key>
+		<string>ich mag dein Lächeln</string>
+		<key>english-sound</key>
+		<string>praise-eng-24</string>
+		<key>german-sound</key>
+		<string>praise-german-24</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Very Good</string>
+		<key>german</key>
+		<string>Sehr gut</string>
+		<key>english-sound</key>
+		<string>praise-eng-25</string>
+		<key>german-sound</key>
+		<string>praise-german-25</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Good Luck!</string>
+		<key>german</key>
+		<string>Viel Glück!</string>
+		<key>english-sound</key>
+		<string>praise-eng-26</string>
+		<key>german-sound</key>
+		<string>praise-german-26</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>All the best!</string>
+		<key>german</key>
+		<string>Alles Gute!</string>
+		<key>english-sound</key>
+		<string>praise-eng-27</string>
+		<key>german-sound</key>
+		<string>praise-german-27</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You look great today</string>
+		<key>german</key>
+		<string>Du siehst heute toll aus</string>
+		<key>english-sound</key>
+		<string>praise-eng-28</string>
+		<key>german-sound</key>
+		<string>praise-german-28</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You are very beautiful</string>
+		<key>german</key>
+		<string>Du bist sehr schön</string>
+		<key>english-sound</key>
+		<string>praise-eng-29</string>
+		<key>german-sound</key>
+		<string>praise-german-29</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You look stunning!</string>
+		<key>german</key>
+		<string>Du siehst umwerfend aus!</string>
+		<key>english-sound</key>
+		<string>praise-eng-30</string>
+		<key>german-sound</key>
+		<string>praise-german-30</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Yellow suits you</string>
+		<key>german</key>
+		<string>Gelb steht dir</string>
+		<key>english-sound</key>
+		<string>praise-eng-31</string>
+		<key>german-sound</key>
+		<string>praise-german-31</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I love your smile</string>
+		<key>german</key>
+		<string>Ich liebe dein Lächeln</string>
+		<key>english-sound</key>
+		<string>praise-eng-32</string>
+		<key>german-sound</key>
+		<string>praise-german-32</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I like your shoes</string>
+		<key>german</key>
+		<string>Ich mag deine Schuhe</string>
+		<key>english-sound</key>
+		<string>praise-eng-33</string>
+		<key>german-sound</key>
+		<string>praise-german-33</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>What a lovely dog!</string>
+		<key>german</key>
+		<string>Was für ein schöner Hund!</string>
+		<key>english-sound</key>
+		<string>praise-eng-34</string>
+		<key>german-sound</key>
+		<string>praise-german-34</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>That tastes really good!</string>
+		<key>german</key>
+		<string>Das schmeckt wirklich gut!</string>
+		<key>english-sound</key>
+		<string>praise-eng-35</string>
+		<key>german-sound</key>
+		<string>praise-german-35</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>The food smells good.</string>
+		<key>german</key>
+		<string>Das Essen riecht gut.</string>
+		<key>english-sound</key>
+		<string>praise-eng-36</string>
+		<key>german-sound</key>
+		<string>praise-german-36</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>It was delicious!</string>
+		<key>german</key>
+		<string>Es war köstlich!</string>
+		<key>english-sound</key>
+		<string>praise-eng-37</string>
+		<key>german-sound</key>
+		<string>praise-german-37</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>You’re handsome</string>
+		<key>german</key>
+		<string>Du bist gutaussehend</string>
+		<key>english-sound</key>
+		<string>praise-eng-38</string>
+		<key>german-sound</key>
+		<string>praise-german-38</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Great job!</string>
+		<key>german</key>
+		<string>Großartige Arbeit!</string>
+		<key>english-sound</key>
+		<string>praise-eng-39</string>
+		<key>german-sound</key>
+		<string>praise-german-39</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>Your smile is beautiful</string>
+		<key>german</key>
+		<string>Dein Lächeln ist wunderschön</string>
+		<key>english-sound</key>
+		<string>praise-eng-40</string>
+		<key>german-sound</key>
+		<string>praise-german-40</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>I love your cooking</string>
+		<key>german</key>
+		<string>Ich liebe deine Kochkünste</string>
+		<key>english-sound</key>
+		<string>praise-eng-41</string>
+		<key>german-sound</key>
+		<string>praise-german-41</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>All right!</string>
+		<key>german</key>
+		<string>Alles klar!</string>
+		<key>english-sound</key>
+		<string>praise-eng-42</string>
+		<key>german-sound</key>
+		<string>praise-german-42</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>without doubt</string>
+		<key>german</key>
+		<string>zweifellos</string>
+		<key>english-sound</key>
+		<string>praise-eng-43</string>
+		<key>german-sound</key>
+		<string>praise-german-43</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>in my opinion</string>
+		<key>german</key>
+		<string>meiner Meinung nach</string>
+		<key>english-sound</key>
+		<string>praise-eng-44</string>
+		<key>german-sound</key>
+		<string>praise-german-44</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>not at all</string>
+		<key>german</key>
+		<string>überhaupt nicht</string>
+		<key>english-sound</key>
+		<string>praise-eng-45</string>
+		<key>german-sound</key>
+		<string>praise-german-45</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>don&apos;t mention it</string>
+		<key>german</key>
+		<string>nicht der Rede wert</string>
+		<key>english-sound</key>
+		<string>praise-eng-46</string>
+		<key>german-sound</key>
+		<string>praise-german-46</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>it&apos;s nothing</string>
+		<key>german</key>
+		<string>macht nichts</string>
+		<key>english-sound</key>
+		<string>praise-eng-47</string>
+		<key>german-sound</key>
+		<string>praise-german-47</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>of course</string>
+		<key>german</key>
+		<string>natürlich</string>
+		<key>english-sound</key>
+		<string>praise-eng-48</string>
+		<key>german-sound</key>
+		<string>praise-german-48</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>understood, agreed</string>
+		<key>german</key>
+		<string>einverstanden</string>
+		<key>english-sound</key>
+		<string>praise-eng-49</string>
+		<key>german-sound</key>
+		<string>praise-german-49</string>
+	</dict>
+	<dict>
+		<key>english</key>
+		<string>that&apos;s it (exactly)</string>
+		<key>german</key>
+		<string>stimmt (ganz genau)</string>
+		<key>english-sound</key>
+		<string>praise-eng-50</string>
+		<key>german-sound</key>
+		<string>praise-german-50</string>
+	</dict>
+</array>
